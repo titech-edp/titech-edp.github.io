@@ -60,6 +60,7 @@ title: 2016年度「エンジニアリングデザインプロジェクトB/C」
 - レポート
 - スライド
 - 動画
+- [デザイン思考の授業内容を読んでデザイン思考を3分で分かった気になれる(...はずがない) – 東京工業大学エンジニアリングデザインプロジェクト – Medium](https://medium.com/titech-eng-and-design/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E6%80%9D%E8%80%83%E3%81%AE%E6%8E%88%E6%A5%AD%E5%86%85%E5%AE%B9%E3%82%92%E8%AA%AD%E3%82%93%E3%81%A7%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E6%80%9D%E8%80%83%E3%82%923%E5%88%86%E3%81%A7%E5%88%86%E3%81%8B%E3%81%A3%E3%81%9F%E6%B0%97%E3%81%AB-%E3%81%AA%E3%82%8C%E3%82%8B%E3%81%AF%E3%81%9A%E3%81%8C%E3%81%AA%E3%81%84-f8ddf2bfd937#.52kaw9rn8)
 
 ## 8. 超絶NEXT（協力企業：デンソー）
 
@@ -82,6 +83,8 @@ title: 2016年度「エンジニアリングデザインプロジェクトB/C」
 - テーマ毎にブースを設置しての質疑: 14:00-15:00
 - テーマ希望調査表作成: 15:00-15:50
 
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftitech.cbec%2Fposts%2F497449620463923&width=500" width="500" height="752" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+
 ### 宿題
   - SlackとTrelloを使えるようにしておく
 
@@ -92,6 +95,8 @@ title: 2016年度「エンジニアリングデザインプロジェクトB/C」
 - インタビュー&ストーリーテリングレクチャー「薮の中」
 - 「EDP-B/C活動のガイドラインver.1」説明
 - ユーザーリサーチ計画策定
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftitech.cbec%2Fposts%2F499836070225278&width=500" width="500" height="714" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
 ### 宿題
   - ユーザーリサーチ（ユーザーインタビュー）
@@ -105,6 +110,8 @@ title: 2016年度「エンジニアリングデザインプロジェクトB/C」
   - KJ法（[▶スライド](https://www.slideshare.net/kdmsnr/edp-b-20161015-kj)）
   - CJM/POV/HMW（[▶スライド](https://www.slideshare.net/kdmsnr/edp-b-20161015-cjm-insight-hmw)）
 - 絵を描いてみる
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftitech.cbec%2Fposts%2F504944906381061&width=500" width="500" height="809" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
 ### 宿題
 
@@ -127,16 +134,14 @@ title: 2016年度「エンジニアリングデザインプロジェクトB/C」
   - 各グループ10分(+5分のフィードバック)
   - 発表内容:
     - 製品・サービスのプロトタイプ
-    - ユーザー体験シナリオ
-    - ビデオプロトタイプ
+      - プロトタイプ、ユーザー体験シナリオ、ビデオ
     - 製品・サービスの詳細説明
-      - 何の製品・サービス?
-      - ユーザーは誰?
-      - どのように機能?
-      - それで何がうれしいか?
-      - 機能・仕様の詳細(なぜその機能が必要なのか? + 実装が可能なのか)
-    - これまでのデザインプロセスの振り返り(直線的ではなく「ダンス」の跡を!)
+      - 何の製品・サービス?、ユーザーは誰?、どのように機能?、それで何がうれしいか?、- 機能・仕様の詳細(なぜその機能が必要なのか? + 実装が可能なのか)
+    - デザインプロセスの振り返り(直線的ではなく「ダンス」の跡を!)
       - ユーザリサーチの対象、インサイト、HMWなど
+
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftitech.cbec%2Fposts%2F511309965744555&width=500" width="500" height="866" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
 ### 宿題
 
@@ -145,15 +150,48 @@ title: 2016年度「エンジニアリングデザインプロジェクトB/C」
 
 ## 11/12（中間発表）
 
-## 12/10 
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftitech.cbec%2Fposts%2F516455151896703%3A0&width=500" width="500" height="561" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
-## 12/17
+## 12/10（土）
 
-## 1/7
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftitech.cbec%2Fposts%2F530603103815241&width=500" width="500" height="752" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
-## 1/21
+## 12/17（土）
 
-## 2/4
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftitech.cbec%2Fposts%2F530607780481440&width=500" width="500" height="714" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
-## 2/11（最終発表会）
+## 1/7（土）
 
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftitech.cbec%2Fposts%2F538107886398096&width=500" width="500" height="771" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+
+## 1/21（土）
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftitech.cbec%2Fposts%2F542996682575883&width=500" width="500" height="771" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+
+## 2/4（土）
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftitech.cbec%2Fposts%2F549526165256268&width=500" width="500" height="752" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+
+## 2/11（土）（最終発表会）
+
+```
+【エンジニアリングデザインプロジェクトB,C最終発表会】
+日時：2017年2月11日（土，祝）
+会場：百年記念館（大岡山正門入ってすぐ）
+当日スケジュール：
+10:30-11:30  懇談会（協力企業様） / 10:00-11:30 発表準備（学生）
+11:30-13:00  お昼休み（大岡山駅周辺にて各自適宜昼食）
+13:00-15:10  最終発表会プレゼンテーション（8チーム）
+15:10-15:50  最終発表会デモンストレーション
+15:50-16:15  各チームでの振返り
+16:15-17:45  情報交換会
+```
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftitech.cbec%2Fposts%2F551987585010126&width=500" width="500" height="676" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+
+- [歓喜と祝祭 – 東京工業大学エンジニアリングデザインプロジェクト – Medium](https://medium.com/titech-eng-and-design/%E6%AD%93%E5%96%9C%E3%81%A8%E7%A5%9D%E7%A5%AD-2ed04812be87#.e34i5clny)
+
+# その他情報源
+
+- [デザイン思考の授業で使われたアイスブレイク集 – 東京工業大学エンジニアリングデザインプロジェクト – Medium](https://medium.com/titech-eng-and-design/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E6%80%9D%E8%80%83%E3%81%A7%E4%BD%BF%E3%82%8F%E3%82%8C%E3%82%8B%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%96%E3%83%AC%E3%82%A4%E3%82%AF%E9%9B%86-954a9462f46d#.nje1e4ffr)
+- <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftitech.cbec%2Fposts%2F508895842652634&width=500" width="500" height="514" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
