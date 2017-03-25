@@ -195,8 +195,6 @@ title: 2016年度「エンジニアリングデザインプロジェクトB/C」
 
 ## 2/11（土）（最終発表会）
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftitech.cbec%2Fposts%2F551987585010126&width=500" width="500" height="676" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
-
 ```
 【エンジニアリングデザインプロジェクトB,C最終発表会】
 日時：2017年2月11日（土，祝）
@@ -212,7 +210,17 @@ title: 2016年度「エンジニアリングデザインプロジェクトB/C」
 
 - [歓喜と祝祭 – 東京工業大学エンジニアリングデザインプロジェクト – Medium](https://medium.com/titech-eng-and-design/%E6%AD%93%E5%96%9C%E3%81%A8%E7%A5%9D%E7%A5%AD-2ed04812be87#.e34i5clny)
 
-# その他の情報源
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftitech.cbec%2Fposts%2F551987585010126&width=500" width="500" height="676" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+
+
+# :bookmark: その他の情報源
 
 - [デザイン思考の授業で使われたアイスブレイク集 – 東京工業大学エンジニアリングデザインプロジェクト – Medium](https://medium.com/titech-eng-and-design/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E6%80%9D%E8%80%83%E3%81%A7%E4%BD%BF%E3%82%8F%E3%82%8C%E3%82%8B%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%96%E3%83%AC%E3%82%A4%E3%82%AF%E9%9B%86-954a9462f46d#.nje1e4ffr)
 - <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftitech.cbec%2Fposts%2F508895842652634&width=500" width="500" height="514" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+
+
+# :trophy: CBECコンペ（任意参加）
+
+最終発表会の1週間後に、東工大全学を対象としたCBECコンペが開催されました。EDPからも数チームが参加し、「ヒゲときどきメガネ」「給食当番」「ど辛」の3チームが入賞しました。
+
+- [「とにかく動くものを作る」東工大の学生技術コンペ、視覚障害者に音声で障害物を知らせるクラウド白杖が優勝：ITpro](http://itpro.nikkeibp.co.jp/atcl/news/17/022100552/)
