@@ -5,7 +5,7 @@ layout: default
 
 <div class="row">
 
-<div class="col-md-6">
+<div class="col-md-7">
 
 <h2>2017年度</h2>
 <ul>
@@ -32,7 +32,7 @@ layout: default
 
 </div>
 
-<div class="col-md-6">
+<div class="col-md-5">
 
 <div class="panel panel-default">
   <div class="panel-heading">ニュース</div>
