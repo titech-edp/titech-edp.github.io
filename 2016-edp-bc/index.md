@@ -7,7 +7,7 @@ title: 2016年度「エンジニアリングデザインプロジェクトB/C」
 
 ## 1. ヒゲときどきメガネ（協力企業：凸版印刷）
 
-テーマ：
+> テーマ：体力・身体能力が低下したシニアりんご農家の農作業体験(栽培・収穫・出荷など)を再デザインせよ
 
 - レポート
 - スライド
@@ -15,7 +15,7 @@ title: 2016年度「エンジニアリングデザインプロジェクトB/C」
 
 ## 2. スクワッド（協力企業：日本ゼオン）
 
-テーマ：
+> テーマ：タイヤ用ゴムを開発する研究者の新しい研究体験を再デザインせよ
 
 - レポート
 - スライド
@@ -23,7 +23,7 @@ title: 2016年度「エンジニアリングデザインプロジェクトB/C」
 
 ## 3. ポパイ（協力企業：ツネイシカムテックス）
 
-テーマ：
+> テーマ：人材確保が難しい廃棄物業界の人事採用プロセスにおける採用担当者の体験を再デザインせよ
 
 - レポート
 - スライド
@@ -31,7 +31,7 @@ title: 2016年度「エンジニアリングデザインプロジェクトB/C」
 
 ## 4. 給食当番（協力企業：モトローラソリューションズ）
 
-テーマ：
+> テーマ：危機意識を忘れがちな住民が適切な当事者感覚を長期間維持することのできる防災学習の体験を再デザインせよ
 
 - レポート
 - スライド
@@ -39,7 +39,7 @@ title: 2016年度「エンジニアリングデザインプロジェクトB/C」
 
 ## 5. Piu-Piu Five（協力企業：SAP）
 
-テーマ：
+> テーマ：上司と部下がお互いに大きな安心感と満足感を持てる在宅勤務の体験を再デザインせよ
 
 - レポート
 - スライド
@@ -47,7 +47,7 @@ title: 2016年度「エンジニアリングデザインプロジェクトB/C」
 
 ## 6. キリシマクション黒（協力企業：NTTデータ）
 
-テーマ：
+> テーマ：将来の労働力不足が予測される状況での配送人の快適で効率的な荷積み及び配送の体験を再デザインせよ
 
 - レポート
 - スライド
@@ -55,7 +55,7 @@ title: 2016年度「エンジニアリングデザインプロジェクトB/C」
 
 ## 7. ど辛（協力企業：井上電気）
 
-テーマ：
+> テーマ：富士スピードウェイへ向かう自動車愛好家の旅行体験を再デザインせよ
 
 - レポート
 - スライド
@@ -64,7 +64,7 @@ title: 2016年度「エンジニアリングデザインプロジェクトB/C」
 
 ## 8. 超絶NEXT（協力企業：デンソー）
 
-テーマ：
+> テーマ：人口減少が進む都市における高齢者の快適な外出体験を再デザインせよ
 
 - レポート
 - スライド
@@ -154,25 +154,48 @@ title: 2016年度「エンジニアリングデザインプロジェクトB/C」
 
 ## 12/10（土）
 
+### 内容
+
+- プロトタイピングとユーザーテスト（[▶スライド](https://www.slideshare.net/kdmsnr/prototyping-and-user-testing-20161210)）
+
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftitech.cbec%2Fposts%2F530603103815241&width=500" width="500" height="752" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
 ## 12/17（土）
+
+### 内容
+- 午前：ピッチと状況報告
+- 午後：グループワーク
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftitech.cbec%2Fposts%2F530607780481440&width=500" width="500" height="714" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
 ## 1/7（土）
 
+### 内容
+- 午前：ピッチと状況報告
+- 午後：グループワーク
+
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftitech.cbec%2Fposts%2F538107886398096&width=500" width="500" height="771" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
 ## 1/21（土）
+
+### 内容
+- 午前：ピッチと状況報告
+- 午後：グループワーク
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftitech.cbec%2Fposts%2F542996682575883&width=500" width="500" height="771" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
 ## 2/4（土）
 
+### 内容
+- 午前：ピッチと状況報告
+- 午後：グループワーク
+
+
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftitech.cbec%2Fposts%2F549526165256268&width=500" width="500" height="752" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
 ## 2/11（土）（最終発表会）
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftitech.cbec%2Fposts%2F551987585010126&width=500" width="500" height="676" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
 ```
 【エンジニアリングデザインプロジェクトB,C最終発表会】
@@ -187,11 +210,9 @@ title: 2016年度「エンジニアリングデザインプロジェクトB/C」
 16:15-17:45  情報交換会
 ```
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftitech.cbec%2Fposts%2F551987585010126&width=500" width="500" height="676" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
-
 - [歓喜と祝祭 – 東京工業大学エンジニアリングデザインプロジェクト – Medium](https://medium.com/titech-eng-and-design/%E6%AD%93%E5%96%9C%E3%81%A8%E7%A5%9D%E7%A5%AD-2ed04812be87#.e34i5clny)
 
-# その他情報源
+# その他の情報源
 
 - [デザイン思考の授業で使われたアイスブレイク集 – 東京工業大学エンジニアリングデザインプロジェクト – Medium](https://medium.com/titech-eng-and-design/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E6%80%9D%E8%80%83%E3%81%A7%E4%BD%BF%E3%82%8F%E3%82%8C%E3%82%8B%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%96%E3%83%AC%E3%82%A4%E3%82%AF%E9%9B%86-954a9462f46d#.nje1e4ffr)
 - <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftitech.cbec%2Fposts%2F508895842652634&width=500" width="500" height="514" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
