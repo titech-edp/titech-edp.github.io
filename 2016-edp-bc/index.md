@@ -66,9 +66,10 @@ title: 2016年度「エンジニアリングデザインプロジェクトB/C」
 
 > テーマ：人口減少が進む都市における高齢者の快適な外出体験を再デザインせよ
 
-- レポート
-- スライド
-- 動画
+- [レポート](https://drive.google.com/open?id=0B8Q1ejJYGDKhT055amdlcmYyTGM)
+- [スライド](https://drive.google.com/open?id=0B8Q1ejJYGDKhUkZVRGc4dlRoVVk)
+- [動画（前半）](https://drive.google.com/open?id=0B_P9QDkPkdvBQ3dXMm5ycHJJTUU)
+- [動画（後半）](https://drive.google.com/open?id=0B8Q1ejJYGDKha2tOQ2Y2eWZ3c1k)
 
 # :date: 日程
 
