@@ -9,58 +9,58 @@ title: 2016年度「エンジニアリングデザインプロジェクトB/C」
 
 > テーマ：体力・身体能力が低下したシニアりんご農家の農作業体験(栽培・収穫・出荷など)を再デザインせよ
 
-- レポート
-- スライド
-- 動画
+- [レポート](https://drive.google.com/open?id=0B5rEYg1n_inbak9Pdnd0c2xNajg)
+- [スライド](https://drive.google.com/open?id=0B4mfOjnxnZUUVVJ1NE1EcHZFbVk)
+- [動画](https://drive.google.com/open?id=0B4mfOjnxnZUUeFJFTXp0TUtFSEk)
 
 ## 2. スクワッド（協力企業：日本ゼオン）
 
 > テーマ：タイヤ用ゴムを開発する研究者の新しい研究体験を再デザインせよ
 
-- レポート
-- スライド
-- 動画
+- [レポート](https://drive.google.com/open?id=0B_x8O1BqJyM2OWt6WmVGQ0gtdmc)
+- [スライド](https://drive.google.com/open?id=0B_x8O1BqJyM2TG1IQlNEU1N6akU)
+- [動画](https://drive.google.com/open?id=0B_x8O1BqJyM2QVgzVWpOS29jOVE)
 
 ## 3. ポパイ（協力企業：ツネイシカムテックス）
 
 > テーマ：人材確保が難しい廃棄物業界の人事採用プロセスにおける採用担当者の体験を再デザインせよ
 
-- レポート
-- スライド
-- 動画
+- [レポート](https://drive.google.com/open?id=0B6SM3lPTjzekd1ptWks0OU53Sms)
+- [スライド](https://drive.google.com/open?id=0BwgDm4AwnTZhck9KRDF5MVVtYVU)
+- [動画](https://drive.google.com/open?id=0BwgDm4AwnTZhUlQ1ZWZpckx4Tms)
 
 ## 4. 給食当番（協力企業：モトローラソリューションズ）
 
 > テーマ：危機意識を忘れがちな住民が適切な当事者感覚を長期間維持することのできる防災学習の体験を再デザインせよ
 
-- レポート
-- スライド
-- 動画
+- [レポート](https://drive.google.com/open?id=0B_zKOj4hxvlEeGRvSnlkLVQ1a3M)
+- [スライド](https://drive.google.com/open?id=0B_zKOj4hxvlEa0NLUEtjeWZCakk)
+- [動画](https://drive.google.com/open?id=0B-APEaafjqA2c1BwdTdHVEVIUms)
 
 ## 5. Piu-Piu Five（協力企業：SAP）
 
 > テーマ：上司と部下がお互いに大きな安心感と満足感を持てる在宅勤務の体験を再デザインせよ
 
-- レポート
-- スライド
-- 動画
+- [レポート](https://drive.google.com/open?id=0B_x_oXQCBzr7R0k3QVFKOHRkUDg)
+- [スライド](https://drive.google.com/open?id=0B_x_oXQCBzr7a2lzSWtvb253Ylk)
+- [動画](https://drive.google.com/open?id=0B_x_oXQCBzr7TDVuN0h4Y3dwRjg)
 
 ## 6. キリシマクション黒（協力企業：NTTデータ）
 
 > テーマ：将来の労働力不足が予測される状況での配送人の快適で効率的な荷積み及び配送の体験を再デザインせよ
 
-- レポート
-- スライド
-- 動画
+- [レポート](https://drive.google.com/open?id=0BzExhRpkke9DOF9YSkNDMVN3aHc)
+- [スライド](https://drive.google.com/open?id=0BzExhRpkke9DdzNCc1ZHRjNLTFU)
+- [動画](https://drive.google.com/open?id=0BzExhRpkke9DUDNZSGZ3cV9xUUE)
 
 ## 7. ど辛（協力企業：井上電気）
 
 > テーマ：富士スピードウェイへ向かう自動車愛好家の旅行体験を再デザインせよ
 
-- レポート
-- スライド
-- 動画
-- [デザイン思考の授業内容を読んでデザイン思考を3分で分かった気になれる(...はずがない) – 東京工業大学エンジニアリングデザインプロジェクト – Medium](https://medium.com/titech-eng-and-design/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E6%80%9D%E8%80%83%E3%81%AE%E6%8E%88%E6%A5%AD%E5%86%85%E5%AE%B9%E3%82%92%E8%AA%AD%E3%82%93%E3%81%A7%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E6%80%9D%E8%80%83%E3%82%923%E5%88%86%E3%81%A7%E5%88%86%E3%81%8B%E3%81%A3%E3%81%9F%E6%B0%97%E3%81%AB-%E3%81%AA%E3%82%8C%E3%82%8B%E3%81%AF%E3%81%9A%E3%81%8C%E3%81%AA%E3%81%84-f8ddf2bfd937#.52kaw9rn8)
+- [レポート](https://drive.google.com/open?id=0B4Y-LeEHfByyaHJhWnlMRGdIR1k)
+- [スライド](https://drive.google.com/open?id=0B4Y-LeEHfByyNFZVU1hRVDl4bjA)
+- [動画](https://drive.google.com/open?id=0B4Y-LeEHfByyeEFtWTIyV2swVFk)
+- ブログ：[デザイン思考の授業内容を読んでデザイン思考を3分で分かった気になれる(...はずがない) – 東京工業大学エンジニアリングデザインプロジェクト – Medium](https://medium.com/titech-eng-and-design/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E6%80%9D%E8%80%83%E3%81%AE%E6%8E%88%E6%A5%AD%E5%86%85%E5%AE%B9%E3%82%92%E8%AA%AD%E3%82%93%E3%81%A7%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E6%80%9D%E8%80%83%E3%82%923%E5%88%86%E3%81%A7%E5%88%86%E3%81%8B%E3%81%A3%E3%81%9F%E6%B0%97%E3%81%AB-%E3%81%AA%E3%82%8C%E3%82%8B%E3%81%AF%E3%81%9A%E3%81%8C%E3%81%AA%E3%81%84-f8ddf2bfd937#.52kaw9rn8)
 
 ## 8. 超絶NEXT（協力企業：デンソー）
 
@@ -212,11 +212,17 @@ title: 2016年度「エンジニアリングデザインプロジェクトB/C」
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftitech.cbec%2Fposts%2F551987585010126&width=500" width="500" height="676" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
-## 2/18（土）（ :trophy: CBECコンペ）
+## 2/18（土）（CBECコンペ）
 
 最終発表会の1週間後に、東工大全学を対象としたCBECコンペが開催されました。EDPからも数チームが任意で参加し、「ヒゲときどきメガネ」「給食当番」「ど辛」の3チームが入賞しました。
 
 - [「とにかく動くものを作る」東工大の学生技術コンペ、視覚障害者に音声で障害物を知らせるクラウド白杖が優勝：ITpro](http://itpro.nikkeibp.co.jp/atcl/news/17/022100552/)
+
+## 3/29, 30（Slush Tokyo）
+
+EDPの「ヒゲときどきメガネ」「給食当番」「ど辛」「Piu-Piu Five」を含む全6チームが、東京工業大学としてSlush Tokyoにブース出展しました。
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftitech.cbec%2Fposts%2F570529453155939%3A0&width=500" width="500" height="645" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
 
 
