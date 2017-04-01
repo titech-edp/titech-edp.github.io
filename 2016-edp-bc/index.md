@@ -17,7 +17,7 @@ title: 2016年度「エンジニアリングデザインプロジェクトB/C」
 
 # :date: 日程
 
-## 9/24（土）10:00-15:50
+## [EDP-B1] 9/24（土）10:00-15:50
 
 ### 午前
 - ガイダンス
@@ -33,7 +33,7 @@ title: 2016年度「エンジニアリングデザインプロジェクトB/C」
 ### 宿題
   - SlackとTrelloを使えるようにしておく
 
-## 10/1（土）10:00-15:50
+## [EDP-B2] 10/1（土）10:00-15:50
 
 ### 内容
 - テーマの発表
@@ -46,7 +46,7 @@ title: 2016年度「エンジニアリングデザインプロジェクトB/C」
 ### 宿題
   - ユーザーリサーチ（ユーザーインタビュー）
 
-## 10/15（土）10:00-15:50
+## [EDP-B3] 10/15（土）10:00-15:50
 
 ### 内容
 
@@ -62,7 +62,7 @@ title: 2016年度「エンジニアリングデザインプロジェクトB/C」
 
 - インタビュー/今日習ったデザインプロセスを反復し、「(家電店に置いてあってもおかしくないクオリティの)ソリューションのチラシ」をSlack上に提出。さらに10枚印刷したものを講義に持参すること。
 
-## 10/29（土）10:00-15:50
+## [EDP-B4] 10/29（土）10:00-15:50
 
 ### 内容
 
@@ -93,11 +93,11 @@ title: 2016年度「エンジニアリングデザインプロジェクトB/C」
 - 中間発表の準備
 
 
-## 11/12（中間発表）
+## [EDP-B5] 11/12（中間発表）
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftitech.cbec%2Fposts%2F516455151896703%3A0&width=500" width="500" height="561" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
-## 12/10（土）
+## [EDP-C1] 12/10（土）
 
 ### 内容
 
@@ -105,7 +105,7 @@ title: 2016年度「エンジニアリングデザインプロジェクトB/C」
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftitech.cbec%2Fposts%2F530603103815241&width=500" width="500" height="752" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
-## 12/17（土）
+## [EDP-C2] 12/17（土）
 
 ### 内容
 - 午前：ピッチと状況報告
@@ -113,7 +113,7 @@ title: 2016年度「エンジニアリングデザインプロジェクトB/C」
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftitech.cbec%2Fposts%2F530607780481440&width=500" width="500" height="714" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
-## 1/7（土）
+## [EDP-C3] 1/7（土）
 
 ### 内容
 - 午前：ピッチと状況報告
@@ -121,7 +121,7 @@ title: 2016年度「エンジニアリングデザインプロジェクトB/C」
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftitech.cbec%2Fposts%2F538107886398096&width=500" width="500" height="771" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
-## 1/21（土）
+## [EDP-C4] 1/21（土）
 
 ### 内容
 - 午前：ピッチと状況報告
@@ -129,7 +129,7 @@ title: 2016年度「エンジニアリングデザインプロジェクトB/C」
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftitech.cbec%2Fposts%2F542996682575883&width=500" width="500" height="771" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
-## 2/4（土）
+## [EDP-C5] 2/4（土）
 
 ### 内容
 - 午前：ピッチと状況報告
@@ -138,7 +138,7 @@ title: 2016年度「エンジニアリングデザインプロジェクトB/C」
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftitech.cbec%2Fposts%2F549526165256268&width=500" width="500" height="752" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
-## 2/11（土）（最終発表会）
+## [EDP-C6: 最終発表会] 2/11（土）
 
 ```
 【エンジニアリングデザインプロジェクトB,C最終発表会】
@@ -157,21 +157,20 @@ title: 2016年度「エンジニアリングデザインプロジェクトB/C」
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftitech.cbec%2Fposts%2F551987585010126&width=500" width="500" height="676" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
-## 2/18（土）（CBECコンペ）
+## [CBECコンペ] 2/18（土）
 
 最終発表会の1週間後に、東工大全学を対象としたCBECコンペが開催されました。EDPからも数チームが任意で参加し、「ヒゲときどきメガネ」「給食当番」「ど辛」の3チームが入賞しました。
 
 - [「とにかく動くものを作る」東工大の学生技術コンペ、視覚障害者に音声で障害物を知らせるクラウド白杖が優勝：ITpro](http://itpro.nikkeibp.co.jp/atcl/news/17/022100552/)
 
-## 3/29, 30（Slush Tokyo）
+## [Slush Tokyo] 3/29, 30
 
 EDPの「ヒゲときどきメガネ」「給食当番」「ど辛」「Piu-Piu Five」を含む全6チームが、東京工業大学としてSlush Tokyoにブース出展しました。
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftitech.cbec%2Fposts%2F570529453155939%3A0&width=500" width="500" height="645" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
-
-
 # :bookmark: その他の情報源
 
 - [デザイン思考の授業で使われたアイスブレイク集 – 東京工業大学エンジニアリングデザインプロジェクト – Medium](https://medium.com/titech-eng-and-design/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E6%80%9D%E8%80%83%E3%81%A7%E4%BD%BF%E3%82%8F%E3%82%8C%E3%82%8B%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%96%E3%83%AC%E3%82%A4%E3%82%AF%E9%9B%86-954a9462f46d#.nje1e4ffr)
-- <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftitech.cbec%2Fposts%2F508895842652634&width=500" width="500" height="514" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftitech.cbec%2Fposts%2F508895842652634&width=500" width="500" height="514" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
