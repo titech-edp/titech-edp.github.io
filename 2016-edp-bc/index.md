@@ -174,3 +174,6 @@ EDPの「ヒゲときどきメガネ」「給食当番」「ど辛」「Piu-Piu 
 - [デザイン思考の授業で使われたアイスブレイク集 – 東京工業大学エンジニアリングデザインプロジェクト – Medium](https://medium.com/titech-eng-and-design/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E6%80%9D%E8%80%83%E3%81%A7%E4%BD%BF%E3%82%8F%E3%82%8C%E3%82%8B%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%96%E3%83%AC%E3%82%A4%E3%82%AF%E9%9B%86-954a9462f46d#.nje1e4ffr)
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftitech.cbec%2Fposts%2F508895842652634&width=500" width="500" height="514" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+
+- Slack: https://edp-2016.slack.com
+
