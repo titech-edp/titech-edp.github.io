@@ -45,4 +45,4 @@ title: 2017年度「デザイン思考基礎B」
 
 # その他の情報源
 
-- Slack: https://cbec-dtf-2017.slack.com
+- Slack: [https://cbec-dtf-2017.slack.com](https://cbec-dtf-2017.slack.com)
