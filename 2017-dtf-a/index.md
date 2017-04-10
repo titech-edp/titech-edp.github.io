@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 2017年度「デザイン思考基礎A」
+title: 2017年度「デザイン思考基礎a」
 ---
 
 <div class="alert alert-info" role="alert">

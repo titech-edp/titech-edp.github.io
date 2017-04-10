@@ -9,8 +9,8 @@ layout: default
 
 <h2>2017年度</h2>
 <ul>
-<li><a href="/2017-dtf-a/">デザイン思考基礎A</a></li>
-<li><a href="/2017-dtf-b/">デザイン思考基礎B</a></li>
+<li><a href="/2017-dtf-a/">デザイン思考基礎a</a></li>
+<li><a href="/2017-dtf-b/">デザイン思考基礎b</a></li>
 <li>エンジニアリングデザインプロジェクトA</li>
 <li>エンジニアリングデザインプロジェクトB/C</li>
 </ul>
