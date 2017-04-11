@@ -1,30 +1,32 @@
 ---
 layout: page
-title: 2017年度「デザイン思考基礎a」
+title: 2017 "Design Thinking Fundamental a"
 ---
 
-<div class="alert alert-info" role="alert">
-場所：デザイン工房（玄関はロックされているので、インターフォンで呼び出してください）
-</div>
+# Schedule
 
-# 日程
+## [DTFa-1] 4/10 (mon) 13:20-16:35
 
-## [DTFa-1] 4/10（月）13:20-16:35
+- Module 1: Introduction to Design Thinking
 
-## [DTFa-2] 4/17（月）13:20-16:35
+assignment:
 
-## [DTFa-3] 4/24（月）13:20-16:35
+- Create team's channel on slack, and get used to the slack.
 
-## [DTFa-4] 5/01（月）13:20-16:35
+## [DTFa-2] 4/17 (mon) 13:20-16:35
 
-## [DTFa-5] 5/08（月）13:20-16:35
+## [DTFa-3] 4/24 (mon) 13:20-16:35
 
-## [DTFa-6] 5/15（月）13:20-16:35
+## [DTFa-4] 5/01 (mon) 13:20-16:35
 
-## [DTFa-7] 5/22（月）13:20-16:35
+## [DTFa-5] 5/08 (mon) 13:20-16:35
 
-## [DTFa-8] 5/29（月）13:20-14:50
+## [DTFa-6] 5/15 (mon) 13:20-16:35
 
-# その他の情報源
+## [DTFa-7] 5/22 (mon) 13:20-16:35
+
+## [DTFa-8] 5/29 (mon) 13:20-14:50
+
+# Information
 
 - Slack: [https://cbec-dtf-2017.slack.com](https://cbec-dtf-2017.slack.com)
