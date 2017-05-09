@@ -64,6 +64,14 @@ Summarize in a on-page PDF file and post the link to ``Slack#homework-20170501``
 
 - Module 5: Prototype
 
+### Assignment/Homework:
+
+Individually, refine your idea using feedbacks.
+
+- Draw a sheet of concept sketch.
+
+Please upload the link to ``Slack#homework-20170508`` by *11:00am* 5/15 Monday.
+
 ## [DTFa-6] 5/15 (mon) 13:20-16:35
 
 - Module 6: Business Design
