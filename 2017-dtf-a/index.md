@@ -3,6 +3,16 @@ layout: page
 title: 2017 "Design Thinking Fundamental a"
 ---
 
+# Design Challenge
+
+Design an innovative [event in sprint] experience for [someone].
+
+1. graduation trip / for university students
+2. hanami / for business people
+3. welcome party / for new comers
+
+(Your team can choose 1, 2, or 3.)
+
 # Schedule
 
 ## [DTFa-1] 4/10 (mon) 13:20-16:35
