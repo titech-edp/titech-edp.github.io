@@ -11,7 +11,7 @@ layout: default
 <ul>
 <li><a href="/2017-dtf-a/">デザイン思考基礎a</a></li>
 <li><a href="/2017-dtf-b/">デザイン思考基礎b</a></li>
-<li>エンジニアリングデザインプロジェクトA</li>
+<li><a href="/2017-edp-a/">エンジニアリングデザインプロジェクトA</a></li>
 <li>エンジニアリングデザインプロジェクトB/C</li>
 </ul>
 
