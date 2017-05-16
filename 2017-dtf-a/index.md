@@ -84,7 +84,14 @@ Please upload the link to ``Slack#homework-20170508`` by *11:00am* 5/15 Monday.
 
 ## [DTFa-6] 5/15 (mon) 13:20-16:35
 
+- Module 5: Prototype
 - Module 6: Business Design
+- Module 7: Storytelling
+
+### Assignment/Homework:
+
+- Individually, please bring a "strange object".
+- As a group, please start preparing the final presentation.
 
 ## [DTFa-7] 5/22 (mon) 13:20-16:35
 
