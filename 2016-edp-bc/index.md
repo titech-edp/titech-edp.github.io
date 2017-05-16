@@ -5,8 +5,8 @@ title: 2016年度「エンジニアリングデザインプロジェクトB/C」
 
 # :ledger: 最終成果物
 
-{% for t in site.data.2016-edp-bc-teams %}
-<h2>[{{ t.id }}] {{ t.name }}（協力企業：{{ t.corp }}）</h2>
+{% for t in site.data["2016-edp-bc-teams"] %}
+<h2>[{{ t.team_id }}] {{ t.name }}（協力企業：{{ t.corp }}）</h2>
 <blockquote>テーマ：{{ t.theme }}</blockquote>
 <div class="btn-group" role="group">
   {% for d in t.data %}
