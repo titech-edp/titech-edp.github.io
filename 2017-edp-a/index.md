@@ -18,3 +18,5 @@ title: 2017年度「エンジニアリングデザインプロジェクトA」
 ## 8/05（土）10:00-17:35
 
 # その他の情報源
+
+- Slack: [https://cbec-edp-a-2017.slack.com](https://cbec-edp-a-2017.slack.com)
