@@ -97,7 +97,7 @@ Please upload the link to ``Slack#homework-20170508`` by *11:00am* 5/15 Monday.
 
 - Module 7: Storytelling
 
-## [DTFa-8] 5/29 (mon) 13:20-14:50
+## [DTFa-8] 5/29 (mon) 13:20-16:35
 
 - Module 8: Final Presentation
 
