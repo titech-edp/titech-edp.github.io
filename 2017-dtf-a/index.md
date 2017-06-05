@@ -101,6 +101,11 @@ Please upload the link to ``Slack#homework-20170508`` by *11:00am* 5/15 Monday.
 
 - Module 8: Final Presentation
 
+### Assignment/Homework
+
+- [As a individual] Please answer the questions in the Google Form.
+- [As a group] Please submit a report to ``#homework-20170529`` as a PDF file. The report should clearly show the contents in the report template.
+
 # Information
 
 - Slack: [https://cbec-dtf-2017.slack.com](https://cbec-dtf-2017.slack.com)
