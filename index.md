@@ -35,9 +35,9 @@ layout: default
 <div class="col-md-5">
 
 <div class="panel panel-default">
-  <div class="panel-heading">ニュース</div>
+  <div class="panel-heading">企業のみなさまへ</div>
   <div class="panel-body">
-  {% include post-list-for-top-page.html %}
+  <a href="https://cbec-titech.doorkeeper.jp/">Doorkeeperのコミュニティ</a>にご登録いただければ、各種イベント情報をお送りいたします。
   </div>
 </div>
 
