@@ -35,4 +35,5 @@
 
 - name: NIMS
   theme: 歓迎会
-  data: https://drive.google.com/file/d/0B6yZPz5FEvLZM2IwVDdmUzNORXM/view
+  data:
+    レポート: https://drive.google.com/file/d/0B6yZPz5FEvLZM2IwVDdmUzNORXM/view
