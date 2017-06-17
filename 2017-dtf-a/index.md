@@ -13,6 +13,19 @@ Design an innovative [event in sprint] experience for [someone].
 
 (Your team can choose 1, 2, or 3.)
 
+# Final Report
+
+{% for t in site.data["2017-dtf-a-teams"] %}
+<h2>{{ t.name }}</h2>
+<blockquote>Design Prompt: {{ t.theme }}</blockquote>
+<div class="btn-group" role="group">
+  {% for d in t.data %}
+    <a href="{{ d[1] }}" role="button" class="btn"><span class="glyphicon glyphicon-circle-arrow-down" aria-hidden="true" />{{ d[0] }}</a>
+  {% endfor %}
+</div>
+{% endfor %}
+
+
 # Schedule
 
 ## [DTFa-1] 4/10 (mon) 13:20-16:35

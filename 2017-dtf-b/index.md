@@ -13,6 +13,19 @@ title: 2017年度「デザイン思考基礎b」
 
 （1〜3から好きなものをチームで選んでください）
 
+# 最終レポート
+
+{% for t in site.data["2017-dtf-b-teams"] %}
+<h2>{{ t.name }}</h2>
+<blockquote>デザインプロンプト: {{ t.theme }}</blockquote>
+<div class="btn-group" role="group">
+  {% for d in t.data %}
+    <a href="{{ d[1] }}" role="button" class="btn"><span class="glyphicon glyphicon-circle-arrow-down" aria-hidden="true" />{{ d[0] }}</a>
+  {% endfor %}
+</div>
+{% endfor %}
+
+
 # 日程
 
 ## [DTFb-1] 4/8（土）10:00-15:50
