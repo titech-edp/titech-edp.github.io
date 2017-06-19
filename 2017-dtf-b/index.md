@@ -3,6 +3,10 @@ layout: page
 title: 2017年度「デザイン思考基礎b」
 ---
 
+# シラバス
+
+[デザイン思考基礎 B - TOKYO TECH OCW](http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=2&GakkaCD=321502&KeiCD=15&course=2&KamokuCD=321502&KougiCD=201713496&Nendo=2017&vid=03)
+
 # テーマ
 
 ［対象ユーザー］のためのイノベーティブな［春のイベント］体験をデザインせよ。

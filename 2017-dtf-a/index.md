@@ -3,6 +3,10 @@ layout: page
 title: 2017 "Design Thinking Fundamental a"
 ---
 
+# Syllabus
+
+[Design Thinking Fundamentals - TOKYO TECH OCW](http://dev12m.i-c-i.jp/index.php?module=General&action=T0300&GakubuCD=2&GakkaCD=321502&KeiCD=15&course=2&KamokuCD=321502&KougiCD=201703575&Nendo=2017&vid=03&lang=EN)
+
 # Design Challenge
 
 Design an innovative [event in sprint] experience for [someone].
