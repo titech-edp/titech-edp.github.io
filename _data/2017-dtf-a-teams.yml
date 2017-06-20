@@ -2,13 +2,11 @@
   theme: welcome party
   data:
     Report: https://drive.google.com/open?id=0B-P5fiC0Iy9zVEkwelpLTTBaZE0
-    Movie: https://drive.google.com/open?id=0B-P5fiC0Iy9zdXZpWkpvZUNGbG8
 
 - name: Necomimi
   theme: graduation trip
   data:
     Report: https://drive.google.com/open?id=0B40Dg4Aif36OTVR0V05wcWxZR1E
-    Movie: https://drive.google.com/open?id=0B7-1y52o3bQDazJSRWQxTXdFREE
 
 - name: FRISK
   theme: Lab trip
