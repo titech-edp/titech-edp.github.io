@@ -1,6 +1,8 @@
 body {
   line-height: 1.6;
   background-color: white;
+  /* navbar */
+  padding-top: 70px;
 }
 
 body > *:first-child {
