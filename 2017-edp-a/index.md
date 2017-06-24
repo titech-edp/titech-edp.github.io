@@ -32,6 +32,7 @@ Taoka, Niikura
 - 10:00-10:20 ガイダンス（EDP全体の概要とEDP-Aの概要）、教員の紹介 by 齊藤
 - 10:20-10:40 チーム発表、席の移動 by 坂本
 - 10:40-11:40 チームビルディング by 角
+<a href="https://www.slideshare.net/kdmsnr/2017-edpa-team-building/" role="button" class="btn"><span class="glyphicon glyphicon-circle-arrow-down" aria-hidden="true" />スライド</a>
 - 11:40-12:15 講義（オブザベーション）by 齊藤（以降ファシリテーション担当）
 - 12:15-14:15 ランチ with オブザベーションワーク
 - 14:15-15:00 オブザベーションのまとめ
