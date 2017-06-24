@@ -3,27 +3,66 @@ layout: page
 title: 2017年度「エンジニアリングデザインプロジェクトA」
 ---
 
-# 日程
+# Syllabus
 
-## [EDP-A-1] 6/24（土）10:00-15:50
+[Engineering Design Project A B - TOKYO TECH OCW](http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=2&GakkaCD=321502&KeiCD=15&course=2&KamokuCD=321502&KougiCD=201703604&Nendo=2017&vid=03&lang=EN)
 
-- 10:00-10:20 ガイダンス
-  - EDP全体の概要とEDP-Aの概要 by 齊藤
-  - 教員の紹介
-  - 物品購入ガイダンス by 坂本
-- 10:20-10:30 チーム発表、席の移動 by 坂本
-- 10:30-11:30 チームビルディング by 角
-- 11:30-12:00 講義（オブザベーション）by 齊藤（以降ファシリテーション担当）
-- 12:00-14:00 ランチ with オブザベーションワーク
-- 14:00-15:00 オブザベーションのまとめ
+# Staff
+
+## Instructors
+
+Saito, Sakamoto, Kado, Kurabayashi, Yagisawa, Terui, Mougenot, Park, Inaba
+
+## Teaching Assistants (TAs):
+
+Okude, Mizuno, Leandro
+
+## Lecturers for Special Topics
+
+Taoka, Niikura
+
+# Design Prompt
+
+“Design an innovative [kitchen/entrance/washroom]-related experience”
+
+# Schedule
+
+## [EDP-A-1] 6/24（Sat）10:00-15:50
+
+- 10:00-10:20 ガイダンス（EDP全体の概要とEDP-Aの概要）、教員の紹介 by 齊藤
+- 10:20-10:40 チーム発表、席の移動 by 坂本
+- 10:40-11:40 チームビルディング by 角
+- 11:40-12:15 講義（オブザベーション）by 齊藤（以降ファシリテーション担当）
+- 12:15-14:15 ランチ with オブザベーションワーク
+- 14:15-15:00 オブザベーションのまとめ
 - 15:00-15:20 発表（数チーム）
 - 15:20-15:50 テーマ発表 + 宿題についての話し合い
 
-### 宿題：
+```
+- 10:00-10:20 Guidance, Introduction of instructors
+- 10:20-10:40 Notification of team members, Team first meeting
+- 10:40-11:40 Team building activites
+- 11:40-12:15 Lecture "Observation"
+- 12:15-14:15 Lunch and "Observation"
+- 14:15-15:00 Wrap-up of "Observation"
+- 15:00-15:20 Presentation by a few good teams and feedback
+- 15:20-15:50 Announcement of design prompts + Discussion for assignment
+```
 
-オブザベーション（詳細は当日発表予定）
+### Assigment
 
-## [EDP-A-2] 7/08（土）10:00-15:50
+1. Observation w/lots of photos
+2. 7 sheets of A4-sized field notes (per person) :
+   1. Impressive photo that trigger your **IWAKAN** <br />
+   ※**IWAKAN**: Feeling w/”why?”, “what?”, “something wrong!”, “something strange!” and others
+   2. **AEIOU Comments** (long) and **TSUKKOMI** <br />
+   ※**TSUKKOMI**: Critical comments to invoke insights
+
+Please save the data as an individual PDF file, showing your nameclearly in the file. Please make a team folder in Google drive or whatever, and post its LINK to slack `#homework-20170624`. (Due: July 7 23:59)
+
+In the next class, please bring your fully charged PCs with the Arduino IDE.
+
+## [EDP-A-2] 7/08（Sat）10:00-15:50
 
 - ガイダンス（デザイン思考の概要）by 齊藤
 - 宿題データの共有
@@ -39,11 +78,11 @@ title: 2017年度「エンジニアリングデザインプロジェクトA」
 
 - ソリューションの考案
 
-## [EDP-A-3] 7/12（水）18:30-20:00
+## [EDP-A-3] 7/12（Wed）18:30-20:00
 
 - ソリューションの洗練
 
-## [EDP-A-4] 7/22（土）10:00-15:50
+## [EDP-A-4] 7/22（Wed）10:00-15:50
 
 - プロトタイプ制作
 - 注意事項説明（素材の著作権など）
@@ -53,11 +92,11 @@ title: 2017年度「エンジニアリングデザインプロジェクトA」
 
 - 発表に必要なもの全部（プロトタイプ + ビデオ）
 
-## [EDP-A-5] 7/26（水）18:30-20:00
+## [EDP-A-5] 7/26（Wed）18:30-20:00
 
 - プロトタイプ制作
 
-## [EDP-A-6] 8/05（土）10:00-17:35
+## [EDP-A-6] 8/05（Sat）10:00-17:35
 
 - AM：発表準備（リハーサル）
 - PM：発表会
