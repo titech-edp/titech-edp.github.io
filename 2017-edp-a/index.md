@@ -23,7 +23,7 @@ Taoka, Niikura
 
 # Design Prompt
 
-“Design an innovative [kitchen/entrance/washroom]-related experience”
+“Design an innovative [kitchen/entrance/washroom(lavatory)]-related experience”
 
 # Schedule
 
@@ -65,15 +65,21 @@ In the next class, please bring your fully charged PCs with the Arduino IDE.
 
 ## [EDP-A-2] 7/08（Sat）10:00-15:50
 
-- ガイダンス（デザイン思考の概要）by 齊藤
-- 宿題データの共有
-- 去年のプロトタイプを見せながら、プロトタイプ制作（3ラウンド）
-  - アイデアスケッチ（10分間で8つ？）
-  - Low-Fiプロトタイプ + ストーリー/4コマ漫画（個人）
-  - Low-Fiプロトタイプ + ストーリー/4コマ漫画（チーム）
-- 課題の定義（プロトタイプ制作を踏まえながら）
-- ミニ講義（Arduino） by 田岡
-- 最終成果物の指定
+- 10:00-10:30 ガイダンス、デザイン思考の概要（坂本）
+- 10:30-12:15 プロトタイピング講義（角）
+  - インスピレーションウォール作成 [20分]
+  - 宿題データの共有 [30分]
+  - ソリューション考案 [30分]
+  - ソリューション制作 [20分]
+    - プロダクト名
+    - ストーリー
+    - Low-Fiプロトタイプ
+- 12:15-13:20 ランチ
+- 13:20-14:15 プロトタイプのチーム発表（角）
+- 14:15-14:30 休憩
+- 14:30-15:30 Arduinoミニ講義（田岡）
+- 15:30-15:40 最終成果物の指定
+- 15:40-15:50 ふりかえり
 
 ### 宿題：
 
