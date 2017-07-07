@@ -65,23 +65,44 @@ In the next class, please bring your fully charged PCs with the Arduino IDE.
 
 ## [EDP-A-2] 7/08（Sat）10:00-15:50
 
-- 10:00-10:30 ガイダンス、デザイン思考の概要（坂本）
-- 10:30-12:15 プロトタイピング講義（角）
-  - インスピレーションウォール作成 [20分]
+- 10:00-10:05 ガイダンス、アイスブレイク（坂本）
+- 10:10-10:30 デザイン思考プロセスの紹介（坂本）
+- 10:30-12:15 Ideate & Prototype講義 I（角）
+  - インスピレーションウォール作成 [15分]
   - 宿題データの共有 [20分]
-  - ソリューション考案 [20分]
-  - ソリューション制作 [30分]
-    - プロダクト名
-    - ストーリー
-    - Low-Fiプロトタイプ
+  - Ideate & Prototype #1
+    1. クレイジーエイト [16分]
+    2. アイデアの分類 [10分]
+    3. デザイン品質の発見 [10分]
+  - Ideate & Prototype #2
+    1. Disruptive Ideation [20分]
+    2. ダークホースプロトタイピング [15分]
 - 12:15-13:20 ランチ
-- 13:20-14:15 プロトタイプのチーム発表（角）
+- 13:20-14:00 Ideate & Prototype講義 II（角）
+  - Ideate & Prototype #3
+    1. SIPOCモデル [15分]
+    2. Low-Fiプロトタイプ [15分]
+    3. Product Sheet [10分]
+- 14:00-14:15 発表（2チームくらい）
 - 14:15-14:30 休憩
 - 14:30-15:30 Arduinoミニ講義（田岡）
-- 15:30-15:40 最終成果物の指定（坂本）
+- 15:30-15:40 物品購入ガイダンス、最終成果物の指定（坂本）
 - 15:40-15:50 ふりかえり（角）
 
-### 宿題：
+```
+- 10:00-10:05 Guidance, Icebreak
+- 10:10-10:30 Quick Review on Design Thinking Process
+- 10:30-12:15 Lecture of "Ideate & Prototype I"
+- 12:15-13:20 Lunch
+- 13:20-14:00 Lecture of "Ideate & Prototype II"
+- 14:00-14:15 Show & Tell (2 or 3 teams)
+- 14:15-14:30 Break
+- 15:30-15:40 Lecture of Arduino
+- 15:30-15:40 Guidance of Purchace and Final Presentation
+- 15:40-15:50 Reflection
+```
+
+### Assigment
 
 - ソリューションの考案
 
@@ -95,7 +116,7 @@ In the next class, please bring your fully charged PCs with the Arduino IDE.
 - 注意事項説明（素材の著作権など）
 - ビデオ制作講義 by 新倉
 
-### 宿題：
+### Assigment
 
 - 発表に必要なもの全部（プロトタイプ + ビデオ）
 
