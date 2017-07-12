@@ -118,6 +118,14 @@ In the next class, please bring your fully charged PCs with the Arduino IDE.
   - TAと相談して必要物品を発注 Consult TAs to order things needed
 - 19:50-20:00 片付け、今後の予定確認 Cleaning and Future schedule
 
+
+### Assigment
+
+- Finish purchasing the materials for your prototype(s)
+  - Please make purchase orders so that the purchased items will be delivered before July 22.
+- Start constructing the prototype(s)
+  - You will be asked to carry out User Test by the final presentation.
+
 ## [EDP-A-4] 7/22（Wed）10:00-15:50
 
 - 10:00-10:30 ガイダンス、アイスブレイク、注意事項説明（素材の著作権など）
