@@ -67,7 +67,7 @@ In the next class, please bring your fully charged PCs with the Arduino IDE.
 
 - 10:00-10:05 ガイダンス、アイスブレイク（坂本）
 - 10:10-10:30 デザイン思考プロセスの紹介（坂本）
-- 10:30-12:15 Ideate & Prototype講義 I（角）
+- 10:30-12:15 Ideate & Prototype講義 I（角） <a href="https://www.slideshare.net/kdmsnr/2017-edpa-prototyping" role="button" class="btn"><span class="glyphicon glyphicon-circle-arrow-down" aria-hidden="true" />スライド</a>
   - インスピレーションウォール作成 [15分]
   - 宿題データの共有 [20分]
   - Ideate & Prototype #1
@@ -104,25 +104,40 @@ In the next class, please bring your fully charged PCs with the Arduino IDE.
 
 ### Assigment
 
-- ソリューションの考案
+- bring your 2-3 ideas, each idea should have:
+  - SIPOC model
+  - Product Sheet (product name, value proposition, user test plan)
+  - Low-Fi Prototype
 
 ## [EDP-A-3] 7/12（Wed）18:30-20:00
 
-- ソリューションの洗練
+- 18:30-18:40 今日の活動説明 Explanation of today's activity (Sakamoto)
+- 18:40-19:50 Activities
+  - 数チームが発表 Presentation by a few teams
+  - 講師が各チームを回り、アイデアについてフィードバックを返す Instructors talk to each team to give feedback. Please explain your 2-3 ideas.
+  - 各チームは2-3のプロトタイプを設計・製作開始 Start making 2-3 prototypes
+  - TAと相談して必要物品を発注 Consult TAs to order things needed
+- 19:50-20:00 片付け、今後の予定確認 Cleaning and Future schedule
 
 ## [EDP-A-4] 7/22（Wed）10:00-15:50
 
-- プロトタイプ制作
-- 注意事項説明（素材の著作権など）
-- ビデオ制作講義 by 新倉
+- 10:00-10:30 ガイダンス、アイスブレイク、注意事項説明（素材の著作権など）
+- 10:30-12:15 プロトタイプ制作
+- 12:15-13:20 ランチ
+- 13:20-14:50 動画制作講座 by 新倉
+- 14:50-15:05 休憩
+- 15:05-15:30 ユーザーテストの講義 by TBA
+- 15:30-15:40 宿題と最終発表の案内
+- 15:40-15:50 ふりかえり
 
 ### Assigment
 
-- 発表に必要なもの全部（プロトタイプ + ビデオ）
+- 発表に必要なもの全部（プロトタイプ + ビデオ + プレゼン）
+- 最終レポート
 
 ## [EDP-A-5] 7/26（Wed）18:30-20:00
 
-- プロトタイプ制作
+- プロトタイプ制作、ビデオ制作、プレゼン準備、レポート
 
 ## [EDP-A-6] 8/05（Sat）10:00-17:35
 
