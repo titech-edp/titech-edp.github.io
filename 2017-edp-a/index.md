@@ -154,11 +154,14 @@ In the next class, please bring your fully charged PCs with the Arduino IDE.
 
 ## [EDP-A-6] 8/05（Sat）10:00-17:35
 
-- AM：発表準備（リハーサル）
-- PM：発表会
+- AM：発表準備（Preparation）
+- PM：発表会（Final Presentation）各チーム10分（10 min for each team.）
   1. プロモーションビデオの上映
+  Movie that vividly shows the user experience of your final solution.
   2. ソリューションの説明
+  Detailed explanation of your the final solution.
   3. デザインプロセスの説明
+  Description of the design process. Please tell it as a story.
 
 ## [EDP-A-EXTRA]
 
