@@ -113,7 +113,6 @@ In the next class, please bring your fully charged PCs with the Arduino IDE.
 
 - 18:30-18:40 今日の活動説明 Explanation of today's activity (Sakamoto)
 - 18:40-19:50 Activities
-  - 数チームが発表 Presentation by a few teams
   - 講師が各チームを回り、アイデアについてフィードバックを返す Instructors talk to each team to give feedback. Please explain your 2-3 ideas.
   - 各チームは2-3のプロトタイプを設計・製作開始 Start making 2-3 prototypes
   - TAと相談して必要物品を発注 Consult TAs to order things needed
