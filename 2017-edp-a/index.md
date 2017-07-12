@@ -102,13 +102,6 @@ In the next class, please bring your fully charged PCs with the Arduino IDE.
 - 15:40-15:50 Reflection
 ```
 
-### Evaluation Criteria
-
-1. Does it use Micro-Controller? （マイコン使ってる？）
-2. Is the value proposition clear? （VPは明確？）
-3. By the final presentation, can you make the core feature?（最終発表までにコア機能を実装できる？）
-4. By the final presentation, can you validate some user experiences? （最終発表までにユーザー体験の一部を検証できる？）
-
 ### Assigment
 
 - bring your 2-3 ideas, each idea should have:
@@ -125,6 +118,12 @@ In the next class, please bring your fully charged PCs with the Arduino IDE.
   - TAと相談して必要物品を発注 Consult TAs to order things needed
 - 19:50-20:00 片付け、今後の予定確認 Cleaning and Future schedule
 
+### Evaluation Criteria
+
+1. Does it use Micro-Controller? （マイコン使ってる？）
+2. Is the value proposition clear? （VPは明確？）
+3. By the final presentation, can you make the core feature?（最終発表までにコア機能を実装できる？）
+4. By the final presentation, can you validate some user experiences? （最終発表までにユーザー体験の一部を検証できる？）
 
 ### Assigment
 
