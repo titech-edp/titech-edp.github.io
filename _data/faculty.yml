@@ -19,27 +19,6 @@
   photo: "kurabayashi.jpg"
   profile: ""
 
-- name: "因幡 和晃"
-  title:
-    - "東京工業大学 環境・社会理工学院 准教授"
-  url: "http://www.mech.titech.ac.jp/~koubutsu/"
-  photo: "inaba.jpg"
-  profile: ""
-
-- name: "Celine Mougenot"
-  title:
-    - "Tokyo Institute of Technology Associate Professor"
-  url: "http://www.mech.titech.ac.jp/~design/cm/"
-  photo: "mougenot.jpg"
-  profile: ""
-
-- name: "土方 亘"
-  title:
-    - "東京工業大学 工学院 准教授"
-  url: "http://www.hcds.esd.titech.ac.jp"
-  photo: "hijikata.jpg"
-  profile: ""
-
 - name: "竹田 陽子"
   title:
     - "東京工業大学 環境・社会理工学院 特任教授"
@@ -62,6 +41,27 @@
     - "東京藝術大学 美術学部デザイン科 非常勤講師"
   url: ""
   photo: "yagisawa.jpg"
+  profile: ""
+
+- name: "因幡 和晃"
+  title:
+    - "東京工業大学 環境・社会理工学院 准教授"
+  url: "http://www.mech.titech.ac.jp/~koubutsu/"
+  photo: "inaba.jpg"
+  profile: ""
+
+- name: "Celine Mougenot"
+  title:
+    - "Tokyo Institute of Technology Associate Professor"
+  url: "http://www.mech.titech.ac.jp/~design/cm/"
+  photo: "mougenot.jpg"
+  profile: ""
+
+- name: "土方 亘"
+  title:
+    - "東京工業大学 工学院 准教授"
+  url: "http://www.hcds.esd.titech.ac.jp"
+  photo: "hijikata.jpg"
   profile: ""
 
 - name: "照井 亮"
