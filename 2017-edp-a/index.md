@@ -21,6 +21,14 @@ Okude, Mizuno, Leandro
 
 Taoka, Niikura
 
+# Objective
+
+- EDP-BCの準備
+- DTFで触れなかったことをやっておく
+  - 観察中心のユーザーリサーチ
+  - Mid-Fiプロトタイピング
+  - 物品発注処理
+
 # Design Prompt
 
 “Design an innovative [kitchen/entrance/washroom(lavatory)]-related experience”
@@ -109,7 +117,7 @@ In the next class, please bring your fully charged PCs with the Arduino IDE.
   - Product Sheet (product name, value proposition, user test plan)
   - Low-Fi Prototype
 
-## [EDP-A-3] 7/12（Wed）18:30-20:00
+## [EDP-A-a] 7/12（Wed）18:30-20:00
 
 - 18:30-18:40 今日の活動説明 Explanation of today's activity (Sakamoto)
 - 18:40-19:50 Activities
@@ -132,14 +140,14 @@ In the next class, please bring your fully charged PCs with the Arduino IDE.
 - Start constructing the prototype(s)
   - You will be asked to carry out User Test by the final presentation.
 
-## [EDP-A-4] 7/22（Wed）10:00-15:50
+## [EDP-A-3] 7/22（Wed）10:00-15:50
 
-- 10:00-10:30 ガイダンス、アイスブレイク、注意事項（素材の著作権など） / Guidance, Icebreak, Warning of copyright violations
-- 10:30-12:15 プロトタイプ制作 / Prototyping
+- 10:00-10:15 ガイダンス、アイスブレイク、注意事項（素材の著作権など） / Guidance, Icebreak, Warning of copyright violations
+- 10:15-10:40 プロトタイプとユーザーテストの講義 / Lecture of Prototype & Test
+- 10:40-12:15 プロトタイプ制作 / Prototyping
 - 12:15-13:20 ランチ / Lunch
-- 13:20-14:50 動画制作講座 by 新倉 / Movie Shooting Lecture by Niikura
-- 14:50-15:05 休憩 / Break
-- 15:05-15:30 ユーザーテストの講義 by TBA / Lecture of User Testing by TBA
+- 13:20-14:50 動画制作講座 by 新倉 + 奥出 / Movie Shooting Lecture by Niikura + Okude
+- 14:50-15:30 プロトタイプ制作と動画制作 / Prototyping + Movie Shooting
 - 15:30-15:40 宿題と最終発表の案内 / Assignment and Guidance of Final Presentation
 - 15:40-15:50 ふりかえり / Reflection
 
@@ -148,11 +156,11 @@ In the next class, please bring your fully charged PCs with the Arduino IDE.
 - 発表に必要なもの全部（プロトタイプ + ビデオ + プレゼン）
 - 最終レポート
 
-## [EDP-A-5] 7/26（Wed）18:30-20:00
+## [EDP-A-b] 7/26（Wed）18:30-20:00
 
 - プロトタイプ制作、ビデオ制作、プレゼン準備、レポート
 
-## [EDP-A-6] 8/05（Sat）10:00-17:35
+## [EDP-A-4] 8/05（Sat）10:00-17:35
 
 - AM：発表準備（Preparation）
 - PM：発表会（Final Presentation）各チーム10分（10 min for each team.）
