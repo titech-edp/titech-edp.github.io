@@ -142,13 +142,13 @@ In the next class, please bring your fully charged PCs with the Arduino IDE.
 
 ## [EDP-A-3] 7/22（Wed）10:00-15:50
 
-- 10:00-10:15 ガイダンス、アイスブレイク、注意事項（素材の著作権など） / Guidance, Icebreak, Warning of copyright violations
-- 10:15-10:40 プロトタイプとユーザーテストの講義 / Lecture of Prototype & Test
+- 10:00-10:15 ガイダンス、アイスブレイク、注意事項（素材の著作権など）（坂本） / Guidance, Icebreak, Warning of copyright violations by Sakamoto
+- 10:15-10:40 プロトタイプとユーザーテストの講義（角） / Lecture of Prototype & Test by Kado
 - 10:40-12:15 プロトタイプ制作 / Prototyping
 - 12:15-13:20 ランチ / Lunch
 - 13:20-14:50 動画制作講座 by 新倉 + 奥出 / Movie Shooting Lecture by Niikura + Okude
 - 14:50-15:30 プロトタイプ制作と動画制作 / Prototyping + Movie Shooting
-- 15:30-15:40 宿題と最終発表の案内 / Assignment and Guidance of Final Presentation
+- 15:30-15:40 宿題と最終発表の案内（坂本） / Assignment and Guidance of Final Presentation by Sakamoto
 - 15:40-15:50 ふりかえり / Reflection
 
 ### Assigment
