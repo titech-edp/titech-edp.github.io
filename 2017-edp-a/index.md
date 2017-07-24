@@ -58,6 +58,8 @@ Taoka, Niikura
 - 15:20-15:50 Announcement of design prompts + Discussion for assignment
 ```
 
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftitech.cbec%2Fposts%2F620922071450010&width=500" width="500" height="847" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+
 ### Assigment
 
 1. Observation w/lots of photos
@@ -110,6 +112,8 @@ In the next class, please bring your fully charged PCs with the Arduino IDE.
 - 15:40-15:50 Reflection
 ```
 
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftitech.cbec%2Fposts%2F620924061449811&width=500" width="500" height="847" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+
 ### Assigment
 
 - bring your 2-3 ideas, each idea should have:
@@ -133,6 +137,8 @@ In the next class, please bring your fully charged PCs with the Arduino IDE.
 3. By the final presentation, can you make the core feature?（最終発表までにコア機能を実装できる？）
 4. By the final presentation, can you validate some user experiences? （最終発表までにユーザー体験の一部を検証できる？）
 
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftitech.cbec%2Fposts%2F620925288116355&width=500" width="500" height="790" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+
 ### Assigment
 
 - Finish purchasing the materials for your prototype(s)
@@ -151,8 +157,11 @@ In the next class, please bring your fully charged PCs with the Arduino IDE.
 - 15:30-15:40 宿題と最終発表の案内（坂本） / Assignment and Guidance of Final Presentation by Sakamoto
 - 15:40-15:50 ふりかえり / Reflection
 
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftitech.cbec%2Fposts%2F620930894782461&width=500" width="500" height="771" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+
 ### Assigment
 
+- ユーザーテスト
 - 発表に必要なもの全部（プロトタイプ + ビデオ + プレゼン）
 - 最終レポート
 
