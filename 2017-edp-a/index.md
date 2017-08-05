@@ -33,6 +33,19 @@ Taoka, Niikura
 
 “Design an innovative [kitchen/entrance/washroom(lavatory)]-related experience”
 
+# Teams
+
+{% for t in site.data["2017-edp-a-teams"] %}
+<h2>{{ t.name }}</h2>
+<blockquote>Theme: {{ t.theme }}</blockquote>
+<div class="btn-group" role="group">
+  {% for d in t.data %}
+    <a href="{{ d[1] }}" role="button" class="btn"><span class="glyphicon glyphicon-circle-arrow-down" aria-hidden="true" />{{ d[0] }}</a>
+  {% endfor %}
+</div>
+{% endfor %}
+
+
 # Schedule
 
 ## [EDP-A-1] 6/24（Sat）10:00-15:50
