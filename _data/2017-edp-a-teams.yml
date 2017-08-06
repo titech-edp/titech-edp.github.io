@@ -35,6 +35,7 @@
 - name: Jemmy
   theme: Entrance
   data:
+    slide: https://drive.google.com/open?id=0B7-1y52o3bQDcVR6cU4yUXQ5UDA
 
 - name: 日本梅こん
   theme: Entrance
