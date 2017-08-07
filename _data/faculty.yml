@@ -64,6 +64,13 @@
   photo: "hijikata.jpg"
   profile: ""
 
+- name: "Park Jaehyun"
+  title:
+    - "東京工業大学 工学院 助教"
+  url: ""
+  photo: "jay.jpg"
+  profile: ""
+
 - name: "照井 亮"
   title:
     - "東京工業大学 環境・社会理工学院 非常勤講師"
