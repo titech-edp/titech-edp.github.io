@@ -40,6 +40,7 @@
 - name: 日本梅こん
   theme: Entrance
   data:
+    slide: https://drive.google.com/file/d/0B7963lISjt3Eam1wQVd4SF83ZGc/view
     movie: https://www.youtube.com/watch?v=Rt4ZgbTXNVo
 
 - name: necobar
