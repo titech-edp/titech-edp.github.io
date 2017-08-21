@@ -2,35 +2,41 @@
   theme: Entrance
   data:
     movie: https://www.youtube.com/watch?v=9VaLR3qSZV8
+    report: https://drive.google.com/file/d/0Bwif6Y7y9i-dYy1QVmRGNHhfWVE/view
 
 - name: relathy
   theme: Entrance
   data:
     movie: https://www.youtube.com/watch?v=pBpUzmBzWDM
+    report: https://drive.google.com/drive/folders/0B7sKixNOnniqc0lwT2pzb3pFc00
 
 - name: WanTube
   theme: Entrance
   data:
     slide: https://drive.google.com/open?id=0B7OPe0MIX7LLdkdaSnRJbjlSaU0
     movie: https://www.youtube.com/watch?v=hpVn_-xClf8
+    report: https://drive.google.com/drive/folders/0BwtGzoFONar5VEQwS1BlRlJ2RWs
 
 - name: LNT
   theme: Entrance
   data:
     slide: https://drive.google.com/open?id=0B-Amjtu-gEcTTnFzRk1XSGlnV3c
     movie: https://www.youtube.com/watch?v=aOAqgR-rzb0
+    report: https://drive.google.com/file/d/0B-Amjtu-gEcTRlV0RlRUS3ZzTTg/view?usp=sharing
 
 - name: Forever 17
   theme: Kitchen
   data:
     slide: https://drive.google.com/open?id=0Bw8hrFYy16LoS3ZDQmxRMHNmenc
     movie: https://www.youtube.com/watch?v=CC3H5gv850M
+    report: https://drive.google.com/open?id=0B3RcXoZQSLfiOENuM05DNnl4QXc
 
 - name: frurt
   theme: Kitchen
   data:
     slide: https://drive.google.com/open?id=0BwVLeIYjxMgwRzdBOUNldjFUTXM
     movie: https://www.youtube.com/watch?v=54tPZ8AfY2I
+    report: https://drive.google.com/file/d/0B8G9jrVDQAD_bFI2ZGlXZHdUM00/view?usp=sharing
 
 - name: Jemmy
   theme: Entrance
@@ -42,17 +48,20 @@
   data:
     slide: https://drive.google.com/file/d/0B7963lISjt3Eam1wQVd4SF83ZGc/view
     movie: https://www.youtube.com/watch?v=Rt4ZgbTXNVo
+    report: https://drive.google.com/file/d/0B9-U4MRs0DF7VGNvTEg5aEt6OEE/view?usp=sharing
 
 - name: necobar
   theme: Washroom
   data:
     movie: https://www.youtube.com/watch?v=L6bJQJ5MieQ
+    report: https://drive.google.com/open?id=0B0Bw7QbGlVA_VENOMXc4NUxIZjQ
 
 - name: GUNPRO
   theme: Entrance
   data:
     slide: https://drive.google.com/file/d/0BwJ4x7tlnrf_VEJIR0RjOWlVRGc/view
     movie: https://www.youtube.com/watch?v=eCM1IBaXSvE
+    report: https://drive.google.com/open?id=0B0uQ_7Fjh_lEeFV2V01EbDFFdUE
 
 
 
