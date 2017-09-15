@@ -15,12 +15,30 @@ layout: default
 <li>エンジニアリングデザインプロジェクトB/C</li>
 </ul>
 
+<div class="panel panel-info">
+  <div class="panel-heading">
+    <h3 class="panel-title">協力企業</h3>
+  </div>
+  <div class="panel-body">
+  未定
+  </div>
+</div>
+
 <h2>2016年度</h2>
 <ul>
 <li><a href="/2016-dtf/">デザイン思考基礎</a></li>
 <li><a href="/2016-edp-a/">エンジニアリングデザインプロジェクトA</a></li>
 <li><a href="/2016-edp-bc/">エンジニアリングデザインプロジェクトB/C</a></li>
 </ul>
+
+<div class="panel panel-info">
+  <div class="panel-heading">
+    <h3 class="panel-title">協力企業</h3>
+  </div>
+  <div class="panel-body">
+凸版印刷、日本ゼオン、ツネイシカムテックス、モトローラソリューションズ、SAP、NTTデータ、井上電気、デンソー
+  </div>
+</div>
 
 
 <h2>2015年度</h2>
