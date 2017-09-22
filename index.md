@@ -12,7 +12,7 @@ layout: default
 <li><a href="/2017-dtf-a/">デザイン思考基礎a</a></li>
 <li><a href="/2017-dtf-b/">デザイン思考基礎b</a></li>
 <li><a href="/2017-edp-a/">エンジニアリングデザインプロジェクトA</a></li>
-<li>エンジニアリングデザインプロジェクトB/C</li>
+<li><a href="/2017-edp-bc/">エンジニアリングデザインプロジェクトB/C</a></li>
 </ul>
 
 <div class="panel panel-info">
@@ -20,7 +20,7 @@ layout: default
     <h3 class="panel-title">協力企業</h3>
   </div>
   <div class="panel-body">
-  未定
+NTTデータ、オロ、クックパッド、パナソニック、日本精工
   </div>
 </div>
 
