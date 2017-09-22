@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: デザイン工房へのアクセス
 ---
 
@@ -9,4 +9,4 @@ title: デザイン工房へのアクセス
 **1Fの玄関はロックされていますので、インターフォンで呼び出してください。**
 
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1R1o3L6ASJEZtTwU1q_zQ3Mu0E0M" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1R1o3L6ASJEZtTwU1q_zQ3Mu0E0M" width="100%" height="480"></iframe>
