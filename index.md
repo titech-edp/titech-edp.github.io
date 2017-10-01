@@ -15,30 +15,12 @@ layout: default
 <li><a href="/2017-edp-bc/">エンジニアリングデザインプロジェクトB/C</a></li>
 </ul>
 
-<div class="panel panel-info">
-  <div class="panel-heading">
-    <h3 class="panel-title">協力企業</h3>
-  </div>
-  <div class="panel-body">
-NTTデータ、オロ、クックパッド、パナソニック、日本精工
-  </div>
-</div>
-
 <h2>2016年度</h2>
 <ul>
 <li><a href="/2016-dtf/">デザイン思考基礎</a></li>
 <li><a href="/2016-edp-a/">エンジニアリングデザインプロジェクトA</a></li>
 <li><a href="/2016-edp-bc/">エンジニアリングデザインプロジェクトB/C</a></li>
 </ul>
-
-<div class="panel panel-info">
-  <div class="panel-heading">
-    <h3 class="panel-title">協力企業</h3>
-  </div>
-  <div class="panel-body">
-凸版印刷、日本ゼオン、ツネイシカムテックス、モトローラソリューションズ、SAP、NTTデータ、井上電気、デンソー
-  </div>
-</div>
 
 
 <h2>2015年度</h2>
@@ -55,12 +37,23 @@ NTTデータ、オロ、クックパッド、パナソニック、日本精工
 <div class="panel panel-default">
   <div class="panel-heading">企業のみなさまへ</div>
   <div class="panel-body">
-  <a href="https://cbec-titech.doorkeeper.jp/">Doorkeeperのコミュニティ</a>にご登録いただければ、各種イベント情報をお送りいたします。
+東工大EDPにご関心のある企業様は、メールアドレスをご登録いただければ、各種情報をお送りいたします。▶【<a href="https://cbec-titech.doorkeeper.jp/">メールアドレスを登録する</a>】
   </div>
 </div>
 
 <div class="panel panel-default">
-  <div class="panel-heading">リンク</div>
+  <div class="panel-heading">これまでの協力企業</div>
+  <div class="panel-body">
+<ul>
+<li>【2017年度】NTTデータ、オロ、クックパッド、パナソニック、日本精工</li>
+<li>【2016年度】凸版印刷、日本ゼオン、ツネイシカムテックス、モトローラソリューションズ、SAP、NTTデータ、井上電気、デンソー</li>
+</ul>
+  </div>
+</div>
+
+
+<div class="panel panel-default">
+  <div class="panel-heading">各種リンク</div>
   <div class="panel-body">
 <ul>
 <li><a href="http://www.eng.titech.ac.jp/~cbe/">東京工業大学 チーム志向越境型アントレプレナー育成プログラム（CBEC）</a></li>

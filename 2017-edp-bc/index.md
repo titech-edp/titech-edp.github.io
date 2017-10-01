@@ -13,6 +13,10 @@ Saito, Sakamoto, Inaba, Hijikata, Park, Kurabayashi, Takeda, Kado, Yagisawa, Ter
 
 Ata, Okude, Tajiri, Batista, Mizuno
 
+# Corporate Partners
+
+NTTデータ、オロ、クックパッド、パナソニック、日本精工
+
 # Schedule
 
 ## [EDP-B1] 9/30（土）10:00-15:50
