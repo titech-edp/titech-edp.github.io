@@ -3,6 +3,10 @@ layout: page
 title: エンジニアリングデザインプロジェクトについて
 ---
 
+# プロモーションビデオ
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OOk-hvQOlh8?rel=0" frameborder="0" allowfullscreen></iframe>
+
 # 概要
 
 以下の記事を参照してください。
