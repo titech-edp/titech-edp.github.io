@@ -80,9 +80,14 @@ NTTデータ、オロ、クックパッド、パナソニック、日本精工
 ```
 
 
-### 宿題
+### Homework
 
-- 引き続きユーザーリサーチ、アイディエーションプロセスの考案、チラシ × 3案
+- Continue user research
+- Create a slide about your ideation process
+- Ideate **three** solutions
+- Draw an advertising flyer for each idea
+- As a team, post the URL of the *slide* and *three flyers* to ``#homework-20171014`` on Slack by **[2017-10-27 24:00]**
+
 
 ## [EDP-B3] 10/28（土）10:00-15:50
 
@@ -97,44 +102,73 @@ NTTデータ、オロ、クックパッド、パナソニック、日本精工
 [15:05-15:50] 3Dプリンタ or 3DCAD 講義［因幡］ / Lecture of 3D printer or 3DCAD [Inaba]
 ```
 
-### 宿題
+### Presentation (11:00-12:15)
 
-- プロトタイプ（ダンボールレベルでOK） × 3案
+- Give a **3 min.** presentation about:
+	- (1) The ideation process to generate your ideas
+		- "Inspiration" or "Revelation" is kinda dubious ...
+		- You should learn the way to create your own process
+	- (2) Three flyers (name, key phrase, picture, benefits, or so)
+		- Three: favorite, rival, and darkhorse
+		- Creating flyers is the ceapest way to validate the ideas
+- Take **2 questions** at most
+
+### Homework
+
+- Continue User Research with the flyers
+- Create **Three** Low-Fi prototypes
+	- Favorite, Rival, and Darkhorse
+- As a team, post a PDF including photos and description of the prototypes to ``#homework-20171028`` by [**2017‐11‐10 24:00**]
+
+> In the next lecture, you are supporsed to demo the prototypes **with skit** :couple: expressing the usage of the prototypes (It'll be better to write a script of skit beforehand).
 
 
 ## [EDP-B4] 11/11（土）10:00-15:50
 
 ```
-[10:00-10:10] ガイダンス［齋藤］
-[10:10-10:30] アイスブレイク［田尻］
-[10:30-11:00] 発表準備
-[11:00-12:15] チーム発表（プロトタイプ）
-[*12:15-13:20] お昼
-[13:20-14:00] 視覚障がい者向け白杖デバイスWalky事例発表［東工大メディア研究会 山崎健太郎］
-[14:00-14:50] ユーザーテスト講義（CJMも含む）［角］
-[*14:50-15:05] 休憩
-[15:05-15:50] ユーザーテスト計画（チーム活動）
+[10:00-10:10] ガイダンス［齋藤］/ Guidance [Saito]
+[10:10-10:30] アイスブレイク［田尻］ / Icebreak [Tajiri]
+[10:30-11:00] 発表準備 / Preparation for Presentation [Teams]
+[11:00-12:15] チーム発表（プロトタイプ） / Presentation (Prototype) [Teams]
+[*12:15-13:20] お昼 / Lunch
+[13:20-14:00] 視覚障がい者向け白杖デバイスWalky事例発表［東工大メディア研究会 山崎健太郎］ / Presentation [TITAMAS]
+[14:00-14:50] ユーザーテスト講義（CJMも含む）［角］ / Lecture of User Testing [Kado]
+[*14:50-15:05] 休憩 / Break
+[15:05-15:50] ユーザーテスト計画（チーム活動） / Preparation for User Testing [Teams]
 ```
 
-### 宿題
+### Presentation (11:00-12:15)
 
-- プロトタイプ3案についてユーザーテスト
+- Give a **3 min.** skit about the three prototypes you've made (ideally 1 min. per a  prototype)
+- Take **2 questions** at most
 
+### Homework
+
+- user testing for the three prorotypes
 
 ## [EDP-B5] 11/18（土）10:00-15:50
 
-※発表内容：CEP、CFP、ユーザーテスト結果、デザインプロセスを予定してます。
-
 ```
-[10:00-12:15] 発表準備
-[*12:15-13:20] お昼
-[13:20-14:20] 中間発表（前半）5チーム
-[*14:20-14:35] 休憩
-[14:35-15:35] 中間発表（後半）5チーム
-[15:35-15:50] まとめ
+[10:00-12:15] 発表準備 / Preparation for Presentation [Teams]
+[*12:15-13:20] お昼 / Lunch
+[13:20-14:20] 中間発表（前半）5チーム / Presentation 1st half [Teams]
+[*14:20-14:35] 休憩 / Break
+[14:35-15:35] 中間発表（後半）5チーム / Presentation 2nd half [Teams]
+[15:35-15:50] まとめ / Summary
 ```
 
-終了後に懇親会
+終了後に懇親会を予定
+
+### Presentation
+
+<!-- ※発表内容：CEP、CFP、ユーザーテスト結果、デザインプロセスを予定してます。 -->
+
+- Give a **3 min.** pitch about your theme/target/problem/solution/differentiation/testimonial(or result of user-testing)
+- Give a **2 min.** skit with your prototype, which expresses user-experience vividly
+- Give a **3 min.** presentation including:
+  - reflections of your design process and what you've learned in EDP-B
+  - plans for further work in EDP-C
+- Take **2 questions** at most
 
 
 ## [EDP-C1] 12/09（土）10:00-15:50
