@@ -140,7 +140,7 @@ NTTデータ、オロ、クックパッド、パナソニック、日本精工
 ### Presentation (11:00-12:15)
 
 - Give a **3 min.** skit about the three prototypes you've made (ideally 1 min. per a  prototype)
-- Take **2 questions** at most
+- Take **2 questions** at most from the audience
 
 ### Homework
 
@@ -163,12 +163,12 @@ NTTデータ、オロ、クックパッド、パナソニック、日本精工
 
 <!-- ※発表内容：CEP、CFP、ユーザーテスト結果、デザインプロセスを予定してます。 -->
 
-- Give a **3 min.** pitch about your theme/target/problem/solution/differentiation/testimonial(or result of user-testing)
-- Give a **2 min.** skit with your prototype, which expresses user-experience vividly
+- Give a **3 min.** pitch about your theme/target/problem/best solution/differentiation/testimonial(or result of user-testing)
+- Give a **2 min.** skit with your best prototype, which expresses user-experience vividly
 - Give a **3 min.** presentation including:
   - reflections of your design process and what you've learned in EDP-B
   - plans for further work in EDP-C
-- Take **2 questions** at most
+- Take **2 questions** at most from the audience
 
 
 ## [EDP-C1] 12/09（土）10:00-15:50
