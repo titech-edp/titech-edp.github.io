@@ -125,16 +125,24 @@ NTTデータ、オロ、クックパッド、パナソニック、日本精工
 
 ## [EDP-B4] 11/11（土）10:00-15:50
 
+<!-- [10:00-10:10] ガイダンス［齋藤］/ Guidance [Saito]
+ !-- [10:10-10:30] アイスブレイク［田尻］ / Icebreak [Tajiri]
+ !-- [10:30-11:00] 発表準備 / Preparation for Presentation [Teams]
+ !-- [11:00-12:15] チーム発表（プロトタイプ） / Presentation (Prototype) [Teams]
+ !-- [*12:15-13:20] お昼 / Lunch
+ !-- [13:20-14:00] 視覚障がい者向け白杖デバイスWalky事例発表［東工大メディア研究会 山崎健太郎］ / Presentation [TITAMAS]
+ !-- [14:00-14:50] ユーザーテスト講義（CJMも含む）［角］ / Lecture of User Testing [Kado]
+ !-- [*14:50-15:05] 休憩 / Break
+ !-- [15:05-15:50] ユーザーテスト計画（チーム活動） / Preparation for User Testing [Teams] -->
+
 ```
 [10:00-10:10] ガイダンス［齋藤］/ Guidance [Saito]
 [10:10-10:30] アイスブレイク［田尻］ / Icebreak [Tajiri]
 [10:30-11:00] 発表準備 / Preparation for Presentation [Teams]
-[11:00-12:15] チーム発表（プロトタイプ） / Presentation (Prototype) [Teams]
-[*12:15-13:20] お昼 / Lunch
-[13:20-14:00] 視覚障がい者向け白杖デバイスWalky事例発表［東工大メディア研究会 山崎健太郎］ / Presentation [TITAMAS]
-[14:00-14:50] ユーザーテスト講義（CJMも含む）［角］ / Lecture of User Testing [Kado]
-[*14:50-15:05] 休憩 / Break
-[15:05-15:50] ユーザーテスト計画（チーム活動） / Preparation for User Testing [Teams]
+[11:00-13:00] チーム発表（プロトタイプ） / Presentation (Prototype) [Teams]
+[*13:00-14:20] お昼 / Lunch
+[14:20-15:20] 視覚障がい者向け白杖デバイスWalky事例発表［東工大メディア研究会 山崎健太郎］ / Presentation [TITAMAS]
+[15:20-15:50] ユーザーテスト講義［角］ / Lecture of User Testing [Kado]
 ```
 
 ### Presentation (11:00-12:15)
@@ -144,7 +152,7 @@ NTTデータ、オロ、クックパッド、パナソニック、日本精工
 
 ### Homework
 
-- user testing for the three prorotypes
+- user testing and preparation for the presentation
 
 ## [EDP-B5] 11/18（土）10:00-15:50
 
@@ -155,15 +163,14 @@ NTTデータ、オロ、クックパッド、パナソニック、日本精工
 [*14:20-14:35] 休憩 / Break
 [14:35-15:35] 中間発表（後半）5チーム / Presentation 2nd half [Teams]
 [15:35-15:50] まとめ / Summary
-```
-
 終了後に懇親会を予定
+```
 
 ### Presentation
 
 <!-- ※発表内容：CEP、CFP、ユーザーテスト結果、デザインプロセスを予定してます。 -->
 
-- Give a **3 min.** pitch about your theme/target/problem/best solution/differentiation/testimonial(or result of user-testing)
+- Give a **3 min.** pitch about your solution
 - Give a **2 min.** skit with your best prototype, which expresses user-experience vividly
 - Give a **3 min.** presentation including:
   - reflections of your design process and what you've learned in EDP-B
