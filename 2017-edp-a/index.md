@@ -193,6 +193,35 @@ In the next class, please bring your fully charged PCs with the Arduino IDE.
   3. デザインプロセスの説明
   Description of the design process. Please tell it as a story.
 
+
+## 単位履修者向けレポート課題
+
+
+### 【最終ソリューションとプロトタイプについて About final solutions and prototypes】
+
+1) あなたが「満足している点」とその理由を記述してください。
+Please describe what led to your "satisfaction" and the reason.
+
+2) あなたが「満足していない点」とその理由を記述してください。
+Please describe what led to your "dissatisfaction" and the reason.
+
+### 【デザインプロセス（観察、プロトタイプ、ユーザーテスト）について About the design process (observation/prototype/user test)】
+
+1) 上記の「満足している点」につながったデザインプロセスはどのようなものでしたか。具体的なエピソードを記述してください。
+What was the design process led to your "satisfaction" above? Please describe it with concrete episodes.
+
+2) 上記の「満足していない点」につながったデザインプロセスはどのようなものでしたか。十分に理解/実践できなかったことも含め、具体的なエピソードを記述してください。
+What was the design process led to your "dissatisfaction" above? Please describe it with concrete episodes, including what you could NOT understand and/or practice adequately.
+
+### 【チーム活動について About team activities】
+
+1) 上記の「満足している点」につながったチーム活動はどのようなものでしたか。あなたの貢献がわかるように、具体的なエピソードを記述してください。
+What kind of team activities led to your "satisfaction" above? Please describe it with concrete episodes so that we can see your contribution.
+
+2) 上記の「満足していない点」につながったチーム活動はどのようなものでしたか。具体的なエピソードと今後の改善点を述してください。
+What kind of team activities led to your "dissatisfaction" above? Please describe it with concrete episodes and future improvement points.
+
+
 ## [EDP-A-EXTRA]
 
 - 未来洞察
