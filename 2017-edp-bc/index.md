@@ -229,4 +229,9 @@ NTTデータ、オロ、クックパッド、パナソニック、日本精工
 
 最終発表
 
+＠西9号館 2階 デジタル多目的ホール
+
+- http://www.dst.titech.ac.jp/outline/facility/hall.html
+- English http://www.dst.titech.ac.jp/outline/facility/hall_en.html
+
 ## [EDP-EXTRA] 2/17（土）CBECコンペ（参加は任意）
