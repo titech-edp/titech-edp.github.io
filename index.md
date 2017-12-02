@@ -42,14 +42,14 @@ layout: default
 <div class="col-md-5">
 
 <div class="panel panel-default">
-  <div class="panel-heading">企業のみなさまへ</div>
+  <div class="panel-heading">:postbox: 企業のみなさまへ</div>
   <div class="panel-body">
 東工大EDPにご関心のある企業様は、メールアドレスをご登録いただければ、各種情報をお送りいたします。▶【<a href="https://cbec-titech.doorkeeper.jp/member/new">メールアドレスを登録する</a>】
   </div>
 </div>
 
 <div class="panel panel-default">
-  <div class="panel-heading">これまでの協力企業</div>
+  <div class="panel-heading">:office: これまでにご協力いただいた企業</div>
   <div class="panel-body">
 <ul>
 <li>【2017年度】NTTデータ、オロ、クックパッド、パナソニック、日本精工</li>
@@ -60,7 +60,7 @@ layout: default
 
 
 <div class="panel panel-default">
-  <div class="panel-heading">各種リンク</div>
+  <div class="panel-heading">:globe_with_meridians: 各種リンク</div>
   <div class="panel-body">
 <ul>
 <li><a href="http://www.eng.titech.ac.jp/~cbe/">東京工業大学 チーム志向越境型アントレプレナー育成プログラム（CBEC）</a></li>
