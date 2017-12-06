@@ -177,6 +177,10 @@ NTTデータ、オロ、クックパッド、パナソニック、日本精工
   - plans for further work in EDP-C
 - Take **2 questions** at most from the audience
 
+### Reflection
+
+- [Kudo card](https://management30.com/product/kudo-cards/)
+
 
 ## [EDP-C1] 12/09（土）10:00-15:50
 
@@ -184,10 +188,13 @@ NTTデータ、オロ、クックパッド、パナソニック、日本精工
 [10:00-10:30] ガイダンスとアイスブレイク / Guidance and Icebreak
 [10:30-12:15] フィードバック / Feedback
 [*12:15-13:20] お昼 / Lunch
-[13:20-14:50] プレゼン講義 / Lecture of Presentation
+[13:20-14:50] TBD
 [*14:50-15:05] 休憩 / Break
 [15:05-15:50] グループワーク / Group Work
 ```
+- 最終レポートについて案内する / Announce a final report.
+- 次回の発表に清書した「Define」を含める / You should include refined "Define" in the next presentation.
+
 
 ## [EDP-C2] 12/16（土）10:00-15:50
 
