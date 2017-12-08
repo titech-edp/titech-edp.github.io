@@ -185,16 +185,21 @@ NTTデータ、オロ、クックパッド、パナソニック、日本精工
 ## [EDP-C1] 12/09（土）10:00-15:50
 
 ```
-[10:00-10:30] ガイダンスとアイスブレイク / Guidance and Icebreak
-[10:30-12:15] フィードバック / Feedback
+[10:00-10:10] アイスブレイク［水野］ / Icebreak [Mizuno]
+[10:10-10:20] ガイダンス［坂本］/ Guidance [Sakamoto]
+[10:20-10:45] アンケートの回答と連絡［角］ / Summary of the Questionnaire and Announcement [Kado]
+  - 最終レポートの案内 / Final Presentation
+  - Trello, Kibela, esa
+[10:45-11:30] フィードバックとふりかえり［坂本］ / Feedback and Reflection［Sakamoto］
+[11:30-12:15] グループワーク / Group Activity
+  - Making POV and Value ladder
 [*12:15-13:20] お昼 / Lunch
-[13:20-14:50] TBD
+[13:20-14:50] グループワーク / Group Activity
+  - Evaluating POV and Value ladder with faculty
 [*14:50-15:05] 休憩 / Break
-[15:05-15:50] グループワーク / Group Work
+[15:05-15:50] グループワーク / Group Activity
+  - Preparing the next Presentation
 ```
-- 最終レポートについて案内する / Announce a final report.
-- 次回の発表に清書した「Define」を含める / You should include refined "Define" in the next presentation.
-
 
 ## [EDP-C2] 12/16（土）10:00-15:50
 
@@ -202,7 +207,7 @@ NTTデータ、オロ、クックパッド、パナソニック、日本精工
 [10:00-10:30] ガイダンスとアイスブレイク / Guidance and Icebreak
 [10:30-12:15] チーム発表 / Presentation
 [*12:15-13:20] お昼 / Lunch
-[13:20-15:50] グループワーク / Group Work
+[13:20-15:50] グループワーク / Group Activity
 ```
 
 ## [EDP-C3] 1/06（土）10:00-15:50
@@ -211,7 +216,7 @@ NTTデータ、オロ、クックパッド、パナソニック、日本精工
 [10:00-10:30] ガイダンスとアイスブレイク / Guidance and Icebreak
 [10:30-12:15] チーム発表 / Presentation
 [*12:15-13:20] お昼 / Lunch
-[13:20-15:50] グループワーク / Group Work
+[13:20-15:50] グループワーク / Group Activity
 ```
 
 ## [EDP-C4] 1/20（土）10:00-15:50
@@ -220,7 +225,7 @@ NTTデータ、オロ、クックパッド、パナソニック、日本精工
 [10:00-10:30] ガイダンスとアイスブレイク / Guidance and Icebreak
 [10:30-12:15] チーム発表 / Presentation
 [*12:15-13:20] お昼 / Lunch
-[13:20-15:50] グループワーク / Group Work
+[13:20-15:50] グループワーク / Group Activity
 ```
 
 ## [EDP-C5] 2/03（土）10:00-15:50
@@ -229,7 +234,7 @@ NTTデータ、オロ、クックパッド、パナソニック、日本精工
 [10:00-10:30] ガイダンスとアイスブレイク / Guidance and Icebreak
 [10:30-12:15] チーム発表 / Presentation
 [*12:15-13:20] お昼 / Lunch
-[13:20-15:50] グループワーク / Group Work
+[13:20-15:50] グループワーク / Group Activity
 ```
 
 ## [EDP-C6] 2/10（土）13:00-17:30（最終発表会）
