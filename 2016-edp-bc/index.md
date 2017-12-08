@@ -131,7 +131,11 @@ title: 2016年度「エンジニアリングデザインプロジェクトB/C」
 
 ### 内容
 
-- プロトタイピングとユーザーテスト（[▶スライド](https://www.slideshare.net/kdmsnr/prototyping-and-user-testing-20161210)）
+1. 【講義】EDP-C講義目標説明 (齋藤)
+2. 【講義】ユーザーテストのやり方と意味(角) （[▶スライド](https://www.slideshare.net/kdmsnr/prototyping-and-user-testing-20161210)）
+3. 【講義】プロジェクト進行方向詳細説明(坂本) 場所，時間，予算，物品購入方，質問方法など
+4. グループワーク 中間発表からのアップデート共有，各班の目標再設定
+5. プレゼンテーション 3Qの活動の振り返り，次回のプレゼンまでの活動計画
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftitech.cbec%2Fposts%2F530603103815241&width=500" width="500" height="752" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
