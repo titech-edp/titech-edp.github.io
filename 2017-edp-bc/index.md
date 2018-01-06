@@ -137,7 +137,7 @@ NTTデータ、オロ、クックパッド、パナソニック、日本精工
 
 ```
 [10:00-10:10] ガイダンス［齋藤］/ Guidance [Saito]
-[10:10-10:30] アイスブレイク［田尻］ / Icebreak [Tajiri]
+[10:10-10:30] アイスブレイク「風が吹けば桶屋が儲かる」［田尻］ / Icebreak [Tajiri]
 [10:30-11:00] 発表準備 / Preparation for Presentation [Teams]
 [11:00-13:00] チーム発表（プロトタイプ） / Presentation (Prototype) [Teams]
 [*13:00-14:20] お昼 / Lunch
@@ -157,7 +157,8 @@ NTTデータ、オロ、クックパッド、パナソニック、日本精工
 ## [EDP-B5] 11/18（土）10:00-15:50
 
 ```
-[10:00-12:15] 発表準備 / Preparation for Presentation [Teams]
+[10:00-10:10] アイスブレイク「カタのポーズ」［奥出］/ Icebreak [Okude]
+[10:10-12:15] 発表準備 / Preparation for Presentation [Teams]
 [*12:15-13:20] お昼 / Lunch
 [13:20-14:20] 中間発表（前半）5チーム / Presentation 1st half [Teams]
 [*14:20-14:35] 休憩 / Break
@@ -204,7 +205,7 @@ NTTデータ、オロ、クックパッド、パナソニック、日本精工
 ## [EDP-C2] 12/16（土）10:00-15:50
 
 ```
-[10:00-10:10] アイスブレイク［バチスタ］ / Icebreak [Batista]
+[10:00-10:10] アイスブレイク「じゃんけん列車」［バチスタ］ / Icebreak [Batista]
 [10:10-10:20] ガイダンス［齋藤］/ Guidance [Saito]
 [10:00-10:30] ガイダンスとアイスブレイク / Guidance and Icebreak
 [10:30-12:15] チーム発表 / Presentation
@@ -215,7 +216,7 @@ NTTデータ、オロ、クックパッド、パナソニック、日本精工
 ## [EDP-C3] 1/06（土）10:00-15:50
 
 ```
-[10:00-10:10] アイスブレイク［阿多］ / Icebreak [Ata]
+[10:00-10:10] アイスブレイク「人間知恵の輪」［阿多］ / Icebreak [Ata]
 [10:10-10:20] ガイダンス［齋藤］/ Guidance [Saito]
 [10:30-12:15] チーム発表 / Presentation
 [*12:15-13:20] お昼 / Lunch
