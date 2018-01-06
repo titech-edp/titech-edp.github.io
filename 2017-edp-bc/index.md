@@ -204,6 +204,8 @@ NTTデータ、オロ、クックパッド、パナソニック、日本精工
 ## [EDP-C2] 12/16（土）10:00-15:50
 
 ```
+[10:00-10:10] アイスブレイク［バチスタ］ / Icebreak [Batista]
+[10:10-10:20] ガイダンス［齋藤］/ Guidance [Saito]
 [10:00-10:30] ガイダンスとアイスブレイク / Guidance and Icebreak
 [10:30-12:15] チーム発表 / Presentation
 [*12:15-13:20] お昼 / Lunch
@@ -213,7 +215,8 @@ NTTデータ、オロ、クックパッド、パナソニック、日本精工
 ## [EDP-C3] 1/06（土）10:00-15:50
 
 ```
-[10:00-10:30] ガイダンスとアイスブレイク / Guidance and Icebreak
+[10:00-10:10] アイスブレイク［阿多］ / Icebreak [Ata]
+[10:10-10:20] ガイダンス［齋藤］/ Guidance [Saito]
 [10:30-12:15] チーム発表 / Presentation
 [*12:15-13:20] お昼 / Lunch
 [13:20-15:50] グループワーク / Group Activity
@@ -222,7 +225,8 @@ NTTデータ、オロ、クックパッド、パナソニック、日本精工
 ## [EDP-C4] 1/20（土）10:00-15:50
 
 ```
-[10:00-10:30] ガイダンスとアイスブレイク / Guidance and Icebreak
+[10:00-10:10] アイスブレイク［TBA］ / Icebreak [TBA]
+[10:10-10:20] ガイダンス［齋藤］/ Guidance [Saito]
 [10:30-12:15] チーム発表 / Presentation
 [*12:15-13:20] お昼 / Lunch
 [13:20-15:50] グループワーク / Group Activity
@@ -231,7 +235,8 @@ NTTデータ、オロ、クックパッド、パナソニック、日本精工
 ## [EDP-C5] 2/03（土）10:00-15:50
 
 ```
-[10:00-10:30] ガイダンスとアイスブレイク / Guidance and Icebreak
+[10:00-10:10] アイスブレイク［TBA］ / Icebreak [TBA]
+[10:10-10:20] ガイダンス［齋藤］/ Guidance [Saito]
 [10:30-12:15] チーム発表 / Presentation
 [*12:15-13:20] お昼 / Lunch
 [13:20-15:50] グループワーク / Group Activity
@@ -243,7 +248,8 @@ NTTデータ、オロ、クックパッド、パナソニック、日本精工
 
 ＠西9号館 2階 デジタル多目的ホール
 
-- http://www.dst.titech.ac.jp/outline/facility/hall.html
-- English http://www.dst.titech.ac.jp/outline/facility/hall_en.html
+- <http://www.dst.titech.ac.jp/outline/facility/hall.html>
+- English <http://www.dst.titech.ac.jp/outline/facility/hall_en.html>
 
-## [EDP-EXTRA] 2/17（土）CBECコンペ（参加は任意）
+## [EDP-EXTRA] 2/17（土）CBECシンポジウム（参加は任意）
+
