@@ -6,12 +6,10 @@ layout: default
 
 <div class="col-md-7">
 
-<div class="panel panel-info">
+<div class="panel panel-primary">
   <div class="panel-heading">EDPが書籍になりました :tada: </div>
   <div class="panel-body">
 <p><a href="http://www.shoeisha.co.jp/book/detail/9784798153858"><img src="images/edp-book.png" /></a></p>
-
-<p>2017/12/15 発売予定です。</p>
   </div>
 </div>
 <h2>2017年度</h2>
