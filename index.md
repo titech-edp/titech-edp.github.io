@@ -16,7 +16,7 @@ layout: default
 <h2>ブログ新着記事</h2>
 <ul>
 {% for i in site.data.medium.payload.references.Post limit: 5 %}
-<li><a href="https://medium.com/titech-eng-and-design-{{ i[1]['id'] }}">{{ i[1]['title'] }}</a></li>
+<li><a href="https://medium.com/titech-eng-and-design/-{{ i[1]['id'] }}">{{ i[1]['title'] }}</a></li>
 {% endfor %}
 </ul>
 
