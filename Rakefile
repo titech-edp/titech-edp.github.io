@@ -44,3 +44,14 @@ desc "jekyll server"
 task :s do
   sh "bundle exec jekyll s"
 end
+
+desc "Get medium's json"
+task :medium_json do
+  sh 'wget "https://medium.com/titech-eng-and-design/?format=json" -O _data/medium.json'
+  json = File.open("_data/medium.json") {|f|
+    f.read.gsub("])}while(1);</x>", "")
+  }
+  File.open("_data/medium.json", "w") do |f|
+    f.write json
+  end
+end
