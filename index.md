@@ -12,6 +12,14 @@ layout: default
 <p><a href="http://www.shoeisha.co.jp/book/detail/9784798153858"><img src="images/edp-book.png" /></a></p>
   </div>
 </div>
+
+<h2>ブログ新着記事</h2>
+<ul>
+{% for i in site.data.medium.payload.references.Post limit: 7 %}
+<li><a href="https://medium.com/titech-eng-and-design-{{ i[1]['id'] }}">{{ i[1]['title'] }}</a></li>
+{% endfor %}
+</ul>
+
 <h2>2017年度</h2>
 <ul>
 <li><a href="/2017-dtf-a/">デザイン思考基礎a</a></li>
