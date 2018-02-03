@@ -253,15 +253,17 @@ NTTデータ、オロ、クックパッド、パナソニック、日本精工
   - <http://www.dst.titech.ac.jp/outline/facility/hall.html>
   - [English] <http://www.dst.titech.ac.jp/outline/facility/hall_en.html>
 - 準備・会場設営（学生向け）：
+- 申し込み：<https://cbec-titech.doorkeeper.jp/events/69767>
 
 ```
 [-10:00] デザイン工房に集合 / The meeting place is Design Factory
-[10:00-11:00] リハーサル［坂本、TA］ / rehearsal [Sakamoto, TAs]
+[10:00-11:00] リハーサル［坂本、TA］ / Rehearsal [Sakamoto, TAs]
 [-11:00] コラボレーションルームへ移動 / Move to Collaboration Room
-[11:00-11:30] デモの準備［因幡、土方］ / Preparation for the demo [Inaba, Hijikata]
-| - 作成したプロトタイプ
-| - 電源など必要なもの
-| - 机の配置
+[11:00-11:30] デモの準備 / Preparation for the demo
+| - 作成したプロトタイプ / Prototype
+| - 電源など必要なもの / Power strip etc. whatever you need
+| - 机の配置 / Desk layout
+| - 接続チェック / Monitor check
 [*11:30-13:00] お昼 / Lunch
 ```
 
@@ -270,15 +272,16 @@ NTTデータ、オロ、クックパッド、パナソニック、日本精工
 ```
 [12:45-13:00] 受付 / Reception［TBA］
 [13:00-15:10] プレゼンテーション / Presentation
-| 司会：［TA（奥出、阿多、田尻）］
-| 
-| - 協力企業からのプレゼンテーション（3分）
+司会/M.C.：［TA（奥出、阿多、田尻）］
+| ご挨拶とEDPの概要説明［齋藤］
+  プレゼンテーション：
+| - 協力企業からのプレゼンテーション（3分） / Presentation by the Corporate Partner
 |  （1. テーマ説明、2. EDPの講評）
-| - 担当チーム(1)からのプレゼンテーション（8分）
-| - 担当チーム(2)からのプレゼンテーション（8分）
-| 
+| - 担当チーム(1)からのプレゼンテーション（8分） / Presentation by Team 1
+| - 担当チーム(2)からのプレゼンテーション（8分） / Presentation by Team 2
+|
 | × 5（合計5社10チーム）
-| 
+|
 | （途中で休憩を何度か挟みます）
 
 [-15:10] コラボレーションルームへ移動 / Move to Collaboration Room
@@ -292,4 +295,3 @@ NTTデータ、オロ、クックパッド、パナソニック、日本精工
 ```
 
 ## [EDP-EXTRA] 2/17（土）CBECシンポジウム（参加は任意）
-
