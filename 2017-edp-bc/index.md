@@ -3,6 +3,19 @@ layout: page
 title: 2017年度「エンジニアリングデザインプロジェクトB/C」
 ---
 
+# 最終成果物
+
+{% for t in site.data["2017-edp-bc-teams"] %}
+<h2>[{{ t.team_id }}] {{ t.name }}（協力企業：{{ t.corp }}）</h2>
+<blockquote>テーマ：{{ t.theme }}</blockquote>
+<div class="btn-group" role="group">
+  {% for d in t.data %}
+    <a href="{{ d[1] }}" role="button" class="btn"><span class="glyphicon glyphicon-circle-arrow-down" aria-hidden="true" />{{ d[0] }}</a>
+  {% endfor %}
+</div>
+{% endfor %}
+
+
 # Staff
 
 ## Instructors

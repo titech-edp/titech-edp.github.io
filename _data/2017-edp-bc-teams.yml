@@ -1,0 +1,89 @@
+- team_id: 1
+  name: wecook
+  corp: クックパッド株式会社
+  theme: 毎日の料理体験を再デザインせよ
+  data:
+    レポート: https://drive.google.com/open?id=1qgGrGAKCW4NFhh2kDGSzv9M2LCqHRnTJ
+    スライド: https://drive.google.com/open?id=1CBxgbHghrI4DVOEh_HrnJ4dSoaVl5W1T
+    動画: https://drive.google.com/open?id=1P7xb9YCWiaULdl6nRn3eL1X27IOY9Sn_
+
+- team_id: 2
+  name: ぱくちーず
+  corp: クックパッド株式会社
+  theme: 毎日の料理体験を再デザインせよ
+  data:
+    レポート: https://drive.google.com/open?id=1fTWpu6tp1m3DAARep9juWLL9ruX2TAHH
+    スライド: https://drive.google.com/open?id=1qfjGA7eNHIk_oUpgEzNuQBCRxGscxYxz
+    動画: https://youtu.be/VViYCddg_S4
+
+- team_id: 3
+  name: ham
+  corp: 株式会社ＮＴＴデータ
+  theme: 日本における地域公共サービスの利用体験を再デザインせよ
+  data:
+    レポート: https://drive.google.com/open?id=1QQM6Ypw3RmW6aCanQOw6gNuxRuFFGslA
+    スライド: https://drive.google.com/open?id=1NXLcZNvaPqvuDuHtnbaJsy-FuEG2lQMq
+    動画: https://youtu.be/-qkxB9IKad4
+
+- team_id: 4
+  name: CT-Tech
+  corp: 株式会社ＮＴＴデータ
+  theme: 日本における地域公共サービスの利用体験を再デザインせよ
+  data:
+    レポート: https://drive.google.com/open?id=180Yiwhsmu9TGkOtdhlm_vLDn0xEB1pU_
+    スライド: https://drive.google.com/open?id=1Tp1kxuRQ7pPKdmJVd2Y7KOFTUmTpD9Br
+    動画: https://drive.google.com/open?id=1A6MTKuznYS2k1daBAFObo4KYheuT0eMl
+
+- team_id: 5
+  name: panaspace
+  corp: パナソニック株式会社
+  theme: 日本で暮らす外国人の賃貸物件における在宅体験を再デザインせよ
+  data:
+    レポート: https://drive.google.com/open?id=14Uievoe4kba9OuW8jv4jJC_UQ3xGh8Pm
+    スライド: https://drive.google.com/open?id=10zCjir3J8X9J0XtdsAAMHTLFD-PbsYNn
+    動画: https://youtu.be/4ASvBr5Psy4
+
+- team_id: 6
+  name: Pano
+  corp: パナソニック株式会社
+  theme: 日本で暮らす外国人の賃貸物件における在宅体験を再デザインせよ
+  data:
+    レポート: https://drive.google.com/open?id=1xQ42gt5ojsA8PA1PfHvu-vVaIpXv_6Wd
+    スライド: https://drive.google.com/open?id=1yK9jXMiaujaQkOxcKG9PVTRUxnVjNuxc
+    動画: https://drive.google.com/open?id=1MmuOi7AVzuR2Mv1Y1Mwc2nku-A2-p54C
+
+- team_id: 7
+  name: 蕎麦の季節
+  corp: 日本精工株式会社
+  theme: ビニールハウス農場における作業体験を再デザインせよ
+  data:
+    レポート: https://drive.google.com/open?id=1ulYWAAPjQEopaf-3RxiUUMl0tXAwkJ_i
+    スライド: https://drive.google.com/open?id=1n--QrY3nKnQQj6H84SQkqdvsWVIHxs2y
+    動画: https://drive.google.com/open?id=1ex9L7WrUrT1LYLrDCMLgDE08lJJnRbnf
+
+- team_id: 8
+  name: mens_tuckks
+  corp: 日本精工株式会社
+  theme: ビニールハウス農場における作業体験を再デザインせよ
+  data:
+    レポート: https://drive.google.com/open?id=1pGXWZpDuA6yDY2WLGt7dH3mXKu8se1E0
+    スライド: https://drive.google.com/open?id=1fSmIGm6lW27ZkHxFHFmtfgFG2sVYt98s
+    動画: https://drive.google.com/open?id=11g3WexK6NHJx3pr5FE09BXJQd_Woh6HJ
+
+- team_id: 9
+  name: 才口
+  corp: 株式会社オロ
+  theme: 商業施設における購買体験を再デザインせよ
+  data:
+    レポート: https://drive.google.com/open?id=1cpJtzPBEMDC6HnEJBFLgadGSKtffolVK
+    スライド: https://drive.google.com/open?id=1KA8uRLXBb2vmTCbwA6mra_1FpIFvobho
+    動画: https://drive.google.com/open?id=1o4q8o8CNFBLBUeHfKSe7o1pSPeHIg31X
+
+- team_id: 10
+  name: dooRo
+  corp: 株式会社オロ
+  theme: 商業施設における購買体験を再デザインせよ
+  data:
+    レポート: https://drive.google.com/open?id=1eBbHCUEbRqW1-RNkSQ6V_fNdDgab-nA8
+    スライド: https://drive.google.com/open?id=1sygxkw5jOrhmPmbbr0kKLXt2We7EJrms
+    動画: https://drive.google.com/open?id=1I1vA29MU76EvlbTYJSeIu93UDkGoPtx2
