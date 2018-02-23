@@ -62,7 +62,7 @@ layout: default
 <div class="panel panel-default">
   <div class="panel-heading">:postbox: 企業のみなさまへ</div>
   <div class="panel-body">
-東工大EDPにご関心のある企業様は、メールアドレスをご登録いただければ、各種情報をお送りいたします。▶【<a href="https://cbec-titech.doorkeeper.jp/member/new">メールアドレスを登録する</a>】
+東工大EDPにご関心のある企業様は、メールアドレスをご登録いただければ、各種情報をお送りいたします。▶【<a href="https://titech-edp.doorkeeper.jp/member/new">メールアドレスを登録する</a>】
   </div>
 </div>
 
