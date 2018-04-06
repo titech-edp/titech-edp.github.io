@@ -17,6 +17,7 @@ title: EDP Toolkit
 ## DTF worksheet
 
 - [Today's World](todays-world.pdf)
-- [朝の儀式](morning-ritual_ja.pdf)
-- [タテマエメソッド](tatemae_ja.pdf)
+- [Morning ritual](morning-ritual.pdf)、[朝の儀式](morning-ritual_ja.pdf)
+- [POV with Tatemae method](tatemae.pdf)、[POVとタテマエメソッド](tatemae_ja.pdf)
 - [Brainwriting](brainwriting.pdf)
+
