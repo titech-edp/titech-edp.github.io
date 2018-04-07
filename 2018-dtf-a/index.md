@@ -12,7 +12,7 @@ title: 2018 "Design Thinking Fundamental a"
 Design an innovative [event in sprint] experience for [someone].
 
 1. graduation trip / for university students
-2. hanami / for business people
+2. relationship / between Senpai and Kohai
 3. welcome party / for new comers
 
 (Your team can choose 1, 2, or 3.)
