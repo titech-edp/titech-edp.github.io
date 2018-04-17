@@ -18,6 +18,7 @@ title: EDP Toolkit
 - [HMWQ and Design Principles](hmwq-design-principles.pdf)
 - [Product Sketch](product-sketch.pdf)
 - [Storyboard](storyboard.pdf)
+- [HMWQ samples](hmwq_samples.pdf)
 
 ## DTF worksheet
 
