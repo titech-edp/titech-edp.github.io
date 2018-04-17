@@ -17,7 +17,7 @@ title: EDP Toolkit
 - [POV with Tatemae method](tatemae.pdf)、[POVとタテマエメソッド](tatemae_ja.pdf)
 - [HMWQ and Design Principles](hmwq-design-principles.pdf)
 - [Product Sketch](product-sketch.pdf)
-- [Storyboard](usage_scenario.pdf)
+- [Storyboard](storyboard.pdf)
 
 ## DTF worksheet
 
