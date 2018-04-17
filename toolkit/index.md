@@ -14,10 +14,13 @@ title: EDP Toolkit
  !-- 6. Story Pines Template
  !-- 7. User Test Script -->
 
+- [POV with Tatemae method](tatemae.pdf)、[POVとタテマエメソッド](tatemae_ja.pdf)
+- [HMWQ and Design Principles](hmwq-design-principles.pdf)
+- [Product Sketch](product-sketch.pdf)
+- [Storyboard](usage_scenario.pdf)
+
 ## DTF worksheet
 
 - [Today's World](todays-world.pdf)
 - [Morning ritual](morning-ritual.pdf)、[朝の儀式](morning-ritual_ja.pdf)
-- [POV with Tatemae method](tatemae.pdf)、[POVとタテマエメソッド](tatemae_ja.pdf)
 - [Brainwriting](brainwriting.pdf)
-
