@@ -3,6 +3,8 @@ layout: page
 title: 2018年度「デザイン思考基礎b」
 ---
 
+<script async class="speakerdeck-embed" data-id="65488c6d836545e382be24255e9fa5e2" data-ratio="1.333125" src="//speakerdeck.com/assets/embed.js"></script>
+
 # シラバス
 
 [デザイン思考基礎 B - TOKYO TECH OCW](http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=2&GakkaCD=321502&KeiCD=15&course=2&KougiCD=201813496&Nendo=2018&lang=JA&vid=03)
