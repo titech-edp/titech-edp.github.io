@@ -51,7 +51,6 @@ Individually, do the following steps for your design challenge and summarize in 
 
 - Additional User Research (interview + transcription) optional
 - POV (need and insight): 2 or more
-- HMW question: 2 or more for each of your POV.
 
 Post the link to ``Slack#homework-20180423``.
 
