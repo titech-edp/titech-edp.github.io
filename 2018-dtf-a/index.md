@@ -88,8 +88,7 @@ Please upload the link to ``Slack#homework-20180514``
 ## [DTFa-6] 5/21 (mon) 13:20-16:35
 
 - Module 5: Prototype
-- Module 6: Business Design
-- Module 7: Storytelling
+- Module 6: Storytelling
 
 ### Assignment/Homework:
 
@@ -98,11 +97,11 @@ Please upload the link to ``Slack#homework-20180514``
 
 ## [DTFa-7] 6/04 (mon) 13:20-16:35
 
-- Module 7: Storytelling
+- Module 6: Storytelling
 
 ## [DTFa-8] 6/11 (mon) 13:20-16:35
 
-- Module 8: Final Presentation
+- Module 7: Final Presentation
 
 ### Assignment/Homework
 
