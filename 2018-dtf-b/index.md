@@ -113,7 +113,7 @@ title: 2018年度「デザイン思考基礎b」
 ### 宿題：
 
 - 個人レポート：Google Formから提出（後ほど指示します）
-- チームレポート：発表スライドをSlideshareかSpeakerDeckにアップして、そのURLを``Slack#homework-20180602``に投稿すること。
+- チームレポート：発表スライドをSlideshareかSpeakerDeckにアップして、そのURLを``Slack#final-presentation-b``に投稿すること。
 
 # その他の情報源
 
