@@ -33,6 +33,11 @@ title: 2018年度「デザイン思考基礎b」
 - モジュール２：調査と気づき
 - ふりかえり
 
+### スライド：
+
+- <https://speakerdeck.com/kdmsnr/tokyo-tech-dtf-2018-introduction>
+- <https://speakerdeck.com/kdmsnr/tokyo-tech-dtf-2018-user-research>
+
 ### 宿題：
 
 - ユーザーリサーチ（インタビューと文字起こし）：3人以上
@@ -46,6 +51,11 @@ title: 2018年度「デザイン思考基礎b」
 - モジュール３：統合と機会領域
 - モジュール４：アイデア創造とコンセプト開発
 - ふりかえり
+
+### スライド：
+
+- <https://speakerdeck.com/kdmsnr/tokyo-tech-dtf-2018-define>
+- <https://speakerdeck.com/kdmsnr/tokyo-tech-dtf-2018-ideation>
 
 ### 宿題：
 
@@ -64,6 +74,10 @@ title: 2018年度「デザイン思考基礎b」
 - モジュール５：プロトタイピング
 - プロトタイプ制作
 
+### スライド：
+
+- <https://speakerdeck.com/kdmsnr/tokyo-tech-dtf-2018-prototype>
+
 ### 宿題：
 
 - 新しいPOVとHMWを作成する
@@ -79,6 +93,10 @@ title: 2018年度「デザイン思考基礎b」
 
 - モジュール６：ストーリーテリング
 - プロトタイプ制作 + 発表の準備
+
+### スライド：
+
+- <https://speakerdeck.com/kdmsnr/tokyo-tech-dtf-2018-storytelling>
 
 ### 宿題：
 
@@ -100,3 +118,4 @@ title: 2018年度「デザイン思考基礎b」
 # その他の情報源
 
 - Slack: [https://cbec-dtf-2018.slack.com](https://cbec-dtf-2018.slack.com)
+

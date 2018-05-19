@@ -26,6 +26,9 @@ timezone: Asia/Tokyo
 
 # Build settings
 markdown: kramdown
+kramdown:
+  input: GFM
+
 theme: minima
 gems:
   - jemoji
@@ -34,3 +37,5 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "vendor"]
