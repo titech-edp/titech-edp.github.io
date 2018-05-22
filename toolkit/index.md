@@ -24,7 +24,7 @@ title: EDP Toolkit
 ## Define
 - [POV with Tatemae method](pov-tatemae.pdf)（日本語：[POVとタテマエメソッド](pov-tatemae_ja.pdf)）
 - [POV with Tatemae method (v2)](pov-tatemae_v2.pdf)（日本語：[POVとタテマエメソッド (v2)](pov-tatemae_ja_v2.pdf)）
-- [POV with Extreme Users](pov-extreme-users.pdf)（日本語：[POVとエクストリームユーザー](pov-extreme-users_ja_v2.pdf)）
+- [POV with Extreme Users](pov-extreme-users.pdf)（日本語：[POVとエクストリームユーザー](pov-extreme-users_ja.pdf)）
 
 ## Ideate
 - [HMWQ and Design Principles](hmwq-design-principles.pdf)
