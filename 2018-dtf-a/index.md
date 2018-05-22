@@ -39,7 +39,7 @@ Individually, do design researches:
 - Observation (taking photos + descrription): 1+ places
 - Analogous Inspiration: 1+ analogies
 
-Put them together as a PDF file and share the link in ``Slack#homework-20180416``.
+Put them together as a PDF file and share the link in ``Slack#homework-20180423``.
 
 ## [DTFa-3] 4/23 (mon) 13:20-16:35
 
@@ -52,7 +52,7 @@ Individually, do the following steps for your design challenge and summarize in 
 - Additional User Research (interview + transcription) optional
 - POV (need and insight): 2 or more
 
-Post the link to ``Slack#homework-20180423``.
+Post the link to ``Slack#homework-20180507``.
 
 ## [DTFa-4] 5/07 (mon) 13:20-16:35
 
@@ -71,7 +71,7 @@ Individually, run through from "Synthesis" to "Concept Development" (a.k.a. from
   - 3rd: Introduce your solution
   - 4th: "After" experience (user outcome / happiness)
 
-Summarize in a on-page PDF file and post the link to ``Slack#homework-20180507``.
+Summarize in a on-page PDF file and post the link to ``Slack#homework-20180514``.
 
 ## [DTFa-5] 5/14 (mon) 13:20-16:35
 
@@ -79,25 +79,23 @@ Summarize in a on-page PDF file and post the link to ``Slack#homework-20180507``
 
 ### Assignment/Homework:
 
-Individually, refine your idea using feedbacks.
-
-- Draw a sheet of concept sketch.
-
-Please upload the link to ``Slack#homework-20180514``
+- As an individual, refine your concept according to the today’s feedback. Then, make a prototype by yourself!
+- Complete the EDP concept sheets (POV, HMW, Product sketch, Storyboard) and upload them together with the photo of your prototypeto slack ``#homework-20180521``
+- you can find them: <https://titech-edp.github.io/toolkit/>
 
 ## [DTFa-6] 5/21 (mon) 13:20-16:35
 
-- Module 5: Prototype
 - Module 6: Storytelling
 
 ### Assignment/Homework:
 
-- Individually, please bring a "strange object".
-- As a group, please start preparing the final presentation.
+- Your group's current best POV, HMWQ, Product Sketch, and Storyboard. (Each group is asked to make a *3min* presentation in the begininng of the class.)
+- Please use the EDP worksheets, which are available here: <https://titech-edp.github.io/toolkit/>
+- Please upload your group's worksheets in PDF file to a google drive and submit the link to ``#homework-20180528`` . ( *One submittion from each team!* )
 
 ## [DTFa-7] 6/04 (mon) 13:20-16:35
 
-- Module 6: Storytelling
+- Preparation for the Final Presentation
 
 ## [DTFa-8] 6/11 (mon) 13:20-16:35
 
@@ -105,8 +103,8 @@ Please upload the link to ``Slack#homework-20180514``
 
 ### Assignment/Homework
 
-- [As a individual] Please answer the questions in the Google Form.
-- [As a group] Please submit a report to ``#homework-20180611`` as a PDF file. The report should clearly show the contents in the report template.
+- [As a team] Please submit the presentation slide to ``#final-presentation-a`` as a PDF file.
+- [As an individual] Please answer the questions in the Google Form.
 
 # Information
 
