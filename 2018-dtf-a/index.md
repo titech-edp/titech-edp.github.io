@@ -93,11 +93,11 @@ Summarize in a on-page PDF file and post the link to ``Slack#homework-20180514``
 - Please use the EDP worksheets, which are available here: <https://titech-edp.github.io/toolkit/>
 - Please upload your group's worksheets in PDF file to a google drive and submit the link to ``#homework-20180528`` . ( *One submittion from each team!* )
 
-## [DTFa-7] 6/04 (mon) 13:20-16:35
+## [DTFa-7] 5/28 (mon) 13:20-16:35
 
 - Preparation for the Final Presentation
 
-## [DTFa-8] 6/11 (mon) 13:20-16:35
+## [DTFa-8] 6/4 (mon) 13:20-16:35
 
 - Module 7: Final Presentation
 
