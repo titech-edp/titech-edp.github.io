@@ -3,7 +3,7 @@ layout: page
 title: 2018年度「デザイン思考基礎b」
 ---
 
-<div style="width: 50%">
+<div style="width: 595px; max-width: 100%">
 <script async class="speakerdeck-embed" data-id="65488c6d836545e382be24255e9fa5e2" data-ratio="1.333125" src="//speakerdeck.com/assets/embed.js"></script>
 </div>
 
@@ -147,7 +147,7 @@ title: 2018年度「デザイン思考基礎b」
 
 ## はにかむ
 
-<div style="width: 50%">
+<div style="width: 595px; max-width: 100%">
 <script async class="speakerdeck-embed" data-id="cbf57831522f42578031e676da6e3fa5" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 </div>
 
