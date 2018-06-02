@@ -12,11 +12,11 @@
   photo: "sakamoto.jpg"
   profile: "1975年大阪府生まれ。2004年米国コロラド大学ボールダー校博士課程修了。Ph.D. (Aerospace Engineering Sciences)。2005〜2006年日本学術振興会海外特別研究員（コロラド大学およびマサチューセッツ工科大学）、2007年日本学術振興会PD（日本大学）。2008年より東京工業大学。専門は宇宙構造物工学。日本航空宇宙学会、日本機械学会、米国AIAA会員。UNISEC理事。"
 
-- name: "倉林 大輔"
+- name: "因幡 和晃"
   title:
-    - "東京工業大学 工学院 教授"
-  url: "http://www.irs.ctrl.titech.ac.jp/"
-  photo: "kurabayashi.jpg"
+    - "東京工業大学 環境・社会理工学院 准教授"
+  url: "http://www.mech.titech.ac.jp/~koubutsu/"
+  photo: "inaba.jpg"
   profile: ""
 
 - name: "竹田 陽子"
@@ -35,21 +35,6 @@
   photo: "kado.jpg"
   profile: "アジャイル開発やリーンスタートアップの手法を用いたソフトウェア開発組織のコンサルティングに従事。また、『リーダブルコード』『Running Lean』『カンバン仕事術』『Team Geek』といった数多くの書籍の翻訳を手がけている。"
 
-- name: "八木澤 優紀"
-  title:
-    - "東京工業大学 環境・社会理工学院 非常勤講師"
-    - "東京藝術大学 美術学部デザイン科 非常勤講師"
-  url: ""
-  photo: "yagisawa.jpg"
-  profile: ""
-
-- name: "因幡 和晃"
-  title:
-    - "東京工業大学 環境・社会理工学院 准教授"
-  url: "http://www.mech.titech.ac.jp/~koubutsu/"
-  photo: "inaba.jpg"
-  profile: ""
-
 - name: "土方 亘"
   title:
     - "東京工業大学 工学院 准教授"
@@ -64,10 +49,25 @@
   photo: "jay.jpg"
   profile: ""
 
+- name: "八木澤 優紀"
+  title:
+    - "東京工業大学 環境・社会理工学院 非常勤講師"
+    - "東京藝術大学 美術学部デザイン科 非常勤講師"
+  url: ""
+  photo: "yagisawa.jpg"
+  profile: ""
+
 - name: "照井 亮"
   title:
     - "東京工業大学 環境・社会理工学院 非常勤講師"
     - "武蔵野美術大学 非常勤講師"
   url: ""
   photo: "terui.jpg"
+  profile: ""
+
+- name: "倉林 大輔"
+  title:
+    - "東京工業大学 工学院 教授"
+  url: "http://www.irs.ctrl.titech.ac.jp/"
+  photo: "kurabayashi.jpg"
   profile: ""
