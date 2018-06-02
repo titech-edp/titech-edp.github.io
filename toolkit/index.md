@@ -16,6 +16,8 @@ title: EDP Toolkit
 
 - [EDP Canvas](edp-canvas.pdf)
 
+![EDP Canvas sample](img_edp-canvas-sample.png)
+
 
 ## Empathize
 
@@ -23,11 +25,11 @@ title: EDP Toolkit
 
 ## Define
 - [POV with Tatemae method](pov-tatemae.pdf)
-  - 日本語版：[POVとタテマエメソッド](pov-tatemae_ja.pdf)
+- [POVとタテマエメソッド](pov-tatemae_ja.pdf)
 - [POV with Tatemae method (v2)](pov-tatemae_v2.pdf)
-  - 日本語版：[POVとタテマエメソッド (v2)](pov-tatemae_ja_v2.pdf)
+- [POVとタテマエメソッド (v2)](pov-tatemae_ja_v2.pdf)
 - [POV with Extreme Users](pov-extreme-users.pdf)
-	- 日本語版：[POVとエクストリームユーザー](pov-extreme-users_ja.pdf)
+- [POVとエクストリームユーザー](pov-extreme-users_ja.pdf)
 
 ## Ideate
 - [HMWQ and Design Principles](hmwq-design-principles.pdf)
@@ -39,6 +41,9 @@ title: EDP Toolkit
 
 ## Test
 - [Reflective Action Sheet](reflective-action-sheet.pdf)
+
+## Mapping to EDP Canvas
+![EDP Canvas mapping](img_edp-canvas-mapping.png)
 
 # DTF worksheet
 
