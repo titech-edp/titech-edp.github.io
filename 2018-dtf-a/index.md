@@ -103,8 +103,26 @@ Summarize in a on-page PDF file and post the link to ``Slack#homework-20180514``
 
 ### Assignment/Homework
 
-- [As a team] Please submit the presentation slide to ``#final-presentation-a`` as a PDF file.
+- [As a team] Please submit the presentation slide to ``#final-presentation-a``.
 - [As an individual] Please answer the questions in the Google Form.
+
+# Slides
+
+## 和式より洋式
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/xwjK9aAg2KF6TF" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/AmaneMuraoka/180604-final-presentationwashikiyoriyoushiki-100390241" title="180604 final presentation_washiki_yoriyoushiki" target="_blank">180604 final presentation_washiki_yoriyoushiki</a> </strong> from <strong><a href="https://www.slideshare.net/AmaneMuraoka" target="_blank">AmaneMuraoka</a></strong> </div>
+
+## パン食べたい
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/owZZq7SfFHggQF" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/shogoegashira/fnfx" title="パン食べたい_FNFX" target="_blank">パン食べたい_FNFX</a> </strong> from <strong><a href="https://www.slideshare.net/shogoegashira" target="_blank">shogoegashira</a></strong> </div>
+
+## Nonbiri
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/feymi3oqEPVvNA" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/zongweijie/2018-tokyo-tech-design-thinking-fundamentals-nonbiri" title="2018 tokyo tech design thinking fundamentals Nonbiri" target="_blank">2018 tokyo tech design thinking fundamentals Nonbiri</a> </strong> from <strong><a href="https://www.slideshare.net/zongweijie" target="_blank">Weijie Zong</a></strong> </div>
+
+## 新宿二丁目
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/jVdMgvjNQLUkQd" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/YusukeAkahane/2018-tokyo-tech-design-thinking-fundamentals-submitver" title="2018 tokyo tech design thinking fundamentals 新宿二丁目_submit_ver" target="_blank">2018 tokyo tech design thinking fundamentals 新宿二丁目_submit_ver</a> </strong> from <strong><a href="https://www.slideshare.net/YusukeAkahane" target="_blank">Yusuke Akahane</a></strong> </div>
 
 # Information
 
