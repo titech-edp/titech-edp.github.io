@@ -23,6 +23,9 @@ title: EDP Toolkit
 
 - [User Journey Map](user-journey-map.pdf)
 - [User Research Questions](user-research-questions.pdf)
+
+### Old Solutions
+- [Competitive Positioning Map](competitive-positioning-map.pdf)
 - [PESTLE Analysis](pestle.pdf)
 
 ## Define
@@ -38,11 +41,14 @@ title: EDP Toolkit
 ## Prototype
 - [Product Sketch Sheet](product-sketch.pdf)
 - [Storyboard](storyboard.pdf)
+
+### New Solutions
 - [Product SIPOC and Hypothesis](sipoc.pdf)
 - [Thinking Process Development Diagram](thinking-process-development-diagram.pdf)
 
 ## Test
 - [Reflective Action Sheet](reflective-action-sheet.pdf)
+- [User Test Questions](user-test-questions.pdf)
 
 ## Mapping to EDP Canvas
 ![EDP Canvas mapping](img_edp-canvas-mapping.png)
