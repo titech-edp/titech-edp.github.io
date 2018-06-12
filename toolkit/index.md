@@ -22,22 +22,24 @@ title: EDP Toolkit
 ## Empathize
 
 - [User Journey Map](user-journey-map.pdf)
+- [User Research Questions](user-research-questions.pdf)
+- [PESTLE Analysis](pestle.pdf)
 
 ## Define
-- [POV with Tatemae method](pov-tatemae.pdf)
-- [POVとタテマエメソッド](pov-tatemae_ja.pdf)
-- [POV with Tatemae method (v2)](pov-tatemae_v2.pdf)
-- [POVとタテマエメソッド (v2)](pov-tatemae_ja_v2.pdf)
-- [POV with Extreme Users](pov-extreme-users.pdf)
-- [POVとエクストリームユーザー](pov-extreme-users_ja.pdf)
+- [POV with Tatemae method](pov-tatemae.pdf) / [POVとタテマエメソッド](pov-tatemae_ja.pdf)
+- [POV with Tatemae method ver.2](pov-tatemae_v2.pdf) / [POVとタテマエメソッド ver.2](pov-tatemae_ja_v2.pdf)
+- [POV with Extreme Users](pov-extreme-users.pdf) / [POVとエクストリームユーザー](pov-extreme-users_ja.pdf)
 
 ## Ideate
-- [HMWQ and Design Principles](hmwq-design-principles.pdf)
+- [HMWQ](hmwq.pdf)
 - [HMWQ samples](hmwq_samples.pdf)
+- [Design Principles](design-principles.pdf)
 
 ## Prototype
 - [Product Sketch Sheet](product-sketch.pdf)
 - [Storyboard](storyboard.pdf)
+- [Product SIPOC and Hypothesis](sipoc.pdf)
+- [Thinking Process Development Diagram](thinking-process-development-diagram.pdf)
 
 ## Test
 - [Reflective Action Sheet](reflective-action-sheet.pdf)
