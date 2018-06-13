@@ -26,7 +26,7 @@ title: EDP Toolkit
 
 ### Old Solutions
 - [Competitive Positioning Map](competitive-positioning-map.pdf)
-- [PESTLE Analysis](pestle.pdf)
+- [9-window tool](9-window-tool.pdf)
 
 ## Define
 - [POV with Tatemae method](pov-tatemae.pdf) / [POVとタテマエメソッド](pov-tatemae_ja.pdf)
