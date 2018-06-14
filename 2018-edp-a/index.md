@@ -45,27 +45,46 @@ Design innovative experience of having a meal.
   - How to manage budgets and orders
   - Design Prompt
   - Final Presentation
-- Activity: Interview (forming a group of two or three)
+- Activity: User Research [50min.]
+  - Form a group of two or three
   - Create a member list
-  - Interview 3+ people in the class room
+  - Interview each other in the group
+  - Write POVs
+- Activity: More User Research [50min.]
+  - Form a group of two or three
+  - Create a member list
+  - Interview each other in the group
+  - Write POVs and (HMWQs)
 
 ### Lunch
 
-- Activity: Observation (thinking more questions and taking photos)
+- Activity: Observation
+  - Take photos
+  - Think more questions
 
 ### PM
 
-- Activity: Interview 3+ people in the class room
-- Activity: POV/HMWQ/Sketch/Prototye
-- Activity: User Testing with 3+ people in the class room
-- Show & Tell: Two or Three prototypes in the class
-- Activity: Team Building:
+- Activity: More+ User Research [50min.]
+  - Form a group of two or three
+  - Create a member list
+  - Interview each other in the group
+  - Write POVs and HMWQs
+- Activity: Prototype and Test [50min.]
+  - Prototype
+    - Sketch and Prototye
+  - User Test
+    - Form a group of two or three
+    - Create a member list
+    - Test the prototype each other in the group
+- Break
+- Show & Tell: Two or Three prototypes in the class [10min.]
+- Activity: Team Building [30min.]
   - Make a diverse team (different University, Department, Lab, Gender, Skill, and so on)
   - Self-introduction
   - Create a member list
   - Name the team
   - Create a slack channel
-- Reflection
+  - Reflection
 
 ### Assigment
 
@@ -80,20 +99,27 @@ Design innovative experience of having a meal.
 
 ### AM
 
-- Activity: Knowledge sharing in the Team
-- Activity: POV/HMWQ/Sketch/Prototype
-- Activity: Storyboard
-- Activity: User Testing
+- Activity: [50min.]
+  - Knowledge sharing in the Team
+  - Write POVs and HMWQs
+- Lecture of Prototype and Storyboard [25min.]
+- Activity: [60min.]
+  - Sketch/Prototype
+  - Storyboard
 
 ### Lunch
 
 ### PM
 
-- Activity: Knowledge sharing in the Team
-- Activity: POV/HMWQ/Sketch/Prototype
-- Activity: Storyboard
-- Activity: User Testing
-- Reflection
+- Activity: Preparation for Skit [30min.]
+- Skit [60min.]
+- Break
+- Activity:[60min.]
+  - Knowledge sharing in the Team
+  - Write POVs and HMWQs
+  - Sketch/Prototype
+  - Storyboard
+  - Reflection
 
 ### Assigment
 
@@ -104,7 +130,8 @@ Design innovative experience of having a meal.
 
 ## [EDP-A-a] 7/11（Wed）18:30-20:00
 
-- Presentation and Review (especially of Storyboard)
+- Review the progress
+- Presentation (Prototype and Storyboard)
 
 ## [EDP-A-3] 7/21（Sat）10:00-15:50
 
@@ -118,11 +145,12 @@ Design innovative experience of having a meal.
 ### PM
 
 - Lecture by TA: How to use iMovie
-- Activity: Knowledge sharing in the Team
-- Activity: POV/HMWQ/Sketch/Prototype
-- Activity: Storyboard
-- Activity: Video Shooting
-- Reflection
+- Activity:
+  - Knowledge sharing in the Team
+  - Write POVs and HMWQs
+  - Sketch/Prototype
+  - Video Shooting
+  - Reflection
 
 ### Assigment
 
