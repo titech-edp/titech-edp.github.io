@@ -181,6 +181,17 @@ Design innovative experience of having a meal.
   - Please answer questions in the Google Form.
 
 
-# その他の情報源
+# References
 
 - Slack: [https://cbec-edp-a-2018.slack.com](https://cbec-edp-a-2018.slack.com)
+- [EDP Toolkit](/toolkit)
+
+## DTF slides
+
+- <https://speakerdeck.com/kdmsnr/tokyo-tech-dtf-2018-introduction>
+- <https://speakerdeck.com/kdmsnr/tokyo-tech-dtf-2018-user-research>
+- <https://speakerdeck.com/kdmsnr/tokyo-tech-dtf-2018-define>
+- <https://speakerdeck.com/kdmsnr/tokyo-tech-dtf-2018-ideation>
+- <https://speakerdeck.com/kdmsnr/tokyo-tech-dtf-2018-storytelling>
+
+
