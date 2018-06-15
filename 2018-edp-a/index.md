@@ -46,15 +46,14 @@ Design innovative experience of having a meal.
   - Design Prompt
   - Final Presentation
 - Activity: User Research [50min.]
-  - Form a group of two or three
+  - Form a group of three or four
   - Create a member list
-  - Interview each other in the group
-  - Write POVs
+  - Interview each other in the group [5 min. * 4 + 3 min. * 4]
 - Activity: More User Research [50min.]
-  - Form a group of two or three
+  - Form a group of three or four
   - Create a member list
-  - Interview each other in the group
-  - Write POVs and (HMWQs)
+  - Interview each other in the group [4 min. * 4 + 2 min. * 4]
+  - Write POVs
 
 ### Lunch
 
@@ -65,20 +64,22 @@ Design innovative experience of having a meal.
 ### PM
 
 - Activity: More+ User Research [50min.]
-  - Form a group of two or three
+  - Form a group of three or four
   - Create a member list
-  - Interview each other in the group
+  - Interview each other in the group [3 min. * 4 + 1 min. * 4]
   - Write POVs and HMWQs
 - Activity: Prototype and Test [50min.]
-  - Prototype
+  - Prototype [20min.]
+    - Design Principles
     - Sketch and Prototye
-  - User Test
-    - Form a group of two or three
+  - User Test [30min.]
+    - Form a group of three or four
     - Create a member list
     - Test the prototype each other in the group
-- Break
+- Break [15min.]
 - Show & Tell: Two or Three prototypes in the class [10min.]
-- Activity: Team Building [30min.]
+- Reflective Action Sheet [10min.]
+- Activity: Team Building [20min.]
   - Make a diverse team (different University, Department, Lab, Gender, Skill, and so on)
   - Self-introduction
   - Create a member list
@@ -90,8 +91,9 @@ Design innovative experience of having a meal.
 
 - [As an individual]
   - User Research (interview + transcription): 3+ people
-  - POV/HMWQ/Sketch/Prototype
+  - POV/HMWQ/Design Principles/Sketch/Prototype
   - User Testing: 3+ people
+  - Reflective Action Sheet
 - [As a team]
   - Getting used to Slack
 
@@ -99,39 +101,49 @@ Design innovative experience of having a meal.
 
 ### AM
 
+- Lecture of Old Solutions [15min.]
+  - 9-window tool
+  - Competitive Positioning Map
 - Activity: [50min.]
   - Knowledge sharing in the Team
-  - Write POVs and HMWQs
-- Lecture of Prototype and Storyboard [25min.]
-- Activity: [60min.]
-  - Sketch/Prototype
+  - Write POV and HMWQ
+  - 9-window tool
+  - Competitive Positioning Map
+- Lecture of Prototype and Storyboard [15min.]
+  - SIPOC
+  - Thinking Process Development Diagram
+  - Storyboard
+- Activity: [50min.]
+  - Design Principles
+  - Sketch
+  - SIPOC or Thinking Process Development Diagram
   - Storyboard
 
 ### Lunch
 
 ### PM
 
-- Activity: Preparation for Skit [30min.]
-- Skit [60min.]
-- Break
-- Activity:[60min.]
-  - Knowledge sharing in the Team
-  - Write POVs and HMWQs
-  - Sketch/Prototype
-  - Storyboard
+- Activity:
+  - Review whole process
+  - Create Storyboard and Prototype
+  - User Testing (5+ people)
   - Reflection
 
 ### Assigment
 
 - [As an individual]
   - User Research (interview + transcription): 3+ people
-  - POV/HMWQ/Sketch/Prototype/Storyboard
+  - 9-window tool and Competitive Positioning Map
+  - POV/HMWQ/Design Principles/Sketch/Prototype/Storyboard
   - User Testing: 3+ people
+  - Reflective Action Sheet
+- [As a team]
+  - Preparation for the Interim Presentation (Prototype and Storyboard)
 
 ## [EDP-A-a] 7/11（Wed）18:30-20:00
 
 - Review the progress
-- Presentation (Prototype and Storyboard)
+- Interim Presentation (Prototype and Storyboard)
 
 ## [EDP-A-3] 7/21（Sat）10:00-15:50
 
@@ -146,10 +158,7 @@ Design innovative experience of having a meal.
 
 - Lecture by TA: How to use iMovie
 - Activity:
-  - Knowledge sharing in the Team
-  - Write POVs and HMWQs
-  - Sketch/Prototype
-  - Video Shooting
+  - Preparation for the final presentation
   - Reflection
 
 ### Assigment
@@ -193,5 +202,4 @@ Design innovative experience of having a meal.
 - <https://speakerdeck.com/kdmsnr/tokyo-tech-dtf-2018-define>
 - <https://speakerdeck.com/kdmsnr/tokyo-tech-dtf-2018-ideation>
 - <https://speakerdeck.com/kdmsnr/tokyo-tech-dtf-2018-storytelling>
-
 
