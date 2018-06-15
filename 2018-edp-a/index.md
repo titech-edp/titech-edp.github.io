@@ -59,7 +59,7 @@ Design innovative experience of having a meal.
 
 - Activity: Observation
   - Take photos
-  - Think more questions
+  - Think more questions of interview
 
 ### PM
 
