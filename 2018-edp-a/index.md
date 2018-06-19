@@ -41,6 +41,8 @@ Design innovative experience of having a meal.
   - Design Thinking Fundamental
   - EDP Toolkit
   - Slack
+  - <https://speakerdeck.com/kdmsnr/tokyo-tech-edp-a-2018-introduction>
+  - <https://speakerdeck.com/kdmsnr/tokyo-tech-edp-a-2018-day1>
 - Announcement by Sakamoto [20min.]
   - How to manage budgets and orders
   - Design Prompt
