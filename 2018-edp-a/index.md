@@ -23,8 +23,17 @@ Hiroshi MATSUO, Yuma ITO, Nobuhisa Ata, Yosuke TAJIRI, Randy Raharja
 
 # Objective
 
-- Preparing for EDP-B/C
-- Managing budgets and orders
+**Preparing for EDP-B/C**
+
+- Focusing on “Empathize” and “User Test”
+- Creating more “high-fi” Prototypes:
+  1.  Engineering-ish & Tangible Product
+  (ummm ... we don’t define “Engineering”)
+  2. Promotion Video
+- Managing Budgets and Orders
+- Inclusive Team Building
+  - Let’s get friendly with diverse people.
+- Project Documentation
 
 # Design Prompt
 
@@ -50,11 +59,7 @@ Design innovative experience of having a meal.
 - Activity: User Research [50min.]
   - Form a group of three or four
   - Create a member list
-  - Interview each other in the group [5 min. * 4 + 3 min. * 4]
-- Activity: More User Research [50min.]
-  - Form a group of three or four
-  - Create a member list
-  - Interview each other in the group [4 min. * 4 + 2 min. * 4]
+  - Interview each other in the group [5 min. + 3 min.]
   - Write POVs
 
 ### Lunch
@@ -68,7 +73,7 @@ Design innovative experience of having a meal.
 - Activity: More+ User Research [50min.]
   - Form a group of three or four
   - Create a member list
-  - Interview each other in the group [3 min. * 4 + 1 min. * 4]
+  - Interview each other in the group [4 min. + 2 min]
   - Write POVs and HMWQs
 - Activity: Prototype and Test [50min.]
   - Prototype [20min.]
@@ -80,8 +85,7 @@ Design innovative experience of having a meal.
     - Test the prototype each other in the group
 - Break [15min.]
 - Show & Tell: Two or Three prototypes in the class [10min.]
-- Reflective Action Sheet [10min.]
-- Activity: Team Building [20min.]
+- Activity: Team Building
   - Make a diverse team (different University, Department, Lab, Gender, Skill, and so on)
   - Self-introduction
   - Create a member list
@@ -89,7 +93,7 @@ Design innovative experience of having a meal.
   - Create a slack channel
   - Reflection
 
-### Assigment
+### Homework
 
 - [As an individual]
   - User Research (interview + transcription): 3+ people
@@ -101,51 +105,42 @@ Design innovative experience of having a meal.
 
 ## [EDP-A-2] 7/07（Sat）10:00-15:50
 
-### AM
+### AM (10:00-12:15)
 
-- Lecture of Old Solutions [15min.]
-  - 9-window tool
-  - Competitive Positioning Map
-- Activity: [50min.]
-  - Knowledge sharing in the Team
-  - Write POV and HMWQ
-  - 9-window tool
-  - Competitive Positioning Map
-- Lecture of Prototype and Storyboard [15min.]
-  - SIPOC
-  - Thinking Process Development Diagram
-  - Storyboard
-- Activity: [50min.]
-  - Design Principles
-  - Sketch
-  - SIPOC or Thinking Process Development Diagram
-  - Storyboard
+- Icebreak by Yuma ITO [15min.]
+- Lecture by Kado [15min.]
+- Activity:
+  - 1. Knowledge sharing in the Team [25min.]
+  - 2. Competitive Positioning Map [25min.]
+  - 3. Select three ideas (favorite, rival, and darkhorse) [5min.]
+  - 4. Create 9-Window for the favorite idea (to broaden your perspective) [25min.]
+  - 5. POV/HMWQ/DP/Sketch/RAS for the favorite idea [25min.]
 
 ### Lunch
 
-### PM
+### PM (13:20-15:50)
 
+- Lecture by Kado [15min.]
 - Activity:
-  - Review whole process
-  - Create Storyboard and Prototype
-  - User Testing (5+ people)
-  - Reflection
+  - 1. User Test: 5+ people [30min.]
+  - 2. Refine the idea and Prototype [60min.]
+  - 4. Order [20min.]
+  - 5. Reflection [10min.]
 
-### Assigment
+### Homework
 
-- [As an individual]
-  - User Research (interview + transcription): 3+ people
-  - 9-window tool and Competitive Positioning Map
-  - POV/HMWQ/Design Principles/Sketch/Prototype/Storyboard
-  - User Testing: 3+ people
-  - Reflective Action Sheet
-- [As a team]
-  - Preparation for the Interim Presentation (Prototype and Storyboard)
+Do homework as a team:
+
+- [by 7/11]
+  - Preparation for the Interim Presentation (show your current prototype)
+- [by 7/21]
+  - Do [Refine the idea, Prototype, and User Test] as many times as possible
+  - Create POV/HMWQ/DP/Sketch/Prototype/RAS/SIPOC for the final idea
 
 ## [EDP-A-a] 7/11（Wed）18:30-20:00
 
 - Review the progress
-- Interim Presentation (Prototype and Storyboard)
+- Interim Presentation (Prototype)
 
 ## [EDP-A-3] 7/21（Sat）10:00-15:50
 
@@ -158,8 +153,9 @@ Design innovative experience of having a meal.
 
 ### PM
 
-- Lecture by TA: How to use iMovie
+- Lecture: "How to use iMovie" by Yuma ITO
 - Activity:
+  - Video Shooting
   - Preparation for the final presentation
   - Reflection
 
@@ -182,7 +178,7 @@ Design innovative experience of having a meal.
 ### PM
 - Final Presentation
 
-### Assignment
+### Homework
 
 - [As a team]
   - Submit the presentation slide to ``#xxx``.
