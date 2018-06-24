@@ -110,11 +110,11 @@ Design innovative experience of having a meal.
 - Icebreak by Yuma ITO [15min.]
 - Lecture by Kado [15min.]
 - Activity:
-  - 1. Knowledge sharing in the Team [25min.]
-  - 2. Competitive Positioning Map [25min.]
-  - 3. Select three ideas (favorite, rival, and darkhorse) [5min.]
-  - 4. Create 9-Window for the favorite idea (to broaden your perspective) [25min.]
-  - 5. POV/HMWQ/DP/Sketch/RAS for the favorite idea [25min.]
+  1. Knowledge sharing in the Team [35min.]
+  2. Competitive Positioning Map [15min.]
+  3. Select three ideas (favorite, rival, and darkhorse) [5min.]
+  4. Create 9-Window for the favorite idea (to broaden your perspective) [20min.]
+  5. POV/HMWQ/DP/Sketch/RAS for the favorite idea [30min.]
 
 ### Lunch
 
@@ -122,10 +122,10 @@ Design innovative experience of having a meal.
 
 - Lecture by Kado [15min.]
 - Activity:
-  - 1. User Test: 5+ people [30min.]
-  - 2. Refine the idea and Prototype [60min.]
-  - 4. Order [20min.]
-  - 5. Reflection [10min.]
+  1. User Test: 5+ people [30min.]
+  2. Refine the idea and Prototype [60min.]
+  4. Purchase order request [20min.]
+  5. Reflection [10min.]
 
 ### Homework
 
