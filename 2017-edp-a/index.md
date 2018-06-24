@@ -159,7 +159,7 @@ In the next class, please bring your fully charged PCs with the Arduino IDE.
 - Start constructing the prototype(s)
   - You will be asked to carry out User Test by the final presentation.
 
-## [EDP-A-3] 7/22（Wed）10:00-15:50
+## [EDP-A-3] 7/22（Sat）10:00-15:50
 
 - 10:00-10:15 ガイダンス、アイスブレイク、注意事項（素材の著作権など）（坂本） / Guidance, Icebreak, Warning of copyright violations by Sakamoto
 - 10:15-10:40 プロトタイプとユーザーテストの講義（角） / Lecture of Prototype & Test by Kado <a href="https://www.slideshare.net/kdmsnr/tokyotech-2017-edpa-3-prototype-and-test" role="button" class="btn"><span class="glyphicon glyphicon-circle-arrow-down" aria-hidden="true" />スライド</a>
