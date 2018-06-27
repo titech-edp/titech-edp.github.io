@@ -22,15 +22,15 @@ title: EDP Toolkit
 ## Empathize
 
 - [User Journey Map](user-journey-map.pdf)
-- [User Research Questions](user-research-questions.pdf)
+- [User Research Questions](user-research-questions.pdf) / [ユーザーリサーチに使える質問](user-research-questions_ja.pdf)
 
 ### Old Solutions
 - [Competitive Positioning Map](competitive-positioning-map.pdf)
 - [9-window tool](9-window-tool.pdf)
 
 ## Define
-- [POV with Tatemae method](pov-tatemae.pdf) / [POVとタテマエメソッド](pov-tatemae_ja.pdf)
-- [POV with Tatemae method ver.2](pov-tatemae_v2.pdf) / [POVとタテマエメソッド ver.2](pov-tatemae_ja_v2.pdf)
+
+- [POV with Tatemae method](pov-tatemae_v2.pdf) / [POVとタテマエメソッド](pov-tatemae_ja_v2.pdf)
 - [POV with Extreme Users](pov-extreme-users.pdf) / [POVとエクストリームユーザー](pov-extreme-users_ja.pdf)
 
 ## Ideate
@@ -48,7 +48,7 @@ title: EDP Toolkit
 
 ## Test
 - [Reflective Action Sheet](reflective-action-sheet.pdf)
-- [User Test Questions](user-test-questions.pdf)
+- [User Test Questions](user-test-questions.pdf) / [ユーザーテストに使える最低限の質問](user-test-questions_ja.pdf)
 
 ## Mapping to EDP Canvas
 ![EDP Canvas mapping](img_edp-canvas-mapping.png)
@@ -56,5 +56,5 @@ title: EDP Toolkit
 # DTF worksheet
 
 - [Today's World](todays-world.pdf)
-- [Morning ritual](morning-ritual.pdf)（日本語：[朝の儀式](morning-ritual_ja.pdf)）
+- [Morning ritual](morning-ritual.pdf) / [朝の儀式](morning-ritual_ja.pdf)
 - [Brainwriting](brainwriting.pdf)
