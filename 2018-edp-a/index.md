@@ -123,19 +123,25 @@ Design innovative experience of having a meal.
 - Lecture by Kado [15min.]
 - Activity:
   1. User Test: 5+ people [30min.]
-  2. Refine the idea and Prototype [60min.]
-  4. Purchase order request [20min.]
-  5. Reflection [10min.]
+	 * Not only the favorite idea, but also the rival and dark horse ideas.
+  2. Refine the ideas and Prototype [60min.]
+    * You should prototype at least the favorite idea.
+	* Hopefully you would prototype all of the three ideas.
+	* Recommend using SIPOC and/or TPDD.
+  3. Purchase order request [20min.]
+	 * Ask TAs for help.
+- Reflection
 
 ### Homework
 
 Do homework as a team:
 
 - [by 7/11]
-  - Preparation for the Interim Presentation (show your current prototype)
+  - Preparation for the Interim Presentation (show your current prototypes and design process [i.e. EDP toolkit] )
 - [by 7/21]
-  - Do [Refine the idea, Prototype, and User Test] as many times as possible
-  - Create POV/HMWQ/DP/Sketch/Prototype/RAS/SIPOC for the final idea
+  * Do [Refine the idea, Prototype, and User Test] as many times as possible.
+  * Document your solution & design process [i.e. EDP toolkit or so] and save it as a free-form report (.pdf).
+  * Post it's LINK to slack ``#homework-20180707``.
 
 ## [EDP-A-a] 7/11（Wed）18:30-20:00
 
