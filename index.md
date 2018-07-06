@@ -61,6 +61,11 @@ layout: default
 
 <div class="col-md-5">
 
+<div class="panel panel-default">
+  <div class="panel-body">
+<iframe frameborder="0" width="100%" height="460" src="https://peatix.com/event/397330/share/widget?z=1&a=1"></iframe>
+</div></div>
+
 <div class="panel panel-danger">
   <div class="panel-heading">EDPが書籍になりました :tada: </div>
   <div class="panel-body">
