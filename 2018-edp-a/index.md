@@ -109,6 +109,7 @@ Design innovative experience of having a meal.
 
 - Icebreak by Yuma ITO [15min.]
 - Lecture by Kado [15min.]
+  - <https://speakerdeck.com/kdmsnr/tokyo-tech-edp-a-2018-day2>
 - Activity:
   1. Knowledge sharing in the Team [35min.]
   2. Competitive Positioning Map [15min.]
@@ -152,8 +153,9 @@ Do homework as a team:
 
 ### AM
 
-- Guidance
-- Lecture of Video Shooting by TYO
+- Guidance by Kado
+  - <https://speakerdeck.com/kdmsnr/tokyo-tech-edp-a-2018-day3-guidance>
+- Lecture of Video Shooting by TYO Inc.
 
 ### Lunch
 
@@ -167,7 +169,8 @@ Do homework as a team:
 
 ### Assigment
 
-- Preparation for the final presentation
+- [by 7/25] Preparation for the Interim Presentation (show your current prototypes and design process [i.e. EDP toolkit] in a few minutes )
+- [by 8/4] Preparation for the Final Presentation.
 
 ## [EDP-A-b] 7/25（Wed）18:30-20:00
 
@@ -181,15 +184,20 @@ Do homework as a team:
 
 ### Lunch
 
-### PM
-- Final Presentation
+### PM: Final Presentation
+
+- 10 min for each team.
+  - Play a movie, then give a presentation.
+  - Use the previous slide template.
 
 ### Homework
 
 - [As a team]
-  - Submit the presentation slide to ``#xxx``.
-  - Submit the presentation movie to ``#xxx``.
-  - Write & Submit a document to ``#xxx``.
+  - Submit updated URLs of the slide and movie to Slack ``#final-presentation``
+    - Movie: upload to YouTube or something.
+    - Slide: upload to Slideshare or SpeakerDeck.
+	- **DON’T violate copyright rules.**
+  - Write & Submit a document to ``#final-document``.
 - [As an individual]
   - Please answer questions in the Google Form.
 
