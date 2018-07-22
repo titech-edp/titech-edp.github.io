@@ -34,9 +34,9 @@ title: EDP Toolkit
 - [POV with Extreme Users](pov-extreme-users.pdf) / [POVとエクストリームユーザー](pov-extreme-users_ja.pdf)
 
 ## Ideate
-- [HMWQ](hmwq.pdf)
+- [HMWQ Sheet](hmwq.pdf) / [HMWQシート](hmwq_ja.pdf)
 - [HMWQ samples](hmwq_samples.pdf)
-- [Design Principles](design-principles.pdf)
+- [Design Principles](design-principles.pdf) / [デザイン原則](design-principles_ja.pdf)
 
 ## Prototype
 - [Product Sketch Sheet](product-sketch.pdf)
@@ -55,6 +55,6 @@ title: EDP Toolkit
 
 # DTF worksheet
 
-- [Today's World](todays-world.pdf)
+- [Today's World](todays-world.pdf) / [今日の世界](todays-world_ja.pdf)
 - [Morning ritual](morning-ritual.pdf) / [朝の儀式](morning-ritual_ja.pdf)
 - [Brainwriting](brainwriting.pdf)
