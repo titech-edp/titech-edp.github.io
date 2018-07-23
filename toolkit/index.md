@@ -39,7 +39,7 @@ title: EDP Toolkit
 - [Design Principles](design-principles.pdf) / [デザイン原則](design-principles_ja.pdf)
 
 ## Prototype
-- [Product Sketch Sheet](product-sketch.pdf)
+- [Product Sketch Sheet](product-sketch.pdf) / [プロダクトスケッチ](product-sketch_ja.pdf)
 - [Storyboard](storyboard.pdf)
 
 ### New Solutions
