@@ -193,8 +193,8 @@ Do homework as a team:
 ### Homework
 
 - [As a team]
-  - Submit updated URLs of the slide and movie to Slack ``#final-presentation``
-    - Movie: upload to YouTube or something.
+  - Submit URL of the slide and the movie to Slack ``#final-presentation``
+    - Movie: upload to YouTube.
     - Slide: upload to Slideshare or SpeakerDeck.
 	- **DON’T violate copyright rules.**
   - Write & Submit a document to ``#final-document``.
