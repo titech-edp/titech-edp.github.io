@@ -94,7 +94,7 @@ Design innovative experience of having a meal.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j60OpECVxfE?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-:warning: **Slide: Not Found**
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/dfMnZZkTDOWAwQ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/YusukeAkahane/team-edpa" title="Team ちよこれーと EDP-A 発表資料" target="_blank">Team ちよこれーと EDP-A 発表資料</a> </strong> from <strong><a href="https://www.slideshare.net/YusukeAkahane" target="_blank">Yusuke Akahane</a></strong> </div>
 
 ## 銀のあひる
 
