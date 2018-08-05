@@ -40,6 +40,68 @@ Hiroshi MATSUO, Yuma ITO, Nobuhisa Ata, Yosuke TAJIRI, Randy Raharja
 Design innovative experience of having a meal.
 （イノベーティブな食体験をデザインせよ。）
 
+# Artifacts
+
+## fed
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/01PmXByvHhg?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+:warning: **Slide: Not Found**
+
+## genovese
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2pQIF2BwEWo?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/4LrAI3MKGZ172v" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ryogaide/genovese-presentation-pptx" title="Genovese presentation pptx" target="_blank">Genovese presentation pptx</a> </strong> from <strong><a href="https://www.slideshare.net/ryogaide" target="_blank">ryogaide</a></strong> </div>
+
+## hanadan
+
+:warning: **Movie: Not Found**
+
+:warning: **Slide: Not Found**
+
+## overdo
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qEW5p2OGyr0?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<div style="width: 595px; max-width: 100%">
+<script async class="speakerdeck-embed" data-id="3e4461bbbe4d4e038fc815a70d026b92" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+</div>
+
+## petagine
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV49qZ96XoQ?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<div style="width: 595px; max-width: 100%">
+<script async class="speakerdeck-embed" data-id="d076e998a9274dd0b405b0ccf38f0476" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+</div>
+
+## umai
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A-nLBUw16TU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+:warning: **Slide: Not Found**
+
+## すとろべりー
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7IhlCyjk9Cc?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<div style="width: 595px; max-width: 100%">
+<script async class="speakerdeck-embed" data-id="9f7c3d726aed4d64934523d68471a256" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+</div>
+
+## ちよこれーと
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j60OpECVxfE?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+:warning: **Slide: Not Found**
+
+## 銀のあひる
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MGyjN9ygCK0?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/hCiQePntsbajQ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/SeonghwanYeo1/final-presentation-edpa-2018-108561472" title="Final Presentation EDP-A 2018 銀のあひる" target="_blank">Final Presentation EDP-A 2018 銀のあひる</a> </strong> from <strong><a href="https://www.slideshare.net/SeonghwanYeo1" target="_blank">Seonghwan Yeo</a></strong> </div>
+
 # Schedule
 
 ## [EDP-A-1] 6/23（Sat）10:00-15:50
@@ -200,7 +262,6 @@ Do homework as a team:
   - Write & Submit a document to ``#final-document``.
 - [As an individual]
   - Please answer questions in the Google Form.
-
 
 # References
 
