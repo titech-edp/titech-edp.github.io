@@ -43,8 +43,8 @@ title: EDP Toolkit
 - [Storyboard](storyboard.pdf)
 
 ### New Solutions
-- [Product SIPOC and Hypothesis](sipoc.pdf)
-- [Thinking Process Development Diagram](thinking-process-development-diagram.pdf)
+- [Product SIPOC](sipoc.pdf)
+- [Casts-Props-Scene](casts-props-scene.pdf) / [キャスト・道具・シーン](casts-props-scene_ja.pdf)
 
 ## Test
 - [Reflective Action Sheet](reflective-action-sheet.pdf)
