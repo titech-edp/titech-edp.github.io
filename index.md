@@ -63,7 +63,7 @@ layout: default
 
 <div class="panel panel-default">
   <div class="panel-body">
-<iframe frameborder="0" width="100%" height="460" src="https://peatix.com/event/397330/share/widget?z=1&a=1"></iframe>
+<iframe frameborder="0" width="100%" height="600" src="https://peatix.com/event/407792/share/widget?z=1&t=1&a=1"></iframe>
 </div></div>
 
 <div class="panel panel-danger">
