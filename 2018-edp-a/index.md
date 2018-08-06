@@ -58,7 +58,9 @@ Design innovative experience of having a meal.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o_i_wtzPsL0?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-:warning: **Slide: Not Found**
+<div style="width: 595px; max-width: 100%">
+<script async class="speakerdeck-embed" data-id="3d6ba138e1224fb4b6c29637cb25907d" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+</div>
 
 ## overdo
 
