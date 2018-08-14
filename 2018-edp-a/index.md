@@ -46,13 +46,27 @@ Design innovative experience of having a meal.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/01PmXByvHhg?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-:warning: **Slide: Not Found**
+<div style="width: 595px; max-width: 100%">
+<script async class="speakerdeck-embed" data-id="5a42b292fc9a45afb02b8ca3a3816f40" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+</div>
+
+<a href="https://drive.google.com/file/d/1jIn4t_1KJ32eyZr2v9ss5KeM3VrEMNF-/view" role="button" class="btn">
+<span class="glyphicon glyphicon-circle-arrow-down" aria-hidden="true" />
+Project Document
+</a>
 
 ## genovese
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2pQIF2BwEWo?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/4LrAI3MKGZ172v" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ryogaide/genovese-presentation-pptx" title="Genovese presentation pptx" target="_blank">Genovese presentation pptx</a> </strong> from <strong><a href="https://www.slideshare.net/ryogaide" target="_blank">ryogaide</a></strong> </div>
+
+<a href="https://drive.google.com/file/d/1wo7FaMdeUSM-5zpB8Xd1wdvn7sfe9bK9/view" role="button" class="btn">
+<span class="glyphicon glyphicon-circle-arrow-down" aria-hidden="true" />
+Project Document
+</a>
+
+
 
 ## hanadan
 
@@ -62,6 +76,13 @@ Design innovative experience of having a meal.
 <script async class="speakerdeck-embed" data-id="3d6ba138e1224fb4b6c29637cb25907d" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 </div>
 
+<a href="https://drive.google.com/file/d/1QAN4AVBYGF-7pC6Bz5Joy7Z4nuenW2qk/view" role="button" class="btn">
+<span class="glyphicon glyphicon-circle-arrow-down" aria-hidden="true" />
+Project Document
+</a>
+
+
+
 ## overdo
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KSuhuMLJ6O8?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -69,6 +90,12 @@ Design innovative experience of having a meal.
 <div style="width: 595px; max-width: 100%">
 <script async class="speakerdeck-embed" data-id="3e4461bbbe4d4e038fc815a70d026b92" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 </div>
+
+<a href="https://drive.google.com/file/d/1kHmd5OuofyF2I_IP51zjPicvtC0khSfr/view" role="button" class="btn">
+<span class="glyphicon glyphicon-circle-arrow-down" aria-hidden="true" />
+Project Document
+</a>
+
 
 ## petagine
 
@@ -78,11 +105,23 @@ Design innovative experience of having a meal.
 <script async class="speakerdeck-embed" data-id="d076e998a9274dd0b405b0ccf38f0476" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 </div>
 
+<a href="https://drive.google.com/file/d/1EN4UTCEq5raEzmOccQ-7e2KweMiaF9i-/view" role="button" class="btn">
+<span class="glyphicon glyphicon-circle-arrow-down" aria-hidden="true" />
+Project Document
+</a>
+
 ## umai
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A-nLBUw16TU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-:warning: **Slide: Not Found**
+<div style="width: 595px; max-width: 100%">
+<script async class="speakerdeck-embed" data-id="4c76b918f13b4bf79f28a8f8cd83a1eb" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+</div>
+
+<a href="https://drive.google.com/file/d/1lIrN4rQL2uHLjbIkxFIoHEhSBUx4pHL8/view" role="button" class="btn">
+<span class="glyphicon glyphicon-circle-arrow-down" aria-hidden="true" />
+Project Document
+</a>
 
 ## すとろべりー
 
@@ -92,17 +131,32 @@ Design innovative experience of having a meal.
 <script async class="speakerdeck-embed" data-id="9f7c3d726aed4d64934523d68471a256" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 </div>
 
+<a href="https://drive.google.com/file/d/1u1t8BCZvN3NXV3Lg_sGS7gs54yKyhqGo/view" role="button" class="btn">
+<span class="glyphicon glyphicon-circle-arrow-down" aria-hidden="true" />
+Project Document
+</a>
+
 ## ちよこれーと
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j60OpECVxfE?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/dfMnZZkTDOWAwQ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/YusukeAkahane/team-edpa" title="Team ちよこれーと EDP-A 発表資料" target="_blank">Team ちよこれーと EDP-A 発表資料</a> </strong> from <strong><a href="https://www.slideshare.net/YusukeAkahane" target="_blank">Yusuke Akahane</a></strong> </div>
 
+<a href="https://drive.google.com/file/d/1gxmeOSzO-ZrjUVsnkTlC2nHl6-ty-AZE/view" role="button" class="btn">
+<span class="glyphicon glyphicon-circle-arrow-down" aria-hidden="true" />
+Project Document
+</a>
+
 ## 銀のあひる
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MGyjN9ygCK0?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/hCiQePntsbajQ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/SeonghwanYeo1/final-presentation-edpa-2018-108561472" title="Final Presentation EDP-A 2018 銀のあひる" target="_blank">Final Presentation EDP-A 2018 銀のあひる</a> </strong> from <strong><a href="https://www.slideshare.net/SeonghwanYeo1" target="_blank">Seonghwan Yeo</a></strong> </div>
+
+<a href="https://drive.google.com/file/d/1J31GGBRgfzO2vdSPTC0_qknWmMHgSVrU/view" role="button" class="btn">
+<span class="glyphicon glyphicon-circle-arrow-down" aria-hidden="true" />
+Project Document
+</a>
 
 # Schedule
 
