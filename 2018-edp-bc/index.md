@@ -11,7 +11,11 @@ Saito, Sakamoto, Kado, Yagisawa, Terui, Park, Inaba
 
 ## Teaching Assistants (TAs):
 
+Yuma ITO, Yosuke TAJIRI, Randy Raharja
+
 # Corporate Partners
+
+TBD
 
 # Schedule
 
@@ -29,6 +33,7 @@ Saito, Sakamoto, Kado, Yagisawa, Terui, Park, Inaba
    - DTF + EDP-A で貢献度が高かったメンバーを中心にチームづくり
    - 上記の希望票を参考にすること
    - 欠席者の存在を考慮すること
+   - 英語チームの存在を考慮すること
 5. [14:00-14:45] EDP-B/Cの進め方
    - チーム名の決定
    - Slackの準備
