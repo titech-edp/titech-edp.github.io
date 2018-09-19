@@ -61,15 +61,18 @@ layout: default
 
 <div class="col-md-5">
 
-<div class="panel panel-default">
-  <div class="panel-body">
-<iframe frameborder="0" width="100%" height="600" src="https://peatix.com/event/407792/share/widget?z=1&t=1&a=1"></iframe>
-</div></div>
-
 <div class="panel panel-danger">
   <div class="panel-heading">EDPが書籍になりました :tada: </div>
-  <div class="panel-body">
+  <div class="panel-body" style="text-align:center;">
 <p><a href="http://www.shoeisha.co.jp/book/detail/9784798153858"><img src="images/edp-book.png" /></a></p>
+  </div>
+</div>
+
+<div class="panel panel-default">
+  <div class="panel-heading">イベント情報</div>
+  <div class="panel-body">
+<iframe frameborder="0" width="100%" height="480" src="https://peatix.com/event/407792/share/widget?z=1&a=1"></iframe>
+<iframe frameborder="0" width="100%" height="480" src="https://peatix.com/event/411558/share/widget?z=1&a=1"></iframe>
   </div>
 </div>
 
