@@ -24,3 +24,5 @@ group :jekyll_plugins do
   gem "jekyll-sitemap"
   gem "jemoji"
 end
+
+gem 'html-proofer'

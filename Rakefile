@@ -55,3 +55,14 @@ task :medium_json do
     f.write json
   end
 end
+
+require 'html-proofer'
+task :proof do
+  sh "bundle exec jekyll build"
+  options = { 
+    :assume_extension => true ,
+    :empty_alt_ignore => true ,
+    :allow_hash_href => true
+  }
+  HTMLProofer.check_directory("./_site", options).run
+end
