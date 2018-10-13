@@ -15,7 +15,15 @@ Yuma ITO, Yosuke TAJIRI, Randy Raharja
 
 # Corporate Partners
 
-TBD
+* ATC株式会社 / ATC Co., Ltd.
+* パナソニック株式会社 / Panasonic Corporation
+* 株式会社ウェザーニューズ / Weathernews Inc.
+* 株式会社リコー / Ricoh Co., Ltd.
+* さくらインターネット株式会社
+* エイベックス株式会社
+* フォントワークス株式会社
+* 太陽ホールディングス株式会社
+* 株式会社オロ
 
 # Schedule
 
@@ -48,7 +56,71 @@ TBD
    - その後、時間いっぱいまでグループワーク
    - ふりかえり
 
+### Homework:
+
+Have interviews with the potential users (at least five users per team) of a product which you will develop.
+
+1. Make a list of questions
+2. Write interview notes (transcription)
+3. Take more than three photos per interview
+  * Continue until your team finds at least three strange/interesting/surprising episodes.
+  * Save the files somewhere and submit the links to `Slack#homework-20180929` (before the next lecture)
+  * Print and bring them to the next lecture.
+4. In the next class, you should give a 5 min presentation:
+  * Y (yattakoto): what your team did
+  * W (wakattakoto): what your team learnt
+  * T (tsugiyarukoto): what your team will do
+5. Make sure also to create "Skill Matrix" and read "Google re:Work" as a homework.
+
 ## [EDP-B2] October 13, Sat., 10:00-15:50
+
+- 10:00-10:30: Guidance
+    - Introduction of new members
+    - Create your name tag
+    - Icebreak "Feedback BINGO" (by Itoh)
+- 10:30-12:15: Presentations about User Research
+    - 10min per team:
+        - 3~5min Presentation
+            - Yattakoto: what you did
+            - Wakattakoto: what you learnt
+            - Tsugiyarukoto: what you will do next
+        - 5~7min Feedback
+- 12:15-13:25: Lunch Break
+- 13:25-13:35: How to purchase things (by Tajiri)
+- 13:35-13:45: Announcement of Homework
+    - Previous Homework
+        - Psychological Safety and Dependability
+        - Summary of Skills Training Matrix
+    - Design your design process and draw a few product sketches (using [EDP template](https://titech-edp.github.io/toolkit/product-sketch.pdf))
+    - Give a 10 min presentation in the next class:
+        - 3~5 min for presentation
+            - design process (you've already done)
+            - product skeches
+            - design process (you'll do next)
+        - 5~7 min for feedback
+    - Save the slide somewhere and submit the link to `Slack#homework-20181013` (before the next lecture)
+    - **FYI: standard design process:**
+        - Do a lot of user interviews and observations
+        - Create a user-journey-map and find some interesting points
+        - Create at least three POVs (using the form of tatemae or extreme users)
+        - Create at least three HMWs per POV.
+        - Create at least three Design Principles from the HMWs.
+            - [![Image](https://gyazo.com/a2de351cc9695ef3eb481c4c3838108f/thumb/1000)](https://gyazo.com/a2de351cc9695ef3eb481c4c3838108f)
+
+        - Select one Design Principle and the relative three HMWs, and for each HMW do sketch using [10-plus-10 method](http://saul.cpsc.ucalgary.ca/sketchbook/wp-content/uploads/Chapter-1.4-10Plus10Method.ppt).
+        - Categorise the final three sketchs into "Favorite", "Rival", and "Dark Horse".
+        - Here are the best three ideas/skeches 😄
+- 13:45-14:45: Group Work (1)
+- 14:45-14:55: Break
+- 14:55-15:40: Group Work (2)
+- 15:40-15:50: Reflection
+    - KPTS on Post-it
+        - (Your Name)
+        - Keep (Good Things for you/team)
+        - Problem (Bad Things for you/team)
+        - Try (Improvements for you/team)
+        - Suggestion (for the lecture)
+    - Then take a photo as a team and submit it to `Slack#realtime-20181013`.
 
 ## [EDP-B3] October 27, Sat., 10:00-15:50
 
