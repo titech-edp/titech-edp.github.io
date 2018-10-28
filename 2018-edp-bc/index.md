@@ -124,6 +124,54 @@ Have interviews with the potential users (at least five users per team) of a pro
 
 ## [EDP-B3] October 27, Sat., 10:00-15:50
 
+-  10:00-10:30: Guidance
+    - Icebreak by TA
+    - Create your name tag
+    - Create a list of your team members (for the attendance check)
+    - Decide the order of presentation
+-  10:30-12:15: Presentation
+    - 10min per team:
+        - 3~5min Presentation
+            - design process (you've already done)
+            - product skeches
+            - design process (you'll do next)
+        - 5~7min Feedback
+-  12:35-13:45: Lunch Break
+-  13:45-14:00: Mini Lecture by Kado
+    - 🚧 Problem: "Regular Facilitator"
+        - [![Image](https://gyazo.com/91768df9c51e76b2750eeb2c27d7c47d/thumb/1000)](https://gyazo.com/91768df9c51e76b2750eeb2c27d7c47d)
+        - source: [https://hbr.org/2012/04/the-new-science-of-building-great-teams](https://hbr.org/2012/04/the-new-science-of-building-great-teams)
+    - Summary of Fedback Bingo
+    - Feedback of KPTS on EDP-B2
+    - 📝 Homework:
+        - Take a survey to explore **viability**.
+            - Goal: Take a few steps away from current ideas and get a new perspective.
+            - e.g. 9-window-tool, 2x2 matrix, analogous inspiration, field research, expert interview, or so.
+                - You can select your favorite methods. 😊
+        - After that, create new prototype(s) and draw storyboard(s) to check **feasibility**.
+        - Save a slide somewhere and submit the link to `Slack#homework-20181027` (before the next lecture)
+    - Announcement of EDP-4 (2018-11-10):
+        - Give a short presentation about what you've done, prototype, and storyboard:
+            - 3~5 min Presentation:
+                - what you've done to get a new perspective
+                - prototype(s)
+                - storyboard(s)
+                - what you will do
+            - 5~7 min Feedback
+    - Announcement of EDP-5 (2018-11-24):
+        - Interim Presentation:
+            - Give a 3 min. pitch about your solution
+            - Give a 3 min. skit with your best prototype, which expresses user-experience vividly
+            - Give a 3 min. presentation including:
+                - reflections of your design process and what you’ve learned in EDP-B
+                - plans for further works in EDP-C
+            - Take 3 questions at most from the audience
+-  14:00-15:40: Group Work
+-  15:40-15:50: Reflection
+    - NEW FORMAT!! Create this **as a team**:
+        - [![Image](https://gyazo.com/9aa4b115cbf39e014d4334014eb122f7/thumb/1000)](https://gyazo.com/9aa4b115cbf39e014d4334014eb122f7)
+    - Then take a photo as a team and submit it to `Slack#realtime-20181027`.
+
 ## [EDP-B4] November 10, Sat., 10:00-15:50
 
 ## [EDP-B5] November 24, Sat., 10:00-15:50
