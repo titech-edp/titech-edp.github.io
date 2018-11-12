@@ -174,6 +174,84 @@ Have interviews with the potential users (at least five users per team) of a pro
 
 ## [EDP-B4] November 10, Sat., 10:00-15:50
 
+- 10:00-10:30: Guidance
+    - Take your name tag
+    - Icebreak by TA (Randy)
+    - Decide the order of presentation
+- 10:30-12:15: Presentation
+    - 3~5 min Presentation:
+        - what you've done to get a new perspective
+        - prototype(s)
+        - storyboard(s)
+        - what you will do
+    - 5~7 min Feedback
+- 12:15-13:20: Lunch Break
+- 13:20-13:30: Mini Lecture by Kado
+    - Are these Tokyo-Tech Specific (therefore Useless) Methods?
+        - Short answer: Absolutely NOT.
+            - Design Thinking is relatively new method , not well defined, and not widely spreaded yet.
+            - They are not Tokyo-Tech specific (see below).
+                - Many companies and ex-students are using our methods.
+        - Encourage to google in ENGLISH!! ( Tokyo-Tech has dominated search results in Japanese 🙄 )
+            - [![Image](https://gyazo.com/bda8b482922d0f21349ccaa45070a038/thumb/1000)](https://gyazo.com/bda8b482922d0f21349ccaa45070a038)
+        - IMPORTANT: We are interested in not ”Design Thinking" methods but rather "Engineering Design" methods.
+        - Originally, Saito-sensei was a visiting researcher of Stanfod and he brought its ME310 and d.school design methods to EDP.
+        - Tokyo-Tech and IDEO Tokyo created the initial educational materials for "Design Thinking Fundamental" course.
+        - Why Stanford and IDEO?
+            - [![Image](https://gyazo.com/00d1d9b527986a371380b3b2c5005b48/thumb/1000)](https://gyazo.com/00d1d9b527986a371380b3b2c5005b48)
+                - cf. [https://speakerdeck.com/kdmsnr/tokyo-tech-dtf-2018-introduction?slide=16](https://speakerdeck.com/kdmsnr/tokyo-tech-dtf-2018-introduction?slide=16)
+                - cf. [https://medium.com/titech-eng-and-design/e8ef02195fbe](https://medium.com/titech-eng-and-design/e8ef02195fbe)
+        - Every year, the faculty team is improving the materials in accordance with the situation of EDP .
+            - Especially Tokyo-Tech students are not good at creating POVs. 🤔
+            - ASIDE: I (Kado) DO NOT LIKE affinity-diagram and brainstorming both are famous for "Design Thinking". 😣
+        - We know that "Referenceability" matters. 🔎
+            - [![Image](https://gyazo.com/ff7e271d660bda7de1b436eeea1c0e61/thumb/1000)](https://gyazo.com/ff7e271d660bda7de1b436eeea1c0e61)
+            - EDP-Toolkit: [https://titech-edp.github.io/toolkit/](https://titech-edp.github.io/toolkit/)
+
+    - DESIGN YOUR DESIGN RPOCESS !!
+        - We think our methods are NOT the best or one-fit-all perfect one.
+        - There are various kinds of themes in EDP-B/C.
+        - So, we encourage you to "Design Your Design Process" specific to your theme.
+            - 守破離（DTF, EDP-A, and EDP-B/C <- now here)
+        - Double Diamond:
+            - EDP-B is for "define strategy" and EDP-C is for "execute solution"
+            - [![Image](https://gyazo.com/cb0d7b5757732e01367ed25f3971bdd9/thumb/1000)](https://gyazo.com/cb0d7b5757732e01367ed25f3971bdd9)
+            - source: [https://www.thoughtworks.com/insights/blog/double-diamond](https://www.thoughtworks.com/insights/blog/double-diamond)
+    - As I've mentioned millions of times, R-E-A-D "Google re:Work"
+        - ja) [https://rework.withgoogle.com/jp/subjects/teams/](https://rework.withgoogle.com/jp/subjects/teams/)
+        - en) [https://rework.withgoogle.com/subjects/teams/](https://rework.withgoogle.com/subjects/teams/)
+    - Announcement of EDP-B5
+    - 📝 Homework:
+        - Prepare for the Pitch, Skit, and Presentation (Design Process and Plans for EDP-C)
+        - Pitch Template (cf. [The YC Seed Deck Template](https://blog.ycombinator.com/intro-to-the-yc-seed-deck/)):
+            - Slide0 (Title):
+                - Product Name and/or Slogan
+                - Photo of your Prototype
+                - Desgin Prompt
+                - Corporate Partner
+                - Team Name
+                - Team Members
+                - Date
+            - Slide1: Problem
+            - Slide2: Solution
+            - Slide3: Unique Insight
+            - Slide4: Voice of User
+            - Slide5: Future Works
+            - Slide6: What we need
+        - Tips for the pitch:
+            - You can insert the skit before or after slide2, if you want.
+            - You should not use design thinking jargon (ex. POV, HMW, or so)
+        - Skit template: None
+        - Presentation template: None
+        - Save a slide somewhere and submit the link to `Slack#homework-20181110` (before the next lecture)
+- 13:30-14:30: Group Work (1)
+- 14:30-14:40: Break
+- 14:40-15:40: Group Work (2)
+- 15:40-15:50: Reflection
+    - Create this as a team:
+        - [![Image](https://gyazo.com/9aa4b115cbf39e014d4334014eb122f7/thumb/1000)](https://gyazo.com/9aa4b115cbf39e014d4334014eb122f7)
+    - Then take a photo as a team and submit it to `Slack#realtime-20181110`.
+
 ## [EDP-B5] November 24, Sat., 10:00-15:50
 
 ## [EDP-C1] December 8, Sat., 10:00-15:50
