@@ -30,7 +30,7 @@ kramdown:
   input: GFM
 
 theme: minima
-gems:
+plugins:
   - jemoji
   - jekyll-feed
   - jekyll-sitemap

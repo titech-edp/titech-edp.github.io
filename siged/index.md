@@ -10,7 +10,7 @@ title: エンジニアリングデザイン研究会（SIGED）
 ## 開催情報
 
 <ul>
-{% assign sorted = (site.pages | sort: 'title') %}
+{% assign sorted = site.pages | sort: 'title' %}
 {% for p in sorted %}
   {% if p.category == "siged" %}
 <li><a href="{{p.url}}">{{ p.title }}</a></li>
