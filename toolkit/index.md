@@ -36,6 +36,7 @@ title: EDP Toolkit
 ## Ideate
 - [HMWQ Sheet](hmwq.pdf) / [HMWQシート](hmwq_ja.pdf)
 - [HMWQ samples](hmwq_samples.pdf)
+- Spring of Idea / アイデアの泉
 - [Design Principles](design-principles.pdf) / [デザイン原則](design-principles_ja.pdf)
 
 ## Prototype
