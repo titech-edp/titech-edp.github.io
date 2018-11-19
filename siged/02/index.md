@@ -62,6 +62,8 @@ category: siged
 ## 2. 「NTTコミュニケーションズが取り組むデザイン経営やイノベーション創出活動にまつわる話とEDPの活かし所」
 EDPでの学びをベースとしつつ、今までどういうプロジェクトでどういう活かし方をしてきたか。そして今何をしているか、特に鋭意取り組み中のデザイン経営や新事業創出活動を絡めつつお話したいと思います。
 
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/Iv2z4XagsQSLY9" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/YuheyIwata/2018-1113-123289963" title="2018 11-13 デザイン経営やイノベーション創出活動にまつわる話" target="_blank">2018 11-13 デザイン経営やイノベーション創出活動にまつわる話</a> </strong> from <strong><a href="https://www.slideshare.net/YuheyIwata" target="_blank">Yuhei Iwata</a></strong> </div>
+
 ### 発表者：NTTコミュニケーションズ株式会社 経営企画部 デジタル・カイゼン・デザイン室 シニアUXデザイナー 岩田裕平
 > NTTコミュニケーションズ株式会社 経営企画部 デジタル・カイゼン・デザイン室 シニアUXデザイナー 2013年NTTコミュニケーションズへ入社後、約3年半の間グループ会社でR&Dや新サービス開発、デザイン・ブランド戦略に従事。2017年より経営戦略としてデザイン思考を推進するプロジェクトにジョイン。2018年より社内ベンチャー制度を利用し、新事業のプロダクトオーナーとして事業創出中。HCDプロセスを用いた新事業創出を得意とする。経済産業省主催「始動Next Innovator」3期生選抜メンバー。HCD-Net 認定人間中心設計専門家。2015年に東工大CBECを修了。
 
