@@ -254,6 +254,55 @@ Have interviews with the potential users (at least five users per team) of a pro
 
 ## [EDP-B5] November 24, Sat., 10:00-15:50
 
+- 10:00-10:15: Guidance
+    - Take your name tag
+    - Announcement of NDA
+    - Change layout
+    - Decide the order of presentation
+- 10:15-12:15: Interim Presentation (12min. * 9 teams + break:10min)
+    - Give a 3 min. pitch about your solution
+        - Use the pitch template (see EDP-B4)
+    - Give a 3 min. skit with your best prototype, which expresses user-experience vividly
+    - (↑real scenes)
+    - (〰〰〰draw a clear line〰〰〰)
+    - (↓behind the scenes)
+    - Give a 3 min. presentation including:
+        - reflections of your design process you've done and what you’ve learnt in EDP-B
+        - plans for further works in EDP-C
+    - Take 3 questions at most from the audience
+- 12:15-13:20: Lunch Break
+- 13:20-13:40: Lecture by Saito-sensei
+- 13:40-14:00: Homework and Deliverable
+    - Homework:
+        - Complete 100 tests by the end of EDP-C
+            - It depends on you that how to count "test".
+        - Preparing for the next presentation (5min.)
+            - At first, tell us how many times you've tested since the last class and the total number of tests you've ever done.
+            - Then, DEMO (prototype and/or experience) + YWT (Yattakoto, Wakattakoto, and Tsugiyarukoto)
+            - Save a slide somewhere and submit the link to `Slack#homework-20181124` (before the next lecture)
+    - Deliverables:
+        - Slide (already done)
+        - Report: [https://goo.gl/forms/kATdSeS8p9M2VNLs1](https://goo.gl/forms/kATdSeS8p9M2VNLs1) (Due date: 2018-11-30 24:00)
+    - Final Presentation:
+        - Pitch, Movie, and Design Process
+- 14:00-15:50: Group Work
+    - Team Journey Map
+    - [![Image](https://gyazo.com/f0461048e8c76a59c7bebe3e222ee56e/thumb/1000)](https://gyazo.com/f0461048e8c76a59c7bebe3e222ee56e)
+    - Kudos Card
+    - Planning for EDP-C
+
+#### 懇親会
+
+* Date : 11/24 17:00-19:00
+* Place : もつ鍋らく 大岡山本店（Motsunabe Raku）
+
+#### パートナー企業向け意見交換会
+- 12:15-12:30 and 16:00-16:15（実際：12:35-13:00 and 16:00-16:40）
+- チームの状況
+- テーマの忠実度
+- メンタリングの方針
+- 最終発表会では講評をいただく
+
 ## [EDP-C1] December 8, Sat., 10:00-15:50
 
 ## [EDP-C2] December 22, Sat., 10:00-15:50
