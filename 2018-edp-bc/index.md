@@ -305,6 +305,36 @@ Have interviews with the potential users (at least five users per team) of a pro
 
 ## [EDP-C1] December 8, Sat., 10:00-15:50
 
+- 10:00-10:30: Guidance
+    - Take your name tag
+    - Icebreak (paper tower) by Ito
+    - Decide the order of presentation based on score of the icebreak
+- 10:30-12:15: Presentation
+    - 今回からはプレゼン5分で打ち切り!!
+    - 5 min Presentation:
+        - At first, tell us how many times you've tested since the last class and the total number of tests you've ever done.
+        - Then, DEMO (prototype and/or experience) + YWT (Yattakoto, Wakattakoto, and Tsugiyarukoto)
+    - フィードバックのやり方を変えたい。。。
+        - （結論）3チームずつ連続で発表 → 10分で教員からのフィードバック + 各チームのチャンネルに感想を書き込み
+- 12:15-13:20: Lunch Break
+- 13:20-13:50: Mini Lecture
+    - テストの回数を出してることからもわかるように、作ってテストするのを100回繰り返して欲しい
+    - あと4回しか講義がないから早く作り始めよう
+    - 企業からもらったテーマがよくわからない場合は再定義するのもアリ
+        - 発表の際に「再定義しました」って言ってもらえればよい
+    - EDP-Bではチームに閉じていたが、Cではもっとオープンにやってほしい
+        - 飲み会でチーム間でメンバーのトレードはどうか？という話が出ていたが……それはさすがに大変なので、他のチームとかに行ってみるのもアリ。まるでメンバーかのように振舞ってみたりスカウトするのもアリ。ただし、自分のチームとのバランスは取ること。
+        - アイデアのパクりパクられも推奨する「このクラス内では何を盗んでも構わない」
+    - 過去の知見を得たいならEDPの本を読もう
+    - Dance with ambiguity
+    - プレゼンも「なんか面白いものがあるんですけどどうでしょう」みたいなのでもよい
+    - 作ってから考える
+    - 作ってから寸劇してみる
+    - 1アイデア1コント
+    - 座って会議ばかりより立ち上がっていろんなことをやってほしい
+- 13:50-15:40: Group Work
+- 15:40-15:50: Reflection
+
 ## [EDP-C2] December 22, Sat., 10:00-15:50
 
 ## [EDP-C3] January 12, Sat., 10:00-15:50
