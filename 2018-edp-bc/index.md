@@ -334,6 +334,7 @@ Have interviews with the potential users (at least five users per team) of a pro
     - 座って会議ばかりより立ち上がっていろんなことをやってほしい
 - 13:50-15:40: Group Work
 - 15:40-15:50: Reflection
+- Homework: Submit a slide to `Slack#homework20181208`
 
 ## [EDP-C2] December 22, Sat., 10:00-15:50
 
