@@ -338,6 +338,39 @@ Have interviews with the potential users (at least five users per team) of a pro
 
 ## [EDP-C2] December 22, Sat., 10:00-15:50
 
+-  10:00-10:30: Guidance
+    - Take your name tag
+    - Icebreak by TA
+    - Decide the order of presentation
+-  10:30-12:15: Presentation
+    - 5 min Presentation * 3 teams successionally:
+        - At first, tell us how many times you've tested since the last class and the total number of tests you've ever done.
+    - 10 min feedback + 5 min writing it down on the Slack
+        - ref.  previous comment:
+        - > フィードバック書いてるときに、お話を聞くのはだいぶ難しいなとおもいました
+            >> ちょうど15分余ったので、10分コメント+5分フィードバック書き込みの時間、にしますかね。ちょっと場が沈黙になりそうなのが不安ですけども。
+-  12:15-13:20: Lunch Break
+-  13:20-13:50: Mini Lecture
+    - 宿題出し忘れてた件。。。まあ、毎回おなじ要領でやってください。
+    - ユーザーテストが全体的に浅い気がする → もっと「深い・長い」ユーザーテストを
+    - オープンなコミュニケーションの利点
+    - （大事なことなので2回め）はやく「プロダクト」を作り始めよう！
+    - EDP-C5 でLTやろーぜー。1人3分くらいでEDPについて自由に語ってもらいたい。
+        - その内容をブログに書いてくれるともっと嬉しい。（加点しちゃいそう）
+    - HRT matters in this class.
+    - Final Presentation and Project Document (IMPORTANT!!!!)
+    - https://speakerdeck.com/kdmsnr/2018-edp-bc-final-report-announcement
+        - Report Template:
+
+```
+https://titech-edp.github.io/2018-edp-bc/2018_EDP-BC_Final-Report_(teamname)_JA.dotx
+https://titech-edp.github.io/2018-edp-bc/2018_EDP-BC_Final-Report_(teamname)_EN.dotx
+```
+
+- 13:50-15:40: Group Work
+- 15:40-15:50: Reflection
+- Homework: Submit a slide to `Slack#homework20181222`
+
 ## [EDP-C3] January 12, Sat., 10:00-15:50
 
 ## [EDP-C4] January 26, Sat., 10:00-15:50
