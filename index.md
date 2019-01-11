@@ -71,14 +71,15 @@ layout: default
 <div class="panel panel-default">
   <div class="panel-heading">イベント情報</div>
   <div class="panel-body">
-<iframe frameborder="0" width="100%" height="480" src="https://peatix.com/event/411559/share/widget?z=1&a=1"></iframe>
+<!-- <iframe frameborder="0" width="100%" height="480" src="https://peatix.com/event/411559/share/widget?z=1&a=1"></iframe> -->
+今はありません
   </div>
 </div>
 
 <div class="panel panel-default">
   <div class="panel-heading">:postbox: 企業のみなさまへ</div>
   <div class="panel-body">
-東工大EDPにご関心のある企業様は、Peatixのページをフォローしていただければ、各種情報をお送りいたします。▶【<a href="https://titech-cbec.peatix.com/">東京工業大学CBECプログラム | Peatix</a>】
+東工大EDPにご関心のある企業様は、Peatixのページをフォローしていただければ、各種情報をお送りいたします。<br />▶【<a href="https://titech-cbec.peatix.com/">東京工業大学CBECプログラム | Peatix</a>】
   </div>
 </div>
 
