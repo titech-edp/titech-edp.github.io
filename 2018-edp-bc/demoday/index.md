@@ -29,6 +29,8 @@ title: 2018年度「エンジニアリングデザインプロジェクトB/C」
 
 ## パートナー企業とチームの紹介
 
+※発表順は後ほど決定いたします。
+
 {% for t in site.data["2018-edp-bc-demoday"] %}
 <div class="panel panel-primary">
 <div class="panel-heading">
