@@ -13,9 +13,8 @@ title: 2018年度「エンジニアリングデザインプロジェクトB/C」
 
 ## 開催概要
 * 2018年度 東京工業大学エンジニアリングデザインプロジェクト最終発表会
-* 会場：東京工業大学 大岡山キャンパス 西9号館 2階
-<http://www.dst.titech.ac.jp/outline/facility/image/w9_map.pdf>
-* お申込み： TBD
+* 会場：[東京工業大学 大岡山キャンパス 西9号館 2階](http://www.dst.titech.ac.jp/outline/facility/image/w9_map.pdf)
+* お申込み： <https://titech-edp-2018.peatix.com>
 
 ## 当日のスケジュール
 
