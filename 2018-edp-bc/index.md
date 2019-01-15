@@ -350,6 +350,7 @@ Have interviews with the potential users (at least five users per team) of a pro
         - > フィードバック書いてるときに、お話を聞くのはだいぶ難しいなとおもいました
             >> ちょうど15分余ったので、10分コメント+5分フィードバック書き込みの時間、にしますかね。ちょっと場が沈黙になりそうなのが不安ですけども。
 -  12:15-13:20: Lunch Break
+   - ミーティング：team-popeye
 -  13:20-13:50: Mini Lecture
     - 宿題出し忘れてた件。。。まあ、毎回おなじ要領でやってください。
     - ユーザーテストが全体的に浅い気がする → もっと「深い・長い」ユーザーテストを
@@ -372,6 +373,28 @@ https://titech-edp.github.io/2018-edp-bc/2018_EDP-BC_Final-Report_(teamname)_EN.
 - Homework: Submit a slide to `Slack#homework20181222`
 
 ## [EDP-C3] January 12, Sat., 10:00-15:50
+
+- 10:00-10:30: Guidance
+    - Take your name tag
+    - Icebreak by TA (Randy): Find similarities
+    - Decide the order of presentation
+    - 席替えしようぜ！
+- 10:30-12:15: Presentation
+    - 5 min Presentation * 3 teams successionally:
+        - At first, tell us how many times you've tested since the last class and the total number of tests you've ever done.
+    - 10 min feedback + 5 min writing it down on the Slack
+- 12:15-13:20: Lunch Break
+    - ミーティング：team-千歯コキ
+- 13:20-15:40: Group Work
+- 15:40-15:50: Mini Lecture by Kado + Reflection
+    - 「Presentation Checklist（発表チェックリスト）」作ったよ
+    - Check Final Presentation and Artifacts
+    - 最終発表会の告知ページを出したい
+        - 最終発表会の発表順を決めたい
+        - チームの紹介文がほしい
+        - パートナー企業の発表者のお名前がほしい
+    - （そういえば、モノを作るのが苦手なチームがある？）
+- Homework: Submit a slide to `Slack#homework20190112`
 
 ## [EDP-C4] January 26, Sat., 10:00-15:50
 
