@@ -35,11 +35,11 @@ title: 2018年度「エンジニアリングデザインプロジェクトB/C」
 {{ t.theme }} by {{ t.company }}
 </div>
 <div class="list-group">
-<a class="list-group-item" href="#">
+<a class="list-group-item">
 <h4 class="list-group-item-heading">テーマ発表者</h4>
 <p class="list-group-item-text">{{ t.presenter }}</p>
 </a>
-<a class="list-group-item" href="#">
+<a class="list-group-item">
 <h4 class="list-group-item-heading">担当チーム</h4>
 <p class="list-group-item-text">{{ t.team }}</p>
 <p class="list-group-item-text">{{ t.desc }}</p>
