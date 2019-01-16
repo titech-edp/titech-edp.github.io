@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 2018年度「エンジニアリングデザインプロジェクトB/C」最終発表会
+title: 2018年度「エンジニアリングデザインプロジェクト」最終発表会
 ---
 
 日頃より東京工業大学CBECプログラムへのご支援を賜り、誠にありがとうございます。
@@ -37,7 +37,11 @@ title: 2018年度「エンジニアリングデザインプロジェクトB/C」
 ※発表順は後ほど決定いたします。
 
 {% for t in site.data["2018-edp-bc-demoday"] %}
+{% if t.desc == "TBD" %}
+<div class="panel panel-default">
+{% else %}
 <div class="panel panel-primary">
+{% endif %}
 <div class="panel-heading">
 {{ t.theme }} by {{ t.company }}
 </div>

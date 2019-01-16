@@ -401,3 +401,27 @@ https://titech-edp.github.io/2018-edp-bc/2018_EDP-BC_Final-Report_(teamname)_EN.
 ## [EDP-C5] February 2, Sat., 10:00-15:50
 
 ## [EDP-FINAL-PRESENTATION] February 9, Sat., 13:00-17:30
+
+### 外部向け開催概要
+→ [開催概要](./demoday/)
+
+### 準備・会場設営（学生向け）：
+
+```
+[-10:00] デザイン工房に集合 / The meeting place is Design Factory
+[10:00-11:00] リハーサル / Rehearsal [Sakamoto, TAs]
+[11:00-] コラボレーションルームへ移動 / Move to Collaboration Room
+[11:00-11:30] 準備 / Preparation
+| - 作成したプロトタイプの用意 / Prototype
+| - 電源など必要なものを確認 / Power strip etc. whatever you need
+| - 机の配置 / Desk layout
+| - モニタ接続チェック / Monitor check
+| - ポスターや配布物のチェック / Poster and Brochure check
+[11:30-12:50] お昼 / Lunch
+[13:00] 発表開始 / Presentation Start
+[15:10-] コラボレーションルームへ移動 / Move to Collaboration Room
+[15:10-15:50] デモ / Demonstration
+[15:50-16:15]（→ 学生向け） ふりかえり / Reflection［坂本］
+[15:50-16:15]（→ 協力企業向け） 懇談会［齋藤、角］
+[16:15-17:45] 懇親会 / Social gathering
+```
