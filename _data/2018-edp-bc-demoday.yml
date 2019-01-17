@@ -22,6 +22,12 @@
   team: 千歯コキ
   desc: みんなが笑顔でネイルをできる世界を作ります．
 
+- company: 株式会社リコー
+  theme: ソフトウェア開発における遠隔会議の体験をデザインせよ
+  presenter: 株式会社リコー 堀内 岳志
+  team: popeye
+  desc: ほうれん草のように栄養素満点のプロダクトで遠隔会議の明るい未来をデザインします！
+
 - company: 株式会社ウェザーニューズ
   theme: 多発する異常気象に対する防災・減災体験をデザインせよ
   presenter: TBD
@@ -33,13 +39,6 @@
   presenter: TBD
   team: nandarone
   desc: TBD
-
-- company: 株式会社リコー
-  theme: ソフトウェア開発における遠隔会議の体験をデザインせよ
-  presenter: TBD
-  team: popeye
-  desc: TBD
-
 
 - company: 株式会社オロ
   theme: 発達障害者の自立支援をデザインせよ
