@@ -34,8 +34,6 @@ title: 2018年度「エンジニアリングデザインプロジェクト」最
 
 ## パートナー企業とチームの紹介
 
-※発表順は後ほど決定いたします。
-
 {% for t in site.data["2018-edp-bc-demoday"] %}
 {% if t.desc == "TBD" %}
 <div class="panel panel-default">
