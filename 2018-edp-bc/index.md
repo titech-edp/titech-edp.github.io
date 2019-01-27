@@ -398,6 +398,38 @@ https://titech-edp.github.io/2018-edp-bc/2018_EDP-BC_Final-Report_(teamname)_EN.
 
 ## [EDP-C4] January 26, Sat., 10:00-15:50
 
+- 10:00-10:30: Guidance
+    - Take your name tag
+    - Icebreak by TA
+    - Decide the order of presentation
+- 10:30-12:15: Presentation
+    - 5 min Presentation * 3 teams successionally:
+        - At first, tell us how many times you've tested since the last class and the total number of tests you've ever done.
+    - 10 min feedback + 5 min writing it down on the Slack
+- 12:15-13:20: Lunch Break
+- 13:20-13:50: Mini Lecture by Kado
+    - 次回はLT！（通常の発表はナシ）ref. [https://en.wikipedia.org/wiki/Lightning_talk](https://en.wikipedia.org/wiki/Lightning_talk)
+        - チームごとに1人3分ずつプレゼン
+        - テーマは「EDPについて」。内容はなんでもOK。ネタに走ってもいいですが、みなさんの本音を知りたい。
+            - ぜひブログも書いてね！（そのままの内容でOK。スライドを画像として載せるとよいです）
+                - → [https://medium.com/titech-eng-and-design](https://medium.com/titech-eng-and-design)
+        - 1台のマシンにメンバー全員のプレゼン資料を入れといてね
+            - 無理にスライドをつかわなくてもいいです
+        - パートナー企業の方もぜひぜひ（チームの次に発表してください。マシンは個人用でもOKです）
+        - 順番は当日の朝に決めましょう
+    - 最終発表当日の確認
+        - Check 「Final Presentation and Artifacts」
+        - プレゼンの練習を何度もやっておきましょう
+            - See 「Pitch_Template」
+            - 「動画」と「プロセス」のプレゼンも忘れずに
+        - ブースの準備もしといたほうがいいです
+            - 看板とか、ポスターとか、小道具なんかがあると便利（参考：去年の様子↓）
+            - [![Image](https://et-cdn.shoeisha.jp/static/images/article/741/741_DSC_5370.JPG)](https://et-cdn.shoeisha.jp/static/images/article/741/741_DSC_5370.JPG)
+            - 予算を使っていろいろ準備しといてください
+        - 発表順はいまから決めておきたい
+- 13:50-15:40: Group Work
+- 15:40-15:50: Reflection
+
 ## [EDP-C5] February 2, Sat., 10:00-15:50
 
 ## [EDP-FINAL-PRESENTATION] February 9, Sat., 13:00-17:30
