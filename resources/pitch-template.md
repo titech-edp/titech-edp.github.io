@@ -18,7 +18,7 @@ title: Pitch Template
 
 ## Slide2: Problem
 - Clearly state the problem and/or reason why you built the prototype.
-- How much worth solving the problem? Give us some evidence.
+- How much worth solving the problem? Give us some evidences or clues.
 
 ## Slide3: Unique Insight
 - Tell us what only you know about the problem and/or how to solve the problem.
@@ -29,7 +29,7 @@ title: Pitch Template
 - Describe the concrete benefits (especially user experience rather than product itself) you provide.
 
 ## Slide5: Voice of User
-- How much does it solve the problem? Give us some evidence.
+- How much does it solve the problem? Give us some evidences.
 
 ## Slide6: Future Works
 - Do you have any future plan?
