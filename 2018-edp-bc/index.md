@@ -432,28 +432,61 @@ https://titech-edp.github.io/2018-edp-bc/2018_EDP-BC_Final-Report_(teamname)_EN.
 
 ## [EDP-C5] February 2, Sat., 10:00-15:50
 
+- 10:00-10:30: Guidance
+    - Take your name tag
+    - Icebreak by TA
+    - Decide the order of presentation
+- 10:30-13:20: Lightning Talks
+    - 3 min Presentation
+- 13:20-14:30: Lunch Break
+- 14:30-15:00: Mini Lecture by Kado
+    - LTおつかれさまでした
+        - 途中で切れたやつは、ブログを書くとよいと思う！
+    - 進捗どうですか？
+        - 「OKです！」→ そのまま続けてください。
+        - 「ダメです！」→ 相談しましょう。声かけてください。
+    - 最終発表当日の確認（大事なことなので2回目）：
+        - Check Final Presentation and Artifacts（💥 Deadline: 2019-02-17 24:00 💥）
+        - プレゼンの練習を何度もやっておきましょう
+            - See Pitch_Template
+            - 「動画」と「プロセス」のプレゼンも忘れずに
+        - ブースの準備もしといたほうがいいです
+            - 看板とか、ポスターとか、小道具なんかがあると便利
+            - 予算を使っていろいろ準備しといてください
+        - 当日の予定：
+            - 11:00 西9号館コラボレーションルームに集合 / The meeting place is W-9 Collaboration Room
+            - 11:00-12:30 リハーサル / Rehearsal
+                - プレゼンの時間確認 / Check the duration of presentation.
+                    - 午前中に教員かTAに確認をもらうこと / Make sure to ask faculty or TA to confirm the duration.
+                - 机の配置 / Desk layout
+                - 電源など必要なものを確認 / Power strip etc. whatever you need
+                - プロトタイプの設置 / Deploy the Prototype
+                - ポスターや配布物のチェック / Poster and Brochure check
+                - モニタの接続チェック（発表逆順に） / Monitor check (in the presentation order)
+                    - 11:10 千歯コキ
+                    - 11:15 nandarone
+                    - 11:20 guardian
+                    - 11:25 すぷりんぐ
+                    - 11:30 シャンシャンFC
+                    - 11:35 を
+                    - 11:40 diversity
+                    - 11:45 ぱんだ
+                    - 11:50 ポパイ
+                - お昼は適当に！ / Feel free to have a lunch anytime
+            - 12:30 多目的ホールに移動 / Move to Multi-Purpose Digital Hall
+            - 12:40 受付開始 / Open
+            - 13:00 発表開始 / Presentation Start
+            - 15:10- コラボレーションルームへ移動 / Move to Collaboration Room
+            - 15:10-15:50 デモ / Demonstration
+            - 15:50-16:15（→ 学生向け） ふりかえり / Reflection
+            - 15:50-16:15（→ 協力企業向け） 懇談会
+            - 16:15-17:45 懇親会 / Social gathering
+- 15:00-15:40: Group Work
+- 15:40-15:50: Reflection
+    - 懇親会の参加者チェック
+
+
 ## [EDP-FINAL-PRESENTATION] February 9, Sat., 13:00-17:30
 
 ### 外部向け開催概要
 → [開催概要](./demoday/)
-
-### 準備・会場設営（学生向け）：
-
-```
-[-10:00] デザイン工房に集合 / The meeting place is Design Factory
-[10:00-11:00] リハーサル / Rehearsal [Sakamoto, TAs]
-[11:00-] コラボレーションルームへ移動 / Move to Collaboration Room
-[11:00-11:30] 準備 / Preparation
-| - 作成したプロトタイプの用意 / Prototype
-| - 電源など必要なものを確認 / Power strip etc. whatever you need
-| - 机の配置 / Desk layout
-| - モニタ接続チェック / Monitor check
-| - ポスターや配布物のチェック / Poster and Brochure check
-[11:30-12:50] お昼 / Lunch
-[13:00] 発表開始 / Presentation Start
-[15:10-] コラボレーションルームへ移動 / Move to Collaboration Room
-[15:10-15:50] デモ / Demonstration
-[15:50-16:15]（→ 学生向け） ふりかえり / Reflection［坂本］
-[15:50-16:15]（→ 協力企業向け） 懇談会［齋藤、角］
-[16:15-17:45] 懇親会 / Social gathering
-```
