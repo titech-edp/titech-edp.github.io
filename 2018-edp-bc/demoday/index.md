@@ -3,6 +3,8 @@ layout: page
 title: 2018年度「エンジニアリングデザインプロジェクト」最終発表会
 ---
 
+![](https://s3-ap-northeast-1.amazonaws.com/peatix-files/event/592701/cover-tUH1co7WfCubBsj8vinEXgGShaLNymWh.png)
+
 日頃より東京工業大学CBECプログラムへのご支援を賜り、誠にありがとうございます。
 
 来る平成31年2月9日(土)、同プログラムにて実施しております「エンジニアリングデザインプロジェクト（EDP）」の最終発表会を開催させていただく運びとなり、ご案内申し上げます。
@@ -15,6 +17,8 @@ title: 2018年度「エンジニアリングデザインプロジェクト」最
 * 2018年度 東京工業大学エンジニアリングデザインプロジェクト最終発表会
 * 会場：[東京工業大学 大岡山キャンパス 西9号館 2階](http://www.dst.titech.ac.jp/outline/facility/image/w9_map.pdf)
 * お申込み： <https://titech-edp-2018.peatix.com>
+
+<iframe frameborder="0" width="400" height="500" src="https://peatix.com/event/592701/share/widget?z=1&a=1"></iframe>
 
 ## 当日のスケジュール
 
