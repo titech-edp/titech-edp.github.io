@@ -21,7 +21,7 @@ title: 2018年度「エンジニアリングデザインプロジェクトB/C」
 
 ## Instructors
 
-Saito, Sakamoto, Takeda, Kado, Yagisawa, Terui, Park, Inaba, Hijikata
+Saito, Sakamoto, Kado, Yagisawa, Terui, Park, Inaba, Hijikata
 
 ## Teaching Assistants (TAs):
 
