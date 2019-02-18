@@ -308,3 +308,26 @@ NTTデータ、オロ、クックパッド、パナソニック、日本精工
 ```
 
 ## [EDP-EXTRA] 2/17（土）CBECシンポジウム（参加は任意）
+
+## レポート
+
+
+本レポートは【最終発表会】の終了後に提出してください！！
+Please use this form AFTER YOUR FINAL PRESENTATION!!!
+
+EDPを終えて今「あなたが」「自らの体験に基づいて」考えるところを記述してください。
+（日本語回答の場合、各設問200～400文字の回答を想定。英語での回答も可（下記参照））
+Please answer the following questions either in English or in Japanese, based on YOUR Actual Experience in this EDP class. For each questions, please answer in One Paragraph (approx. 150-300 words).
+
+字数をカウントするため、まずWordなどに記述してから、コピー＆ペーストすることをお薦めします。
+Before submission, please write drafts using MS Words or other software to count the length of your answer.
+
+〆切：2018年2月23日（金）24:00
+Due on 2018/2/23, Fri., 24:00
+
+1) あなたが最終的なソリューションについて「満足している点」とその理由や原因について、チーム・デザインプロセス・プロトタイピングなどの観点から記述してください。Please describe what led to your "satisfaction" and the reason/cause about the final solution from the viewpoint of team-activity/design-process/prototyping etc.
+
+2) あなたが最終的なソリューションについて「満足していない点」とその理由や原因について、チーム・デザインプロセス・プロトタイピングなどの観点から記述してください。Please describe what led to your "dissatisfaction" and the reason/cause about the final solution from the viewpoint of team-activity/design-process/prototyping etc.
+
+EDPについて感想があればお願いします！ Please tell us what you thought about EDP.
+

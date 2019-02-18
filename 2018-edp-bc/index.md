@@ -386,17 +386,36 @@ Have interviews with the potential users (at least five users per team) of a pro
     - Kudos Card
     - Planning for EDP-C
 
-#### 懇親会
+### 懇親会
 
 * Date : 11/24 17:00-19:00
 * Place : もつ鍋らく 大岡山本店（Motsunabe Raku）
 
-#### パートナー企業向け意見交換会
+### パートナー企業向け意見交換会
 - 12:15-12:30 and 16:00-16:15（実際：12:35-13:00 and 16:00-16:40）
 - チームの状況
 - テーマの忠実度
 - メンタリングの方針
 - 最終発表会では講評をいただく
+
+### レポート
+
+EDP-Bを終えて今「あなたが」「自らの体験に基づいて」考えるところを記述してください。（日本語回答の場合、各設問250文字の回答を想定。英語での回答も可（下記参照）。）
+Please answer the following questions either in English or in Japanese, based on YOUR Actual Experience in this class. For each questions, please answer in One Paragraph (approx. 100 words).
+
+字数をカウントするため、まずWordなどに記述してから、コピー＆ペーストすることをお薦めします。
+Before submission, please write drafts using MS Words or other software to count the length of your answer.
+
+〆切：2018年11月30日（金）24:00
+Due on 2018/11/30, Fri., 24:00
+
+1) EDP-Bであなたが新たに得た「学び」で最も大きかったことを一つ挙げてください。抽象的な描写は避け、あなた自身の体験を書いてください。What was the biggest "lesson" from this lecture for you?  Please avoid abstract description; please write your own concrete episodes.
+
+
+2) あなたのチームの中で（あなた以外で）貢献の大きかったメンバーの名前を書いて下さい（複数可能）。Please write the name of  member(s) in your team (besides you) who contributed to the team activities.
+
+3) あなたのチームの活動の中で、上記のメンバーの貢献がなぜ大きいと考えたのか、その理由を説明して下さい。抽象的な描写は避け、具体的なエピソードに基づく記述をしてください。Please explain the reason why you think this member(s) have contributed to the team activities. Please avoid abstract description; please write concrete episodes.
+
 
 ## [EDP-C1] December 8, Sat., 10:00-15:50
 
@@ -585,3 +604,29 @@ https://titech-edp.github.io/2018-edp-bc/2018_EDP-BC_Final-Report_(teamname)_EN.
 
 ### 外部向け開催概要
 → [開催概要](./demoday/)
+
+## 最終レポート
+
+本レポートは【最終発表会】の終了後に提出してください！！
+Please use this form AFTER YOUR FINAL PRESENTATION!!!
+
+EDPを終えて今「あなたが」「自らの体験に基づいて」考えるところを記述してください。
+（日本語回答の場合、各設問250文字の回答を想定。英語での回答も可（下記参照））
+Please answer the following questions either in English or in Japanese, based on YOUR Actual Experience in this EDP class. For each questions, please answer in One Paragraph (approx. 100 words).
+
+字数をカウントするため、まずWordなどに記述してから、コピー＆ペーストすることをお薦めします。
+Before submission, please write drafts using MS Words or other software to count the length of your answer.
+
+〆切：2019年2月17日（日）24:00
+Due on 2018/2/17, Sun., 24:00
+
+
+1) あなたが最終的なソリューションについて「満足している点」とその理由や原因について、チーム活動・デザインプロセス・プロトタイピングなどの観点から記述してください。Please describe what led to your "satisfaction" and the reason/cause about the final solution from the viewpoint of team-activity/design-process/prototyping etc.
+
+2) あなたが最終的なソリューションについて「満足していない点」とその理由や原因について、チーム活動・デザインプロセス・プロトタイピングなどの観点から記述してください。Please describe what led to your "dissatisfaction" and the reason/cause about the final solution from the viewpoint of team-activity/design-process/prototyping etc.
+
+3) あなたのチームの中で（あなた以外で）貢献の大きかったメンバーの名前を書いて下さい（複数可能）。Please write the name of  member(s) in your team (besides you) who contributed to the team activities.
+
+4) あなたのチームの活動の中で、上記のメンバーの貢献がなぜ大きいと考えたのか、その理由を説明して下さい。抽象的な描写は避け、具体的なエピソードに基づく記述をしてください。Please explain the reason why you think this member(s) have contributed to the team activities. Please avoid abstract description; please write concrete episodes.
+
+5) 来年度のEDP受講生に向けて、あなたの経験からアドバイスがあればお願いします。Please give some advice to next year's EDP students based on your experience.
