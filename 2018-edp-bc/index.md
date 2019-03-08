@@ -3,6 +3,29 @@ layout: page
 title: 2018年度「エンジニアリングデザインプロジェクトB/C」
 ---
 
+# Staff
+
+## Instructors
+
+Saito, Sakamoto, Kado, Yagisawa, Terui, Park, Inaba, Hijikata
+
+## Teaching Assistants (TAs):
+
+Yuma ITO, Yosuke TAJIRI, Randy Raharja
+
+# Corporate Partners
+
+* ATC株式会社 / ATC Co., Ltd.
+* パナソニック株式会社 / Panasonic Corporation
+* 株式会社ウェザーニューズ / Weathernews Inc.
+* 株式会社リコー / Ricoh Co., Ltd.
+* さくらインターネット株式会社
+* エイベックス株式会社
+* フォントワークス株式会社
+* 太陽ホールディングス株式会社
+* 株式会社オロ
+
+
 # 最終成果物
 
 {% for t in site.data["2018-edp-bc-teams"] %}
@@ -97,28 +120,6 @@ EDPツールキットを活用し、EDPの本をしっかり読んで書いて�
 知らない人にインタビュをとにかくたくさんしよう．
 
 グループワークの最初にはチームビルディングに時間を多めに割いてほしい。実際に起こった問題の中で最も多かったものはチームワークによるものだったと思うし、チーム内で同じ目標を持ってそこに向かって行かなければ、本当に良いモノは作れないと感じた。また周りの意見を聞くことは大切であるが、全ての意見に耳を傾けすぎない方が良いと思う。そうしてしまうと、軸がぶれてしまい、何をしたいのかわからないモノができてしまう。しっかりとした軸を持ち、取捨選択をきちんとチームメンバーで考えて、楽しく良いモノを作ってほしい。
-
-# Staff
-
-## Instructors
-
-Saito, Sakamoto, Kado, Yagisawa, Terui, Park, Inaba, Hijikata
-
-## Teaching Assistants (TAs):
-
-Yuma ITO, Yosuke TAJIRI, Randy Raharja
-
-# Corporate Partners
-
-* ATC株式会社 / ATC Co., Ltd.
-* パナソニック株式会社 / Panasonic Corporation
-* 株式会社ウェザーニューズ / Weathernews Inc.
-* 株式会社リコー / Ricoh Co., Ltd.
-* さくらインターネット株式会社
-* エイベックス株式会社
-* フォントワークス株式会社
-* 太陽ホールディングス株式会社
-* 株式会社オロ
 
 # Schedule
 
@@ -600,13 +601,13 @@ https://titech-edp.github.io/2018-edp-bc/2018_EDP-BC_Final-Report_(teamname)_EN.
     - 懇親会の参加者チェック
 
 
-## [EDP-FINAL-PRESENTATION] February 9, Sat., 13:00-17:30
+# [EDP-FINAL-PRESENTATION] February 9, Sat., 13:00-17:30
 
-### 外部向け開催概要
+## 外部向け開催概要
 → [開催概要](./demoday/)
 
 
-### 最終レポート
+## 最終レポート
 
 本レポートは【最終発表会】の終了後に提出してください！！
 Please use this form AFTER YOUR FINAL PRESENTATION!!!
@@ -621,7 +622,6 @@ Before submission, please write drafts using MS Words or other software to count
 〆切：2019年2月17日（日）24:00
 Due on 2018/2/17, Sun., 24:00
 
-
 1) あなたが最終的なソリューションについて「満足している点」とその理由や原因について、チーム活動・デザインプロセス・プロトタイピングなどの観点から記述してください。Please describe what led to your "satisfaction" and the reason/cause about the final solution from the viewpoint of team-activity/design-process/prototyping etc.
 
 2) あなたが最終的なソリューションについて「満足していない点」とその理由や原因について、チーム活動・デザインプロセス・プロトタイピングなどの観点から記述してください。Please describe what led to your "dissatisfaction" and the reason/cause about the final solution from the viewpoint of team-activity/design-process/prototyping etc.
@@ -632,7 +632,11 @@ Due on 2018/2/17, Sun., 24:00
 
 5) 来年度のEDP受講生に向けて、あなたの経験からアドバイスがあればお願いします。Please give some advice to next year's EDP students based on your experience.
 
-## Slush Tokyo 2019
+# パートナー企業の声
+
+→ [パートナー企業の声](./partners)
+
+# Slush Tokyo 2019
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fkazuaki.inaba%2Fposts%2F2259410090743920&width=500" width="500" height="458" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
