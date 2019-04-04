@@ -49,6 +49,13 @@
   photo: "jay.jpg"
   profile: ""
 
+- name: "田岡祐樹"
+  title:
+    - "東京工業大学 助教"
+  url: ""
+  photo: "taoka.jpg"
+  profile: ""
+
 - name: "八木澤 優紀"
   title:
     - "東京工業大学 環境・社会理工学院 非常勤講師"
