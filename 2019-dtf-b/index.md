@@ -13,7 +13,7 @@ title: 2019年度「デザイン思考基礎b」
 
 # テーマ
 
-新しい家電をプロトタイプすることにより、新たな体験をデザインせよ。
+新しい家電をプロトタイプすることにより、新たな利用者体験をデザインせよ。
 
 # 日程
 
@@ -35,7 +35,7 @@ title: 2019年度「デザイン思考基礎b」
 - 観察（写真撮影と説明）：3箇所以上
 - アナロガスインスピレーション：1つ以上
 
-上記をまとめてPDFにして、リンク（Google DriveやDropboxなどのURL）を``Slack#homework-20180406``に投稿すること。
+上記をまとめてPDFにして、リンク（Google DriveやDropboxなどのURL）を``Slack#homework-20190406``に投稿すること。
 
 ## [DTFb-2] 4/20（土）10:00-15:50
 
@@ -52,7 +52,7 @@ title: 2019年度「デザイン思考基礎b」
 - EDPツールキットのシートを自分で埋めてみる
 - プロダクトスケッチとストーリーボードを新たに1つ以上作成する
 
-上記をまとめてPDFにして、リンク（Google DriveやDropboxなどのURL）を``Slack#homework-20180420``に投稿すること。
+上記をまとめてPDFにして、リンク（Google DriveやDropboxなどのURL）を``Slack#homework-20190420``に投稿すること。
 
 - Slackでチームの議論を続けること
 - 次回のプロトタイピングに必要なツールや材料を持参すること
@@ -72,7 +72,7 @@ title: 2019年度「デザイン思考基礎b」
 - プロダクトスケッチとストーリーボードを新たに1つ以上作成する
 - プロトタイプを作成して、写真を撮影する
 
-上記をまとめてPDFにして、リンク（Google DriveやDropboxなどのURL）を``Slack#homework-20180511``に投稿すること。
+上記をまとめてPDFにして、リンク（Google DriveやDropboxなどのURL）を``Slack#homework-20190511``に投稿すること。
 
 - Slackでチームの議論を続けること
 - 次回のプロトタイピングに必要なツールや材料を持参すること
@@ -123,7 +123,7 @@ Please answer the following questions either in English or in Japanese, based on
 Before submission, please write drafts using MS Words or other software to count the length of your answer.
 
 〆切：2019年6月7日（金）24:00
-Due on 2018/6/7, Fri., 24:00
+Due on 2019/6/7, Fri., 24:00
 
 1) あなたが授業で学んだことについて「満足している点」とその理由や原因について記述してください。Please describe your "satisfaction" of what you've learned in the class, and "reason and/or cause" of that.
 
