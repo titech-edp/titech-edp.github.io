@@ -25,6 +25,15 @@ layout: default
   </div>
 </div>
 
+<h2>2019年度</h2>
+<ul>
+<li><a href="/2019-dtf-a/">デザイン思考基礎a</a></li>
+<li><a href="/2019-dtf-b/">デザイン思考基礎b</a></li>
+<li><a href="/2019-edp-a/"></a></li>
+<li><a href="/2019-edp-bc/"></a></li>
+</ul>
+
+
 <h2>2018年度</h2>
 <ul>
 <li><a href="/2018-dtf-a/">デザイン思考基礎a</a></li>
