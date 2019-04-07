@@ -3,6 +3,10 @@ layout: page
 title: 2019年度「デザイン思考基礎b」
 ---
 
+<div style="width: 595px; max-width: 100%">
+<script async class="speakerdeck-embed" data-id="8847359ce3c2479bb8abcd1ef53b66d4" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+</div>
+
 # シラバス
 
 [デザイン思考基礎 B - TOKYO TECH OCW](http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=2&GakkaCD=321502&KeiCD=15&course=2&KamokuCD=321502&KougiCD=201913496&Nendo=2019&vid=03)
@@ -20,14 +24,16 @@ title: 2019年度「デザイン思考基礎b」
 ## [DTFb-1] 4/8（土）10:00-15:50
 
 - ガイダンス
-- モジュール１：デザイン思考への導入
+- モジュール１：デザイン思考の概要
 - チームビルディング
-- モジュール２：調査と気づき
+- モジュール２：ユーザーリサーチ
 - ふりかえり
 
 ### スライド：
 
-- TBD
+- <https://speakerdeck.com/kdmsnr/tokyo-tech-dtf-2019-introduction>
+- <https://speakerdeck.com/kdmsnr/tokyo-tech-dtf-2019-user-research>
+
 
 ### 宿題：
 
