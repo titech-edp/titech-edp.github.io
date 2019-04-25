@@ -25,11 +25,41 @@ title: 2019年度「エンジニアリングデザインプロジェクトA」
 
 ## [EDP-A-1] 6/15（Sat）10:00-17:35
 
+* AM(10:00-12:15): Guidance, Team Building
+* PM1(13:20-15:20): Mini-Lecture
+
+| A | B | C |
+|---|---|---|
+|TBA|TBA|TBA|
+
+* PM2(15:35-17:35): Group Work
+
 ## [EDP-A-2] 6/29（Sat）10:00-17:35
+
+* AM(10:00-12:15): Group Work
+* PM1(13:20-15:20): Mini-Lecture
+
+| A | B | C |
+|---|---|---|
+| Fusion 360 入門（オートデスク中村）|TBA|TBA|
+
+* PM2(15:35-17:35): Group Work
 
 ## [EDP-A-3] 7/13（Sat）10:00-17:35
 
+* AM(10:00-12:15): Group Work
+* PM1(13:20-15:20): Mini-Lecture
+
+| A | B | C |
+|---|---|---|
+|TBA|TBA|TBA|
+
+* PM2(15:35-17:35): Group Work
+
 ## [EDP-A-4] 7/27（Sat）10:30-15:50
+
+* AM(10:00-12:15): Group Work
+* PM(13:20-15:50): Demo
 
 # References
 
