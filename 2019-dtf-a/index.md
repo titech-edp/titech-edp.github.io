@@ -59,34 +59,33 @@ Post the link to ``Slack#homework-20190422``.
 
 ### Assignment/Homework:
 
-Individually, run through from "POV" to "Concept Development" (a.k.a. from "Define" to "Ideate"):
+Individually, run through the whole process.
 
 - Read other's report and/or do more your own research
 - make/choose your POV(s)
 - make/choose your HMW(s)
-- Create new story board
 
 Summarize in a on-page PDF file and post the link to ``Slack#homework-20190509``.
 
 ## [DTFa-5] 5/13 (mon) 13:20-16:35
+
+- Module 6: Storytelling
+
+### Assignment/Homework:
+
+- Your group's current best POV, HMWQ, Product Sketch, and Storyboard.
+- Please use the EDP worksheets, which are available here: <https://titech-edp.github.io/toolkit/>
+- Please upload your group's worksheets in PDF file to a google drive and submit the link to ``#homework-20190513`` .
+
+## [DTFa-6] 5/20 (mon) 13:20-16:35
 
 - Module 5: Prototype
 
 ### Assignment/Homework:
 
 - As an individual, refine your concept according to the today’s feedback. Then, make a prototype by yourself!
-- Complete the EDP concept sheets (POV, HMW, Product sketch, Storyboard) and upload them together with the photo of your prototypeto slack ``#homework-20190513``
+- Complete the EDP concept sheets (POV, HMW, Product sketch, Storyboard) and upload them together with the photo of your prototypeto slack ``#homework-20190520``
 - you can find them: <https://titech-edp.github.io/toolkit/>
-
-## [DTFa-6] 5/20 (mon) 13:20-16:35
-
-- Module 6: Storytelling
-
-### Assignment/Homework:
-
-- Your group's current best POV, HMWQ, Product Sketch, and Storyboard. (Each group is asked to make a *3min* presentation in the begininng of the class.)
-- Please use the EDP worksheets, which are available here: <https://titech-edp.github.io/toolkit/>
-- Please upload your group's worksheets in PDF file to a google drive and submit the link to ``#homework-20190520`` . ( *One submittion from each team!* )
 
 ## [DTFa-7] 5/27 (mon) 13:20-16:35
 

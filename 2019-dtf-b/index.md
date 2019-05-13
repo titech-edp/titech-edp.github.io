@@ -57,7 +57,7 @@ title: 2019年度「デザイン思考基礎b」
 
 ### 宿題：
 
-- これまでのプロセスを自分でふりかえり、シートに記入する
+- これまでのプロセス（リサーチ、ニーズ、POV、HMWQ、スケッチ）を自分でふりかえり、シートに記入する
 
 上記をまとめてPDFにして、リンク（Google DriveやDropboxなどのURL）を``Slack#homework-20190420``に投稿すること。
 
@@ -70,11 +70,11 @@ title: 2019年度「デザイン思考基礎b」
 
 ### スライド：
 
-- TBD
+- <https://speakerdeck.com/kdmsnr/tokyo-tech-dtf-2019-storytelling>
 
 ### 宿題：
 
-- これまでのプロセスを自分でふりかえり、シートに記入する
+- これまでのプロセス（ストーリーボード、デザイン原則、競合ポジショニングマップ、9-Window Tool、リフレクティブアクションシート、エレベーターピッチ）を自分でふりかえり、シートに記入する
 
 上記をまとめてPDFにして、リンク（Google DriveやDropboxなどのURL）を``Slack#homework-20190511``に投稿すること。
 
@@ -92,26 +92,20 @@ title: 2019年度「デザイン思考基礎b」
 
 ### 宿題：
 
-- これまでのプロセスを自分でふりかえり、シートに記入する
-- プロダクトスケッチとストーリーボードを新たに1つ以上作成する
-- プロトタイプを作成して、写真を撮影する
-
-上記をまとめてPDFにして、リンク（Google DriveやDropboxなどのURL）を``Slack#homework-20190518``に投稿すること。
-
 - 発表の準備
 
 ## [DTFb-5] 6/1（土）10:00-15:50
 
 - AM: 発表の準備
-- PM: 最終発表（各チーム8分ずつ）
-  1. プロダクトの説明
+- PM: 最終発表（各チーム10分ずつ）
+  1. プロダクトの説明（ピッチ）
   2. 寸劇
   3. デザインプロセスの説明
 
 ### 宿題：
 
-- 個人レポート：Google Formから提出（後ほど指示します）
 - チームレポート：発表スライドをSlideshareかSpeakerDeckにアップして、そのURLを``Slack#final-presentation-b``に投稿すること。
+- 個人レポート：Google Formから提出
 
 # 発表スライド
 
@@ -121,7 +115,7 @@ TBD
 
 - Slack: [https://cbec-dtf-2019.slack.com](https://cbec-dtf-2019.slack.com)
 
-# レポート
+# 個人レポート
 
 本レポートは【最終発表会】の終了後に提出してください！！
 Please use this form AFTER YOUR FINAL PRESENTATION!!!
