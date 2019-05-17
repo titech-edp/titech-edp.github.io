@@ -88,7 +88,7 @@ title: 2019年度「デザイン思考基礎b」
 
 ### スライド：
 
-- TBD
+- <https://speakerdeck.com/hijikata/dtf-2019-prototype>
 
 ### 宿題：
 
