@@ -42,12 +42,12 @@
   photo: "hijikata.jpg"
   profile: ""
 
-- name: "Park Jaehyun"
-  title:
-    - "東京工業大学 工学院 助教"
-  url: ""
-  photo: "jay.jpg"
-  profile: ""
+# - name: "Park Jaehyun"
+#   title:
+#     - "東京工業大学 工学院 助教"
+#   url: ""
+#   photo: "jay.jpg"
+#   profile: ""
 
 - name: "田岡祐樹"
   title:
