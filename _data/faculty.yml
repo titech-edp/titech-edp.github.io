@@ -72,9 +72,9 @@
   photo: "terui.jpg"
   profile: ""
 
-- name: "倉林 大輔"
-  title:
-    - "東京工業大学 工学院 教授"
-  url: "http://www.irs.ctrl.titech.ac.jp/"
-  photo: "kurabayashi.jpg"
-  profile: ""
+# - name: "倉林 大輔"
+#   title:
+#     - "東京工業大学 工学院 教授"
+#   url: "http://www.irs.ctrl.titech.ac.jp/"
+#   photo: "kurabayashi.jpg"
+#   profile: ""
