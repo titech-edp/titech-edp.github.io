@@ -109,7 +109,32 @@ title: 2019年度「デザイン思考基礎b」
 
 # 発表スライド
 
+## sakura
+
+<div style="width: 595px; max-width: 100%">
+<script async class="speakerdeck-embed" data-id="6437708191684a5c80db878fa16f18f6" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+</div>
+
+## pho
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/LzUobyiCfio1Ps" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/keiichiwatanabe5/dtfinal-team-pho" title="Dtfinal team pho" target="_blank">Dtfinal team pho</a> </strong> from <strong><a href="https://www.slideshare.net/keiichiwatanabe5" target="_blank">keiichiwatanabe5</a></strong> </div>
+
+## mishmash
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/NOrnSIHxqnX5zE" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/tuka2000/dtf-b-finalpresentationteammishmash" title="Dtf b final_presentation_team_mishmash" target="_blank">Dtf b final_presentation_team_mishmash</a> </strong> from <strong><a href="https://www.slideshare.net/tuka2000" target="_blank">Etsuji Otsuka</a></strong> </div>
+
+## hi-fun
+
 TBD
+
+## sixpad
+
+TBD
+
+## voyager
+
+TBD
+
 
 # その他の情報源
 
@@ -129,9 +154,9 @@ Before submission, please write drafts using MS Words or other software to count
 〆切：2019年6月7日（金）24:00
 Due on 2019/6/7, Fri., 24:00
 
-1) あなたが授業で学んだことについて「満足している点」とその理由や原因について記述してください。Please describe your "satisfaction" of what you've learned in the class, and "reason and/or cause" of that.
+1) あなたが授業で学んだことや行なったことについて「満足している点」とその理由や原因について記述してください。Please describe your "satisfaction" of what you've learned in the class, and "reason and/or cause" of that.
 
-2) あなたが授業で学んだことについて「満足している点」とその理由や原因について記述してください。Please describe your "dissatisfaction" of what you've learned in the class, and "reason and/or cause" of that.
+2) あなたが授業で学んだことや行なったことについて「満足していない点」とその理由や原因について記述してください。Please describe your "dissatisfaction" of what you've learned in the class, and "reason and/or cause" of that.
 
 3) あなたのチームの中で（あなた以外で）貢献の大きかったメンバーの名前を書いて下さい（複数可能）。Please write the name of member(s) in your team (besides you) who contributed to the team activities.
 
