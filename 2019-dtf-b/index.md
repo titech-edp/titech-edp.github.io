@@ -123,13 +123,17 @@ title: 2019年度「デザイン思考基礎b」
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/NOrnSIHxqnX5zE" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/tuka2000/dtf-b-finalpresentationteammishmash" title="Dtf b final_presentation_team_mishmash" target="_blank">Dtf b final_presentation_team_mishmash</a> </strong> from <strong><a href="https://www.slideshare.net/tuka2000" target="_blank">Etsuji Otsuka</a></strong> </div>
 
-## hi-fun
-
-TBD
-
 ## sixpad
 
-TBD
+<div style="width: 595px; max-width: 100%">
+<script async class="speakerdeck-embed" data-id="c0dae7e8acaa4b51b9c88eaf20aec4bb" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+</div>
+
+## hi-fun
+
+<div style="width: 595px; max-width: 100%">
+<script async class="speakerdeck-embed" data-id="008b125498ec4c529d10a7df34368213" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+</div>
 
 ## voyager
 
