@@ -137,7 +137,9 @@ title: 2019年度「デザイン思考基礎b」
 
 ## voyager
 
-TBD
+<div style="width: 595px; max-width: 100%">
+<script async class="speakerdeck-embed" data-id="2e474bedbefb460ea7838e1290a9c2e7" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+</div>
 
 
 # その他の情報源
