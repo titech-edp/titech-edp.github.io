@@ -102,7 +102,26 @@ Summarize in a on-page PDF file and post the link to ``Slack#homework-20190509``
 
 # Slides
 
+## capatal-j
+
+<div style="width: 595px; max-width: 100%">
+<script async class="speakerdeck-embed" data-id="0d273773d79d4a4daaeae7ecd6a412df" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+</div>
+
+## Designeers
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/yFqRuC1mbntqCo" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/EmmaAhonen1/designeers-final-presentation" title="Designeers - Final Presentation" target="_blank">Designeers - Final Presentation</a> </strong> from <strong><a href="https://www.slideshare.net/EmmaAhonen1" target="_blank">Emma Ahonen</a></strong> </div>
+
+## 令和女子大学
+
+<div style="width: 595px; max-width: 100%">
+<script async class="speakerdeck-embed" data-id="98297dcabaf14183b020fe33a6c6e1a7" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+</div>
+
+## chicken and egg
+
 TBD
+
 
 # Information
 
