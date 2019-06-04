@@ -102,7 +102,7 @@ Summarize in a on-page PDF file and post the link to ``Slack#homework-20190509``
 
 # Slides
 
-## capatal-j
+## Capatal-J
 
 <div style="width: 595px; max-width: 100%">
 <script async class="speakerdeck-embed" data-id="0d273773d79d4a4daaeae7ecd6a412df" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
