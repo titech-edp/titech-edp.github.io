@@ -102,7 +102,7 @@ Summarize in a on-page PDF file and post the link to ``Slack#homework-20190509``
 
 # Slides
 
-## Capatal-J
+## Capital-J
 
 <div style="width: 595px; max-width: 100%">
 <script async class="speakerdeck-embed" data-id="0d273773d79d4a4daaeae7ecd6a412df" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
@@ -118,10 +118,11 @@ Summarize in a on-page PDF file and post the link to ``Slack#homework-20190509``
 <script async class="speakerdeck-embed" data-id="98297dcabaf14183b020fe33a6c6e1a7" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 </div>
 
-## chicken and egg
+## Chicken and Egg
 
-TBD
-
+<div style="width: 595px; max-width: 100%">
+<script async class="speakerdeck-embed" data-id="b6a679401ec34761b10fca7148b3d258" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+</div>
 
 # Information
 
