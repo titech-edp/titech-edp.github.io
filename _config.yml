@@ -29,11 +29,11 @@ markdown: kramdown
 kramdown:
   input: GFM
 
-theme: minima
 plugins:
+  - jekyll-sitemap
   - jemoji
   - jekyll-feed
-  - jekyll-sitemap
+
 exclude:
   - Gemfile
   - Gemfile.lock
