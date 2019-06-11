@@ -77,12 +77,12 @@ layout: default
   </div>
 </div>
 
-<div class="panel panel-default">
-  <div class="panel-heading">イベント情報</div>
-  <div class="panel-body">
-<iframe frameborder="0" width="100%" height="480" src="https://peatix.com/event/640918/share/widget?z=1&a=1"></iframe>
-  </div>
-</div>
+<!-- <div class="panel panel-default">
+ !--   <div class="panel-heading">イベント情報</div>
+ !--   <div class="panel-body">
+ !-- <iframe frameborder="0" width="100%" height="480" src="https://peatix.com/event/640918/share/widget?z=1&a=1"></iframe>
+ !--   </div>
+ !-- </div> -->
 
 <div class="panel panel-default">
   <div class="panel-heading">:postbox: 企業のみなさまへ</div>
