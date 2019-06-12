@@ -19,6 +19,34 @@
   photo: "inaba.jpg"
   profile: ""
 
+- name: "土方 亘"
+  title:
+    - "東京工業大学 工学院 准教授"
+  url: "http://www.hcds.esd.titech.ac.jp"
+  photo: "hijikata.jpg"
+  profile: ""
+
+# - name: "Park Jaehyun"
+#   title:
+#     - "東京工業大学 工学院 助教"
+#   url: ""
+#   photo: "jay.jpg"
+#   profile: ""
+
+- name: "大橋 匠"
+  title:
+    - "東京工業大学 環境・社会理工学院 助教"
+  url: "http://www.esd.titech.ac.jp/wp_saijo/?page_id=1924"
+  photo: "ohashi.jpg"
+  profile: ""
+
+- name: "田岡 祐樹"
+  title:
+    - "東京工業大学 環境・社会理工学院 助教"
+  url: ""
+  photo: "taoka.jpg"
+  profile: ""
+
 - name: "竹田 陽子"
   title:
     - "東京工業大学 環境・社会理工学院 特任教授"
@@ -34,27 +62,6 @@
   url: "https://kdmsnr.com/"
   photo: "kado.jpg"
   profile: "アジャイル開発やリーンスタートアップの手法を用いたソフトウェア開発組織のコンサルティングに従事。また、『リーダブルコード』『Running Lean』『カンバン仕事術』『Team Geek』といった数多くの書籍の翻訳を手がけている。"
-
-- name: "土方 亘"
-  title:
-    - "東京工業大学 工学院 准教授"
-  url: "http://www.hcds.esd.titech.ac.jp"
-  photo: "hijikata.jpg"
-  profile: ""
-
-# - name: "Park Jaehyun"
-#   title:
-#     - "東京工業大学 工学院 助教"
-#   url: ""
-#   photo: "jay.jpg"
-#   profile: ""
-
-- name: "田岡祐樹"
-  title:
-    - "東京工業大学 助教"
-  url: ""
-  photo: "taoka.jpg"
-  profile: ""
 
 - name: "八木澤 優紀"
   title:
