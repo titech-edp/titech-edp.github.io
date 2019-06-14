@@ -50,6 +50,7 @@ Design a new user experience through prototyping a new home electrical appliance
 * Movie
 * Poster
 * Prototype
+* Sheets of Toolkit
 * Demo Booth
 
 # Schedule
