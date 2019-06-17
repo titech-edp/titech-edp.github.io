@@ -19,28 +19,28 @@ title: EDP Toolkit
 - [POV+HMWQ](pov-hmwq.pdf) / [POVとHMWQ](pov-hmwq_ja.pdf)
 - [HMWQ samples](hmwq_samples.pdf)
 
-## 4. Survey
-
-- [Competitive Positioning Map](competitive-positioning-map.pdf)
-- [9-window tool](9-window-tool.pdf)
-
-## 5. Design Principles
+## 4. Design Principles
 
 - [Design Principles](design-principles.pdf) / [デザイン原則](design-principles_ja.pdf)
 - [Validation Board](validation-board.pdf)
 
-## 6. Ideas
+## 5. Ideas
 
 - [Idea Rader](idea-rader.pdf)
 
-## 7. Product
+## 6. Product
 
 - [Product Sketch Sheet](product-sketch.pdf) / [プロダクトスケッチ](product-sketch_ja.pdf)
 
-## 8. Future User Experience
+## 7. Future User Experience
 
 - [Storyboard](storyboard.pdf) / [ストーリーボード](storyboard_ja.pdf)
 - [User Test Questions](user-test-questions.pdf) / [ユーザーテストに使える最低限の質問](user-test-questions_ja.pdf)
+
+## 8. Survey
+
+- [Competitive Positioning Map](competitive-positioning-map.pdf)
+- [9-window tool](9-window-tool.pdf)
 
 ## 9. Pitch
 
