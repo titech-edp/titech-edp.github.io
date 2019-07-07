@@ -7,8 +7,8 @@ title: EDP Toolkit
 
 ## 1. Current User Experience
 
-- [User Journey Map](user-journey-map.pdf)
 - [User Research Questions](user-research-questions.pdf) / [ユーザーリサーチに使える質問](user-research-questions_ja.pdf)
+- [User Journey Map](user-journey-map.pdf)
 
 ## 2. Needs
 
@@ -30,7 +30,7 @@ title: EDP Toolkit
 
 ## 6. Product
 
-- [Product Sketch Sheet](product-sketch.pdf) / [プロダクトスケッチ](product-sketch_ja.pdf)
+- [Product Sketch](product-sketch.pdf) / [プロダクトスケッチ](product-sketch_ja.pdf)
 
 ## 7. Future User Experience
 
@@ -46,6 +46,8 @@ title: EDP Toolkit
 
 - [Reflective Action Sheet](reflective-action-sheet.pdf)
 - [Pitch](pitch.pdf) / [ピッチ](pitch_ja.pdf)
+
+See also [Pitch Template](/resources/pitch-template/)
 
 ## DTF worksheet
 

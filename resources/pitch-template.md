@@ -3,30 +3,37 @@ layout: page
 title: Pitch Template
 ---
 
+* For [ target user ] who [ situation or needs ],
+* the [ product name ] is a [ product category ],
+* which has [key benefit ].
+* Unlike [ competitive alternative ]
+* our product has [ unique differentiation ].
+
 ## Slide0 (Title):
 - Product Name and Slogan
 - Photo of your Prototype
 - Desgin Prompt
-- Corporate Partner
+- Corporate Partner (if any)
 - Team Name
 - Team Members
 - Date
 
 ## Slide1: Prototype (Teaser)
-- First things first.
 - Show and describe your prototype very concisely.
+- Use the template above.
 
-## Slide2: Problem
-- Clearly state the problem and/or reason why you built the prototype.
+## Slide2: Context & Problem/Needs
+- Clearly state the situation and/or reason why you built the prototype.
 - How much worth solving the problem? Give us some evidences or clues.
 
 ## Slide3: Unique Insight
 - Tell us what only you know about the problem and/or how to solve the problem.
+- What kind of "Design Principles" have you set to design the solution?
 
 ## Slide4: Solution
-- This is the solution (and prototype).
-- Product Features and Specifications.
-- Describe the concrete benefits (especially user experience rather than product itself) you provide.
+- Features and Specifications.
+- Describe the concrete benefits (especially user experience rather than product itself) you provide. 
+- What are your differentiating factors?
 
 ## Slide5: Voice of User
 - How much does it solve the problem? Give us some evidences.
@@ -40,7 +47,7 @@ title: Pitch Template
 - DO NOT end with just "Thank you" slide.
 
 ## Tips for the pitch
-- You should have at most 3 pages per a slide (however slide0 must be one page)
+- You should have at most 3 pages per a slide (the title slide must be one page)
 - You can insert the video anywhere you want.
 - You SHOULD NOT use design thinking jargon (ex. POV, HMW, or so)
 
