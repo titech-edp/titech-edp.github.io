@@ -79,6 +79,8 @@ Design a new user experience through prototyping a new home electrical appliance
 * PM1(13:20-16:20): Mini-Lecture (See below)
 * PM2(16:35-17:35): Group Work
 
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftitech.cbec%2Fposts%2F1002309349977945&width=500" width="500" height="896" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+
 ## [EDP-A-4] 7/27（Sat）10:30-15:50
 
 * AM(10:00-12:15): Group Work and Preparation
