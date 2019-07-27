@@ -53,6 +53,19 @@ Design a new user experience through prototyping a new home electrical appliance
 * Sheets of Toolkit
 * Demo Booth
 
+# Teams
+
+{% for t in site.data["2019-edp-a-teams"] %}
+<h2>{{ t.name }}</h2>
+
+{% if t.movie %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/{{ t.movie }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% endif %}
+
+{% if t.poster %}<a href="{{ t.poster }}" role="button" class="btn"><span class="glyphicon glyphicon-circle-arrow-down" aria-hidden="true" />Poster</a>{% endif %}
+<a href="{{ t.toolkit }}" role="button" class="btn"><span class="glyphicon glyphicon-circle-arrow-down" aria-hidden="true" />Toolkit</a>
+{% endfor %}
+
 # Schedule
 
 ## [EDP-A-1] 6/15（Sat）10:00-17:35
@@ -83,8 +96,11 @@ Design a new user experience through prototyping a new home electrical appliance
 
 ## [EDP-A-4] 7/27（Sat）10:30-15:50
 
-* AM(10:00-12:15): Group Work and Preparation
-* PM(13:20-15:50): Demo (Poster and Prototype)
+* 10:00-12:15: Group Work and Preparation
+* 13:20-13:40: Movie
+* 13:40-15:00: Demo (Poster and Prototype)
+* 15:00-15:30: Review
+* 15:30-15:50: Report and Evaluation Form
 
 ## Mini-Lecture Schedule
 
