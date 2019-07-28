@@ -30,7 +30,7 @@ layout: default
 <li><a href="/2019-dtf-a/">デザイン思考基礎a</a></li>
 <li><a href="/2019-dtf-b/">デザイン思考基礎b</a></li>
 <li><a href="/2019-edp-a/">エンジニアリングデザインプロジェクトA</a></li>
-<li><a href="/2019-edp-bc/"></a></li>
+<li><a href="/2019-edp-bc/">エンジニアリングデザインプロジェクトB/C</a></li>
 </ul>
 
 
