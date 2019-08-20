@@ -85,9 +85,10 @@ layout: default
  !-- </div> -->
 
 <div class="panel panel-default">
-  <div class="panel-heading">:postbox: 企業のみなさまへ</div>
+  <div class="panel-heading">:postbox: EDPにご関心のある企業様</div>
   <div class="panel-body">
-東工大EDPにご関心のある企業様は、Peatixのページをフォローしていただければ、各種情報をお送りいたします。<br />▶【<a href="https://titech-cbec.peatix.com/">東京工業大学CBECプログラム | Peatix</a>】
+<p>各種情報をお送りいたします。</p>
+{% include hubspot.html %}
   </div>
 </div>
 
