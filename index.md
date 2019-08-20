@@ -70,13 +70,6 @@ layout: default
 
 <div class="col-md-5">
 
-<div class="panel panel-danger">
-  <div class="panel-heading">EDPが書籍になりました :tada: </div>
-  <div class="panel-body" style="text-align:center;">
-<p><a href="http://www.shoeisha.co.jp/book/detail/9784798153858"><img src="images/edp-book.png" /></a></p>
-  </div>
-</div>
-
 <!-- <div class="panel panel-default">
  !--   <div class="panel-heading">イベント情報</div>
  !--   <div class="panel-body">
@@ -89,6 +82,13 @@ layout: default
   <div class="panel-body">
 <p>各種情報をお送りいたします。</p>
 {% include hubspot.html %}
+  </div>
+</div>
+
+<div class="panel panel-danger">
+  <div class="panel-heading">EDPが書籍になりました :tada: </div>
+  <div class="panel-body" style="text-align:center;">
+<p><a href="http://www.shoeisha.co.jp/book/detail/9784798153858"><img src="images/edp-book.png" /></a></p>
   </div>
 </div>
 
