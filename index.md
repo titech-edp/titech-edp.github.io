@@ -77,14 +77,6 @@ layout: default
  !--   </div>
  !-- </div> -->
 
-<div class="panel panel-default">
-  <div class="panel-heading">:postbox: EDPにご関心のある企業様</div>
-  <div class="panel-body">
-<p>各種情報をお送りいたします。</p>
-{% include hubspot.html %}
-  </div>
-</div>
-
 <div class="panel panel-danger">
   <div class="panel-heading">EDPが書籍になりました :tada: </div>
   <div class="panel-body" style="text-align:center;">
