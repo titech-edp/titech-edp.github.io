@@ -84,17 +84,6 @@ layout: default
   </div>
 </div>
 
-<div class="panel panel-default">
-  <div class="panel-heading">:office: パートナー企業</div>
-  <div class="panel-body">
-<ul>
-<li>【2018年度】ATC、さくらインターネット、ウェザーニューズ、エイベックス、オロ、パナソニック、フォントワークス、リコー、太陽ホールディングス</li>
-<li>【2017年度】NTTデータ、オロ、クックパッド、パナソニック、日本精工</li>
-<li>【2016年度】凸版印刷、日本ゼオン、ツネイシカムテックス、モトローラソリューションズ、SAP、NTTデータ、井上電気、デンソー</li>
-</ul>
-  </div>
-</div>
-
 
 <div class="panel panel-default">
   <div class="panel-heading">:globe_with_meridians: 各種リンク</div>
