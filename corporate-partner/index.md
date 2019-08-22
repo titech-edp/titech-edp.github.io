@@ -11,4 +11,4 @@ title: パートナー企業様向け
 
 <p>各種情報をお送りいたします。</p>
 {% include hubspot.html %}
-test
+
