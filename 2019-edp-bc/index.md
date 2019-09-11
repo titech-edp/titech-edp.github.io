@@ -47,10 +47,8 @@ TBA
 
 ## [EDP-C3] December 21, Sat., 10:00-15:50
 
-Presentation?
-
 ## [EDP-C4] January 11, Sat., 10:00-15:50
 
-## [EDP-C5] February 8, Sat., 10:00-15:50
+## [EDP-C5] January 25, Sat., 10:00-15:50
 
-## [EDP-FINAL-PRESENTATION] February 9, Sat., 13:00-17:30
+## [EDP-FINAL-PRESENTATION] February 8, Sat., 13:00-17:30
