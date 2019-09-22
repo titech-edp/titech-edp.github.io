@@ -26,7 +26,7 @@ title: Pitch Template
 - Clearly state the situation and/or reason why you built the prototype.
 - How much worth solving the problem? Give us some evidences or clues.
 
-## Slide3: Unique Insight
+## Slide3: Unique Insight (through User Research)
 - Tell us what only you know about the problem and/or how to solve the problem.
 - What kind of "Design Principles" have you set to design the solution?
 
