@@ -11,6 +11,7 @@ title: Pitch Template
 - Team Name
 - Team Members
 - Date
+- (Number of recent tests & Number of total tests)
 
 ## Slide1: Prototype (Teaser)
 - Show and describe your prototype very concisely.
