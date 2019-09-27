@@ -39,9 +39,9 @@ Collaboration is essential for this class. Collaboration improves the quality of
 
 ### Have a strong sense of ownership / 圧倒的当事者意識を持ちましょう
 
-Any decision you take will affect your users and colleages. Make sure to be in the other person's position, listen to the voice, and consider the consequences of your actions.
+Any decision you take will affect your users and colleages. Make sure to be in the other person's position, listen to the voice, and consider the consequences of your actions. However, nothing comes out of a passive attitude only worring about your actions. Let's roll up your sleeves and do your best.
 
-みなさんの決定はユーザーや仲間に影響を与えます。常に相手の立場になり、相手の声に耳を傾け、自分の行動がどのような結果をもたらすかを考慮しましょう。
+みなさんの決定はユーザーや仲間に影響を与えます。常に相手の立場になり、相手の声に耳を傾け、自分の行動がどのような結果をもたらすかを考慮しましょう。ですが、自分の行動を心配してばかりの受け身の態度からは何も生まれません。本気を出して、最善を尽くしましょう。
 
 ## Anti Harrassment Policy / アンチハラスメントポリシー
 
