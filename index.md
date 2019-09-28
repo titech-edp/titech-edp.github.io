@@ -87,7 +87,7 @@ layout: default
 <div class="panel panel-default">
   <div class="panel-heading">:postbox: EDPにご関心のある企業様</div>
   <div class="panel-body">
-<p>授業の受講、[パートナー企業](/corporate-partner/)、産学連携など、EDPにご関心のある方には、各種情報をお送りいたします。</p>
+<p>授業の受講、<a href="/corporate-partner/">パートナー企業</a>、産学連携など、EDPにご関心のある方には、各種情報をお送りいたします。</p>
 {% include hubspot.html %}
   </div>
 </div>
