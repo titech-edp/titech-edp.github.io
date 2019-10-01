@@ -21,7 +21,7 @@ When dealing with complex themes, no one knows the right answer. Ambiguity is na
 
 ### Ask for help with humility / 謙虚になって助けを求めましょう
 
-Altough no one knows the right answer, ssking questions early avoids many problems later, so questions are encouraged. Those who are asked should be responsive and helpful.
+Altough no one knows the right answer, asking questions early avoids many problems later, so questions are encouraged. Those who are asked should be responsive and helpful.
 
 誰にも正解はわかりませんが、質問によって未然に防げる問題は多いです。積極的に質問することを奨励します。また、質問を受けた人は速やかに反応し、力になってあげてください。
 
