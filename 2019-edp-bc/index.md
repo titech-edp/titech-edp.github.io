@@ -174,6 +174,26 @@ Project
 
 # [EDP-B2] October 5, Sat., 10:00-15:50
 
+## Schedule
+- 10:00-10:30: Icebreak and Guidance
+- 10:30-12:15: Interim Team Presentation
+    - 5 min Presentation * 2 teams successionally (per design prompt)
+        - Panasonic
+        - Sakura Internet
+        - Hitachi
+        - YKK AP
+        - (Change the order in the next time)
+    - 10 min feedback (by faculty and corporate partners) + 5 min writing it down on the Slack (by everyone)
+- 12:15-13:20: Lunch Time
+- 13:20-15:30: Group Work
+- 15:30-15:50: Reflection (using scrapbox)
+
+## Homework for 10/19
+- Design thinking 5 steps (not only POV, HMWQ, etc ... do the WHOLE process in two weeks)
+    - We expect 10+ user testings.
+- Prepare for 5 min presentation about your progress so far.
+    - You can use [Pitch Template](/resources/pitch-template/).
+
 # [EDP-B3] October 19, Sat., 10:00-15:50
 
 # [EDP-B4] November 2, Sat., 10:00-15:50
