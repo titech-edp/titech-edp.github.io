@@ -80,7 +80,7 @@ layout: default
 <div class="panel panel-danger">
   <div class="panel-heading">EDPが書籍になりました :tada: </div>
   <div class="panel-body" style="text-align:center;">
-<p><a href="http://www.shoeisha.co.jp/book/detail/9784798153858"><img src="images/edp-book.png" /></a></p>
+<p><a href="http://www.shoeisha.co.jp/book/detail/9784798153858"><img src="images/edp-book.jpg" /></a></p>
   </div>
 </div>
 
