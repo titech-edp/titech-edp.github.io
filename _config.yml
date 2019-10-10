@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: "東京工業大学エンジニアリングデザインプロジェクト"
 email: 
-description: > # this means to ignore newlines until "baseurl:"
+description: "東京工業大学エンジニアリングデザインプロジェクト"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://titech-edp.github.io"  # the base hostname & protocol for your site, e.g. http://example.com
 
