@@ -166,6 +166,8 @@ Project
 - Prepare for 5 min presentation about your project planning and progress so far.
     - You can use [Pitch Template](https://titech-edp.github.io/resources/pitch-template/) (but this is not appropriate for the next class)
 
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftitech.cbec%2Fposts%2F1054420594766820&width=500" width="500" height="782" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+
 ## 反省点（来年に向けて）
 - 自由質問だと時間が持たなかった → 最初からブース形式にしておくべきだった
 - 名札を用意すべきだった
