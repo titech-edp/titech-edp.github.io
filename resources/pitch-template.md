@@ -15,7 +15,7 @@ title: Pitch Template
 
 ## Slide1: Prototype (Teaser)
 - Show and describe your prototype very concisely.
-- Use a pitch template below.
+- Use a Elevator Pitch Template below.
 
 ```
 For [ target user ] who [ situation or needs ],
