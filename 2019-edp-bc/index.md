@@ -199,6 +199,32 @@ Project
 
 # [EDP-B3] October 19, Sat., 10:00-15:50
 
+- 10:00-10:30: Icebreak and Guidance
+    - ユーザーテストの数を表紙に入れること
+    - テンプレートに従ったほうがいいのは、バラバラなフォーマットだと見るほうがしんどくなるから（そろっていたほうが見やすい）
+- 10:30-12:15: Interim Team Presentation
+    - Show us the recent number of and the total number of user testings.
+    - 5 min Presentation * 2 teams successionally (per design prompt)
+        - Sakura Internet
+        - YKK AP
+        - Hitachi
+        - Panasonic
+        - (Change the order in the next time)
+    - 10 min feedback (by faculty and corporate partners) + 5 min writing it down on the Slack (by everyone)
+- 12:15-13:20: Lunch Time
+- 13:20-15:30: Group Work
+- 15:30-15:50: Reflection (using scrapbox)
+    - It would be better to write the amount of time required to do your job.
+        - This is just for your and your team's reminder, NOT for an academic assessment.
+
+## Homework for 11/2
+- Design thinking 5 steps (not only POV, HMWQ, etc ... do the WHOLE process in two weeks)
+    - We expect 10+ user testings.
+- Prepare for 5 min presentation about your progress so far.
+    - You can use [Pitch Template](https://titech-edp.github.io/resources/pitch-template/).
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftitech.cbec%2Fposts%2F1065724706969742&width=500" width="500" height="763" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+
 # [EDP-B4] November 2, Sat., 10:00-15:50
 
 # [EDP-B5] November 16, Sat., 10:00-15:50
