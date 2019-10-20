@@ -216,6 +216,7 @@ Project
 - 15:30-15:50: Reflection (using scrapbox)
     - It would be better to write the amount of time required to do your job.
         - This is just for your and your team's reminder, NOT for an academic assessment.
+- After class: Party 🎉
 
 ## Homework for 11/2
 - Design thinking 5 steps (not only POV, HMWQ, etc ... do the WHOLE process in two weeks)
