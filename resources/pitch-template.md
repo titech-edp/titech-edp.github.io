@@ -83,3 +83,10 @@ our product has [ unique differentiation ].
 ## References
 - [The YC Seed Deck Template](https://blog.ycombinator.com/intro-to-the-yc-seed-deck/)
 - [A Guide to Demo Day Presentations](https://blog.ycombinator.com/guide-to-demo-day-pitches/)
+
+## Tips
+
+チームでスライドを作るときは、Googleスライド等みんなで同時編集できるもので作ったほうがよいです。なお、Googleスライドは使用するOSが違うとフォントが違って見えますが、日本語のウェブフォントを使うと解決できます。［その他のフォント...］メニューから［日本語］を選択して、使いたいフォントを選んでください。
+
+
+
