@@ -103,7 +103,7 @@ our product has [ unique differentiation ].
 
 * [ ] Are there any data that supports your success (e.g. the result of user test). / 成功を裏付けるデータ（ユーザーテストの結果など）はありますか？
 
-## Slide6: Future Works
+## Slide6: Future Work
 - Do you have any future plan?
 
 ### 🔨 toolkit
