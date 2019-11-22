@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Presentation Checklist
+redirect_to: /resources/pitch-template/
 ---
 
 ## Empathize and Define (POV):
