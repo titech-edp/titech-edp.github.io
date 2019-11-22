@@ -34,8 +34,8 @@ our product has [ unique differentiation ].
 ```
 
 ### 🔨 toolkit
-* Pitch
-* Reflective Action Sheet
+- [Reflective Action Sheet](/toolkit/reflective-action-sheet.pdf)
+- [Pitch](/toolkit/pitch.pdf) / [ピッチ](/toolkit/pitch_ja.pdf)
 
 ### ✔️ checklist
 * [ ] Are the target users clear? (“What kind of situation are the users in?” and “What are their behavior in that situation?”) / 対象となるユーザーは明確ですか？ （「どのような状況」にいる「何をする人」ですか？）
@@ -46,10 +46,10 @@ our product has [ unique differentiation ].
 - What is the reason why you solve the problem? How much worth solving the problem? Give us some evidences or clues.
 
 ### 🔨 toolkit
-* User Research Minimum Questions
-* User Journey Map
-* User Needs
-* POV (+ HMWQ)
+- [User Research Questions](/toolkit/user-research-questions.pdf) / [ユーザーリサーチに使える質問](/toolkit/user-research-questions_ja.pdf)
+- [User Journey Map](/toolkit/user-journey-map.pdf)
+- [User Needs](/toolkit/user-needs.pdf) / [ユーザーニーズ](/toolkit/user-needs_ja.pdf)
+- [POV(+HMWQ)](/toolkit/pov-hmwq.pdf) / [POV(とHMWQ)](/toolkit/pov-hmwq_ja.pdf)
 
 ### ✔️ checklist
 
@@ -62,8 +62,8 @@ our product has [ unique differentiation ].
 - What kind of "Design Principles" have you set to design the solution?
 
 ### 🔨 toolkit
-* (POV +) HMWQ
-* Design Principles
+- [(POV+)HMWQ](/toolkit/pov-hmwq.pdf) / [(POVと)HMWQ](/toolkit/pov-hmwq_ja.pdf)
+- [Design Principles](/toolkit/design-principles.pdf) / [デザイン原則](/toolkit/design-principles_ja.pdf)
 
 ### ✔️ checklist
 
@@ -78,10 +78,10 @@ our product has [ unique differentiation ].
 - What are your differentiating factors?
 
 ### 🔨 toolkit
-* Ideas
-* Product
-* Competitive Positioning Map
-* Storyboard
+- [Idea Rader](/tookit/idea-rader.pdf)
+- [Product Sketch](/toolkit/product-sketch.pdf) / [プロダクトスケッチ](/toolkit/product-sketch_ja.pdf)
+- [Competitive Positioning Map](/toolkit/competitive-positioning-map.pdf)
+- [Storyboard](/toolkit/storyboard.pdf) / [ストーリーボード](/toolkit/storyboard_ja.pdf)
 
 ### ✔️ checklist
 
@@ -97,7 +97,7 @@ our product has [ unique differentiation ].
 - How much does it solve the problem? Give us some evidences.
 
 ### 🔨 toolkit
-* User Test Minimum Questions
+- [User Test Questions](/toolkit/user-test-questions.pdf) / [ユーザーテストに使える最低限の質問](/toolkit/user-test-questions_ja.pdf)
 
 ### ✔️ checklist
 
@@ -107,7 +107,7 @@ our product has [ unique differentiation ].
 - Do you have any future plan?
 
 ### 🔨 toolkit
-* 9-Window tool
+- [9-window tool](/toolkit/9-window-tool.pdf)
 
 ## Slide7: Ending and Call To Action
 - Photo of your prototype (again).
