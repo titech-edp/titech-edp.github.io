@@ -1,0 +1,93 @@
+# dot -T png graph.dot -o graph.png 
+
+digraph graph_name {
+	graph [
+	       rankdir = LR;
+	       labeljust = l;
+	       nodesep = 0.7;
+	];
+	edge [
+		style = bold;
+	];
+	node [
+		style = bold;
+		fontsize = 18;
+	];
+
+	Input [
+	       label = "Input|1. Interview \l|2. Observation \l|3. Role Playing \l|4. Case Study Analysis \l|5. Trend Analysis \l",
+	       shape = record,
+	];
+	Output [
+	       label = "Output|1. Product \l|2. Process \l|3. Pitch \l|4. Plot \l|5. Poster \l",
+	       shape = record,
+	];
+
+	CJM -> Needs;
+	Needs -> Insight;
+	Insight -> HMWQ;
+
+	Input -> CJM [
+		tailport = ne,
+		headport = n
+	];
+
+	HMWQ -> "Design Principles";
+	"Design Principles" -> "Product Sketch";
+	"Product Sketch" -> "Usage Scenario";
+
+	"Usage Scenario" -> MVP;
+	MVP -> "User Test";
+	"User Test" -> Output [
+		tailport = se,
+		headport = sw
+	]   ;
+
+# Label
+	node [shape = none];
+	Insight -> "POV👀"[color = white];
+	"Product Sketch" -> "Idea💡"[color = white];
+	"User Test" -> "🎉"[color = white];
+
+# Ranking
+	{rank = same;
+		CJM;
+		Needs;
+		Insight;
+		"POV👀"
+	}
+	{rank = same;
+		HMWQ;
+		"Design Principles";
+		"Product Sketch"
+		"Idea💡"
+	}
+	{rank = same;
+		"Usage Scenario";
+		MVP;
+		"User Test";
+		"🎉";
+	}
+# NG
+	edge[ color = "#999999"];
+	Insight -> Input [
+		taillabel = NG,
+		labeldistance = 3,
+		style = dashed, 
+		arrowhead = curve,
+		headport = s
+	];
+	"Product Sketch" -> CJM [
+		taillabel = NG,
+		labeldistance = 2,
+		style = dashed, 
+		arrowhead = curve
+	];
+	"User Test" -> HMWQ [
+		taillabel = NG,
+		labeldistance = 2,
+		style = dashed, 
+		arrowhead = curve
+	];
+
+}
