@@ -28,7 +28,7 @@ title: EDP Toolkit
 
 ## 5. Design Principles
 
-- [Design Principles](design-principles.pdf) / [デザイン原則](design-principles_ja.pdf)
+- [Design Principles](design-principles.pdf)
 
 ## 6. Product Sketch
 
@@ -41,7 +41,7 @@ title: EDP Toolkit
 
 ## 8. MVP
 
-- TBD
+- [MVP Experimental Plan](mvp-plan.pdf)
 
 ## 9. User Test
 
