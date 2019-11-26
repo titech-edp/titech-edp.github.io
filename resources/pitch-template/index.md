@@ -33,10 +33,6 @@ Unlike [ competitive alternative ]
 our product has [ unique differentiation ].
 ```
 
-### 🔨 toolkit
-- [Reflective Action Sheet](/toolkit/reflective-action-sheet.pdf)
-- [Pitch](/toolkit/pitch.pdf) / [ピッチ](/toolkit/pitch_ja.pdf)
-
 ### ✔️ checklist
 * [ ] Are the target users clear? (“What kind of situation are the users in?” and “What are their behavior in that situation?”) / 対象となるユーザーは明確ですか？ （「どのような状況」にいる「何をする人」ですか？）
 * [ ] Is there a sketch or a photo of the prototype? / プロトタイプのスケッチや写真はありますか？
@@ -46,7 +42,9 @@ our product has [ unique differentiation ].
 - What is the reason why you solve the problem? How much worth solving the problem? Give us some evidences or clues.
 
 ### 🔨 toolkit
+
 - [User Research Questions](/toolkit/user-research-questions.pdf) / [ユーザーリサーチに使える質問](/toolkit/user-research-questions_ja.pdf)
+- [AEIOU Summary](/toolkit/aeiou.pdf)
 - [User Journey Map](/toolkit/user-journey-map.pdf)
 - [User Needs](/toolkit/user-needs.pdf) / [ユーザーニーズ](/toolkit/user-needs_ja.pdf)
 - [POV(+HMWQ)](/toolkit/pov-hmwq.pdf) / [POV(とHMWQ)](/toolkit/pov-hmwq_ja.pdf)
@@ -63,7 +61,7 @@ our product has [ unique differentiation ].
 
 ### 🔨 toolkit
 - [(POV+)HMWQ](/toolkit/pov-hmwq.pdf) / [(POVと)HMWQ](/toolkit/pov-hmwq_ja.pdf)
-- [Design Principles](/toolkit/design-principles.pdf) / [デザイン原則](/toolkit/design-principles_ja.pdf)
+- [Design Principles](/toolkit/design-principles.pdf)
 
 ### ✔️ checklist
 
