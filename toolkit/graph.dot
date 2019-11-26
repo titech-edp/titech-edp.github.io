@@ -3,11 +3,11 @@
 digraph graph_name {
 	graph [
 	       rankdir = LR;
-	       labeljust = l;
 	       nodesep = 0.7;
 	];
 	edge [
 		style = bold;
+		shape = oval;
 	];
 	node [
 		style = bold;
@@ -15,79 +15,104 @@ digraph graph_name {
 	];
 
 	Input [
-	       label = "Input|1. Interview \l|2. Observation \l|3. Role Playing \l|4. Case Study Analysis \l|5. Trend Analysis \l",
+	       label = "Input|a. Interview \l|b. Observation \l|c. Role Playing \l|d. Case Study Analysis \l|e. Trend Analysis \l",
 	       shape = record,
 	];
 	Output [
-	       label = "Output|1. Product \l|2. Process \l|3. Pitch \l|4. Plot \l|5. Poster \l",
+	       label = "Output|a. Product \l|b. Process \l|c. Pitch \l|d. Plot \l|e. Poster \l",
 	       shape = record,
+	];
+
+
+	CJM[label = "1. Journey Map"];
+	Needs[label = "2. Needs"];
+	Insight[label = "3. Insight"];
+	HMWQ[label = "4. HMWQ"];
+	DP [label = "5. Design Principles"];
+	Sketch [label = "6. Product Sketch"];
+	Story [label = "7. Usage Scenario"];
+	MVP [label = "8. MVP"];
+	Test [label = "9. User Test"];
+
+# connect
+	Input -> CJM [
+		tailport = ne,
+		headport = nw
 	];
 
 	CJM -> Needs;
 	Needs -> Insight;
 	Insight -> HMWQ;
+//	HMWQ -> DP;
+//	DP -> Sketch;
 
-	Input -> CJM [
-		tailport = ne,
-		headport = n
+Sketch -> DP [dir = back];
+DP -> HMWQ [dir = back];
+
+	Sketch -> Story;
+	Story -> MVP;
+	MVP -> Test;
+
+	Test -> Output [
+		taillabel = "🎉",
+		labeldistance = 8,
+		tailport = e,
+		headport = sw
 	];
 
-	HMWQ -> "Design Principles";
-	"Design Principles" -> "Product Sketch";
-	"Product Sketch" -> "Usage Scenario";
-
-	"Usage Scenario" -> MVP;
-	MVP -> "User Test";
-	"User Test" -> Output [
-		tailport = se,
-		headport = sw
-	]   ;
-
 # Label
-	node [shape = none];
-	Insight -> "POV👀"[color = white];
-	"Product Sketch" -> "Idea💡"[color = white];
-	"User Test" -> "🎉"[color = white];
+	node [shape = plaintext];
+	POV [label = "POV👀"];
+	Idea [label = "Idea💡"];
+//	Fin [label = ];
+
+//	Insight -> POV[color = white];
+//	Sketch -> Idea[color = white];
+//	Test -> Fin[color = white];
 
 # Ranking
+	{rank = min; Input}
 	{rank = same;
 		CJM;
 		Needs;
 		Insight;
-		"POV👀"
+		POV
 	}
 	{rank = same;
 		HMWQ;
-		"Design Principles";
-		"Product Sketch"
-		"Idea💡"
+		DP;
+		Sketch;
+		Idea
 	}
 	{rank = same;
-		"Usage Scenario";
+		Story;
 		MVP;
-		"User Test";
-		"🎉";
+		Test;
+//		Fin
 	}
+	{rank = sink; Output}
+
 # NG
 	edge[ color = "#999999"];
 	Insight -> Input [
-		taillabel = NG,
-		labeldistance = 3,
-		style = dashed, 
+		taillabel = "[NG]",
+		labeldistance = 4,
+		style = dashed,
 		arrowhead = curve,
-		headport = s
+		headport = se
 	];
-	"Product Sketch" -> CJM [
-		taillabel = NG,
-		labeldistance = 2,
-		style = dashed, 
+	Sketch -> CJM [
+		taillabel = "[NG]",
+		labeldistance = 3,
+		style = dashed,
 		arrowhead = curve
 	];
-	"User Test" -> HMWQ [
-		taillabel = NG,
-		labeldistance = 2,
-		style = dashed, 
+	Test -> HMWQ [
+		taillabel = "[NG]",
+		labeldistance = 3,
+		style = dashed,
 		arrowhead = curve
 	];
+
 
 }
