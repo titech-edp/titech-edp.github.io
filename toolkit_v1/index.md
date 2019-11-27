@@ -1,6 +1,6 @@
 ---
 layout: page
-title: EDP Toolkit
+title: EDP Toolkit (v.1)
 ---
 
 ![EDP Toolkit](edp-toolkit.png)
