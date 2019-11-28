@@ -31,7 +31,7 @@ digraph graph_name {
 	DP [label = "5. Design Principles"];
 	Sketch [label = "6. Product Sketch"];
 	Story [label = "7. Usage Scenario"];
-	MVP [label = "8. MVP Experimental Plan"];
+	MVP [label = "8. MVP"];
 	Test [label = "9. User Test"];
 
 # connect
