@@ -41,6 +41,7 @@ title: EDP Toolkit
 
 ## 8. MVP
 
+- [Product SIPOC](sipoc.pdf)
 - [MVP Experimental Plan](mvp-plan.pdf)
 
 ## 9. User Test
