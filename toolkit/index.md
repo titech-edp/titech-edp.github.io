@@ -45,7 +45,7 @@ title: EDP Toolkit
 - [MVP Experimental Plan](mvp-plan.pdf)
 - KANO Model
   - <https://en.wikipedia.org/wiki/Kano_model>
-- Thinking Process Development Diagram（思考展開図）
+- Thinking Process Development Diagram / Thinking Deployment Diagram （思考展開図）
   - <https://www.jstage.jst.go.jp/article/tjsai/17/1/17_1_94/_article/-char/ja>
 
 ## 9. User Test
