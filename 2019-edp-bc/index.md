@@ -296,6 +296,26 @@ Project
 
 # [EDP-C3] December 21, Sat., 10:00-15:50
 
+- 10:00-10:30:
+  - Guidance
+- 10:30-11:50 Interim Team Presentation
+  - 10 min. presentation about product and process
+  - No feedback time !!
+- 11:50-13:20: Lunch Time
+- 13:20-15:30:
+  - Go or No Go
+    - 最初に全体に結果を伝えて、その後10分ずつのチーム個別面談
+  - Group Work
+- 15:30-15:50: Reflection (using scrapbox)
+  - 発注は早めに
+  - 次回から宿題なし！
+  - 最終発表の準備をはじめよう！
+
+For Corporate Partners:
+
+- 11:50-12:15: MTG of Judgement
+- 14:00-15:00: MTG about SIGED
+
 # [EDP-C4] January 11, Sat., 10:00-15:50
 
 # [EDP-C5] January 25, Sat., 10:00-15:50
