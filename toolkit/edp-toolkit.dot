@@ -18,7 +18,7 @@ digraph graph_name {
 	   shape = record,
 	   ];
     Output [
-	    label = "Output|a. Product \l|b. Process \l|c. Pitch \l|d. Plot \l|e. Poster \l",
+	    label = "Output|a. Product \l|b. Process \l|c. Pitch \l|d. Promotion Video \l|e. Poster \l",
 	    shape = record,
 	    ];
 

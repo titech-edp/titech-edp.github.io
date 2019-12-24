@@ -57,7 +57,7 @@ title: EDP Toolkit
 - a. Product: JUST MAKE IT
 - b. Process: TBD
 - c. Pitch: [Pitch Template](/resources/pitch-template/)
-- d. Plot: SHOOT A MOVIE based on the Storyboard and Casts-Props-Scene
+- d. Promotion Video: SHOOT A MOVIE based on the Storyboard and Casts-Props-Scene
 - e. Poster: JUST MAKE IT
 
 ## Archive - Previous Toolkit
