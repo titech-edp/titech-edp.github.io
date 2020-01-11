@@ -79,4 +79,4 @@ title: 2018年度「エンジニアリングデザインプロジェクト」最
 
 エンジニアリングデザインプロジェクトの講義内容は書籍『エンジニアのためのデザイン思考入門』（翔泳社）でご確認いただけます。お手にとっていただけますと幸いです。
 
-[![](https://titech-edp.github.io/images/edp-book.png)](http://www.shoeisha.co.jp/book/detail/9784798153858)
+[![](https://titech-edp.github.io/images/edp-book.jpg)](http://www.shoeisha.co.jp/book/detail/9784798153858)
