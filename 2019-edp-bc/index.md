@@ -318,6 +318,13 @@ For Corporate Partners:
 
 # [EDP-C4] January 11, Sat., 10:00-15:50
 
+グループワーク
+
 # [EDP-C5] January 25, Sat., 10:00-15:50
 
+グループワーク
+
 # [EDP-FINAL-PRESENTATION] February 8, Sat., 13:00-17:30
+
+## 外部向け開催概要
+→ [開催概要](./demoday/)
