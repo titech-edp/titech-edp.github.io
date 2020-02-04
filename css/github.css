@@ -11,7 +11,7 @@ body > *:last-child {
   margin-bottom: 0 !important; }
 
 .navbar {
-  border: 0px solid transparent;
+  border: 0px solid transparent !important;
 }
 
 a {
