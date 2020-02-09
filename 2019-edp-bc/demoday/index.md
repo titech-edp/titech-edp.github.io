@@ -52,6 +52,18 @@ title: 2019年度「エンジニアリングデザインプロジェクト」最
    * 参加を希望される方は、お申し込み時に該当のチケットをご選択ください。
    * 費用: 2,000円（EDP受講学生は500〜1,000円を予定）
 
+## 当日の様子
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">今日は東工大の修士一年生の学生さんによるエンジニアリングデザインプロジェクトの最終発表会に参加してきました！どのチームも悩みに悩み抜いた末に、ユーザーに寄り添ったプロトタイプを作っていましたよ！こちらも記事にする予定です。お楽しみに！<a href="https://twitter.com/hashtag/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E6%80%9D%E8%80%83?src=hash&amp;ref_src=twsrc%5Etfw">#デザイン思考</a> <a href="https://twitter.com/hashtag/EDP?src=hash&amp;ref_src=twsrc%5Etfw">#EDP</a> <a href="https://t.co/LcGeIGm0Yj">pic.twitter.com/LcGeIGm0Yj</a></p>&mdash; みんなのデザイン思考（みんデザ） (@mndz_jp) <a href="https://twitter.com/mndz_jp/status/1226148691431419904?ref_src=twsrc%5Etfw">February 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">東工大のエンジニアリングデザインプロジェクトは本当に良い取り組みなので各社参加してみて欲しい。モノづくりのプロセスを学ぶのはソフトウェア開発でも同じで、十分に得るものがあります。ぜひ価値を感じて欲しい。</p>&mdash; Ryoma Amakasu / Sapphirus (@Sapphirus) <a href="https://twitter.com/Sapphirus/status/1226099355662184448?ref_src=twsrc%5Etfw">February 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">🏢エンジニアリングデザインプロジェクト 最終発表会 - 東京工業大学プログラム🎓🏫<br>パートナー企業から持ち込まれたテーマを東工大生、美大生、社会人の受講生がチームを組み、デザイン思考とエンジニアリング思考を活用して解決に取り組む産学連携プロジェクト✨<br>その1年間の取り組みの集大成だっ🤩 <a href="https://t.co/DdSK8H6UWS">pic.twitter.com/DdSK8H6UWS</a></p>&mdash; anothersky0428 (@another_sky0428) <a href="https://twitter.com/another_sky0428/status/1226046214300323840?ref_src=twsrc%5Etfw">February 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">学生の皆さんの発表が始まりました！<br>東工大エンジニアリングデザインプロジェクト <a href="https://twitter.com/titech_cbec?ref_src=twsrc%5Etfw">@titech_cbec</a> の発表会を聴きに来ています。 <a href="https://t.co/ajjwBEOwYT">pic.twitter.com/ajjwBEOwYT</a></p>&mdash; Nefrock @2/15.16つくばMakerFaire (@nefrock_inc) <a href="https://twitter.com/nefrock_inc/status/1225999216910069760?ref_src=twsrc%5Etfw">February 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">今年の <a href="https://twitter.com/hashtag/EDP?src=hash&amp;ref_src=twsrc%5Etfw">#EDP</a> はプロダクト的なのが増えて内容も良かった！ <a href="https://t.co/h4ctAiGiSl">pic.twitter.com/h4ctAiGiSl</a></p>&mdash; 中村翼｜TsubasaNakamura (@TsubasaNakamura) <a href="https://twitter.com/TsubasaNakamura/status/1226139210584752128?ref_src=twsrc%5Etfw">February 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## 本年度のエンジニアリングデザインプロジェクトの様子
 
 以下のURLをご覧ください。

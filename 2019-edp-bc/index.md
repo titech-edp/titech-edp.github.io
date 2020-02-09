@@ -324,6 +324,8 @@ For Corporate Partners:
 
 グループワーク
 
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftitech.cbec%2Fposts%2F1153104481565097&width=500" width="500" height="725" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+
 # [EDP-FINAL-PRESENTATION] February 8, Sat., 13:00-17:30
 
 ## 外部向け開催概要
