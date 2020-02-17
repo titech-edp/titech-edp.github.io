@@ -5,11 +5,7 @@ category: siged
 ---
 
 <div class="alert alert-info" role="alert">
-<ul>
-<li>2020年2月18日 (火) 13:15 - 18:45</li>
-<li>東京工業大学 大岡山キャンパス 石川台5号館3F デザイン工房</li>
-<li>募集ページ：<a href="https://tokyo-tech-siged-04.peatix.com">https://tokyo-tech-siged-04.peatix.com</a></li>
-</ul>
+本研究会は延期となりました。
 </div>
 
 
