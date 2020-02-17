@@ -330,3 +330,13 @@ For Corporate Partners:
 
 ## 外部向け開催概要
 → [開催概要](./demoday/)
+
+# 最終発表
+
+* [2019年度EDP「YORAYORADIO」team-YR²](https://medium.com/titech-eng-and-design/-16e1b55eb4fd)
+* [2019年度EDP「saratte」team-iwashi](https://medium.com/titech-eng-and-design/-de95884ea1ed)
+* [2019年度EDP「Sa’Ball」ゆとり製作所](https://medium.com/titech-eng-and-design/-87ef2b6af2c8)
+* [2019年度EDP 「Pit-in fridge」 team U-corporation](https://medium.com/titech-eng-and-design/-30b2919ebc2)
+* [2019年度EDP「キッチンたんけんたい！」Team-ipi](https://medium.com/titech-eng-and-design/-f2b89cc1f979)
+* [2019年度EDP「さんぽぽ」ワイキキAP](https://medium.com/titech-eng-and-design/-c96c6efca1e2)
+* [2019年度EDP「Coi Coi Mat」team coi](https://medium.com/titech-eng-and-design/-b588ebef5657)
