@@ -70,12 +70,11 @@ layout: default
 
 <div class="col-md-5">
 
-<div class="panel panel-default">
-  <div class="panel-heading">イベント情報</div>
-  <div class="panel-body">
-<iframe frameborder="0" width="100%" height="480" src="https://peatix.com/event/1408108/share/widget?z=1&a=1"></iframe>
-  </div>
-</div>
+<!-- <div class="panel panel-default">
+ !--   <div class="panel-heading">イベント情報</div>
+ !--   <div class="panel-body">
+ !--   </div>
+ !-- </div> -->
 
 <div class="panel panel-danger">
   <div class="panel-heading">書籍情報</div>
