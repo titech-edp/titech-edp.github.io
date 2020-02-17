@@ -5,15 +5,17 @@ title: 2019年度「エンジニアリングデザインプロジェクトB/C」
 
 # Syllabus
 
+* [エンジニアリングデザインプロジェクトB B - TOKYO TECH OCW](http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=2&GakkaCD=321502&KeiCD=15&course=2&KamokuCD=321502&KougiCD=201903606&Nendo=2019&vid=03)
+* [エンジニアリングデザインプロジェクトC B - TOKYO TECH OCW](http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=2&GakkaCD=321502&KeiCD=15&course=2&KamokuCD=321502&KougiCD=201903608&Nendo=2019&vid=03)
+
 # Staff
 
 ## Instructors
 
 - Shigeki Saito, Prof.
-- (Hiraku Sakamoto, Associate Prof.)
+- (Hiraku Sakamoto, Associate Prof. is at Aalto University on Sabbatical)
 - Kazuaki Inaba, Associate Prof.
 - Yuki Taoka, Assistant Prof.
-- Daisuke Kurabayashi, Prof.
 - Wataru Hijikata, Associate Prof.
 - Masanori Kado, Specially appointed lecture
 - Masaki Yagisawa, Tokyo University of the Arts
@@ -95,7 +97,6 @@ Project
 - (Hiraku Sakamoto, Associate Prof.)
 - Kazuaki Inaba, Associate Prof.
 - Yuki Taoka, Assistant Prof.
-- Daisuke Kurabayashi, Prof.
 - Wataru Hijikata, Associate Prof.
 - Masanori Kado, Specially appointed lecture
 - Masaki Yagisawa, Tokyo University of the Arts
@@ -260,9 +261,6 @@ Project
     - 成績評価のための何か
       - 「ブログを公開」or「長文のレポート」かなあ（ブログのほうは加点する）
       - あとで決めます
-  - 参考：BARKATION：2020年2月19日（水）から 20日（木）＠東京ビッグサイト
-      - 選抜方法は未定
-      - 他にも社会連携の方法があれば、ぜひアイデアを
   - EDP-Bのレポートのフィードバック!!（非公開）
 - 10:30-12:15: Interim Team Presentation
 - 12:15-13:20: Lunch Time
