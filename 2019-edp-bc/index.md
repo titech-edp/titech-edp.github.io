@@ -333,6 +333,7 @@ For Corporate Partners:
 
 # 最終発表
 
+* [2019年度 EDP「UROBON」TeamMado](https://medium.com/titech-eng-and-design/ed5b06bbfbf0)
 * [2019年度EDP「YORAYORADIO」team-YR²](https://medium.com/titech-eng-and-design/-16e1b55eb4fd)
 * [2019年度EDP「saratte」team-iwashi](https://medium.com/titech-eng-and-design/-de95884ea1ed)
 * [2019年度EDP「Sa’Ball」ゆとり製作所](https://medium.com/titech-eng-and-design/-87ef2b6af2c8)
