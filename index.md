@@ -25,6 +25,15 @@ layout: default
   </div>
 </div>
 
+<h2>2020年度</h2>
+<ul>
+<li><a href="/2020-dtf-a/">デザイン思考基礎a</a></li>
+<li><a href="/2020-dtf-b/">デザイン思考基礎b</a></li>
+<li><a href="/2020-eda/">エンジニアリングデザイン応用</a></li>
+<li><a href="/2020-edp/">エンジニアリングデザインプロジェクト</a></li>
+</ul>
+
+
 <h2>2019年度</h2>
 <ul>
 <li><a href="/2019-dtf-a/">デザイン思考基礎a</a></li>
