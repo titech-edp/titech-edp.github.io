@@ -27,21 +27,12 @@
 
         <li role="presentation" class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-signal" aria-hidden="true"></span> Courses <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="/2019-dtf-a/">2019 - デザイン思考基礎a</a></li>
-            <li><a href="/2019-dtf-b/">2019 - デザイン思考基礎b</a></li>
-            <li><a href="/2019-edp-a/">2019 - EDP-A</a></li>
-            <li><a href="/2019-edp-bc/">2019 - EDP-B/C</a></li>
-            <li><a href="/2018-dtf-a/">2018 - デザイン思考基礎a</a></li>
-            <li><a href="/2018-dtf-b/">2018 - デザイン思考基礎b</a></li>
-            <li><a href="/2018-edp-a/">2018 - EDP-A</a></li>
-            <li><a href="/2018-edp-bc/">2018 - EDP-B/C</a></li>
-            <li><a href="/2017-dtf-a/">2017 - デザイン思考基礎a</a></li>
-            <li><a href="/2017-dtf-b/">2017 - デザイン思考基礎b</a></li>
-            <li><a href="/2017-edp-a/">2017 - EDP-A</a></li>
-            <li><a href="/2017-edp-bc/">2017 - EDP-B/C</a></li>
-            <li><a href="/2016-dtf/">2016 - デザイン思考基礎</a></li>
-            <li><a href="/2016-edp-a/">2016 - EDP-A</a></li>
-            <li><a href="/2016-edp-bc/">2016 - EDP-B/C</a></li>
+            {% assign pages = site.pages | sort: 'url' | reverse %}
+            {% for p in pages %}
+            {% if p.tags contains 'lecture' %}
+            <li><a href="{{p.url}}">{{p.title}}</a></li>
+            {% endif %}
+            {% endfor %}
             <li><a href="/siged/">SIGED</a></li>
             <li><a href="/tdx/">TdX</a></li>
           </ul>

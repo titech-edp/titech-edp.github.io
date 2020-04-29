@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 2017年度「エンジニアリングデザインプロジェクトB/C」
+tags: [lecture]
 ---
 
 # 最終成果物

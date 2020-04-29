@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 2018 "Design Thinking Fundamental a"
+tags: [lecture]
 ---
 
 # Syllabus

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 2018年度「デザイン思考基礎b」
+tags: [lecture]
 ---
 
 <div style="width: 595px; max-width: 100%">

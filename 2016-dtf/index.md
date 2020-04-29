@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 2016年度「デザイン思考基礎」
+tags: [lecture]
 ---
 
 # 日程

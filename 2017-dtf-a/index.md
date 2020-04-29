@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 2017 "Design Thinking Fundamental a"
+tags: [lecture]
 ---
 
 # Design Challenge

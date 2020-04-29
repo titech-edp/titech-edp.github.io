@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 2019 "Design Thinking Fundamental a"
+tags: [lecture]
 ---
 
 <div style="width: 595px; max-width: 100%">

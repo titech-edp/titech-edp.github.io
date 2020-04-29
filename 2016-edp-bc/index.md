@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 2016年度「エンジニアリングデザインプロジェクトB/C」
+tags: [lecture]
 ---
 
 # :ledger: 最終成果物

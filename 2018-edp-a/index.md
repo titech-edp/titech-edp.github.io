@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 2018年度「エンジニアリングデザインプロジェクトA」
+tags: [lecture]
 ---
 
 # Syllabus

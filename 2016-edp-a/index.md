@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 2016年度「エンジニアリングデザインプロジェクトA」
+tags: [lecture]
 ---
 
 # :date: 日程
