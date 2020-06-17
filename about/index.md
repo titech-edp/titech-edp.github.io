@@ -5,7 +5,7 @@ title: エンジニアリングデザインプロジェクトについて
 
 # プロモーションビデオ
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OOk-hvQOlh8?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6bX9Pv4UQvA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # EDPのねらい
 
