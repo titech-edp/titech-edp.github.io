@@ -14,7 +14,7 @@ digraph graph_name {
 	  ];
 
     Input [
-	   label = "Input|a. Interview \l|b. Observation \l|c. Role Playing \l|d. Case Study Analysis \l|e. Trend Analysis \l",
+	   label = "Input|a. Observation \l|b. Interview \l|c. Role Playing \l|d. Case Study Analysis \l|e. Trend Analysis \l",
 	   shape = record,
 	   ];
     Output [
