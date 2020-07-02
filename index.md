@@ -2,6 +2,43 @@
 layout: default
 ---
 
+
+<div class="album py-3 bg-light">
+    <div class="container">
+      <div class="row">
+
+        <div class="col-md-4">
+          <div class="card mb-4 shadow-sm h-100">
+            <img class="card-img-top" src="https://miro.medium.com/max/1024/1*wMkPwbWSYQcbSRs4U26uUQ.png" alt="Card image cap">
+            <div class="card-body">
+              <p class="card-text">「身体的機能の衰えに備え，これからも外出を楽しむための出発体験をデザインせよ」というテーマに取り組み，UROBONというプロダクトを作成しました．</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-4">
+          <div class="card mb-4 shadow-sm h-100">
+            <img class="card-img-top" src="https://miro.medium.com/max/1400/1*SEpEADnltPDJmkoKUCmbzQ.jpeg" alt="Card image cap">
+            <div class="card-body">
+              <p class="card-text">大勢が所属するシェアハウスにおいて、グループチャットで会話を広げるのも気が引ける……そんな人のため、会話を通じて「知る」ことに着目させた製品です。</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-4">
+          <div class="card mb-4 shadow-sm h-100">
+            <img class="card-img-top" src="https://miro.medium.com/max/1400/1*C8G5rG8N3SZi96KTiSa78A.png" alt="Card image cap">
+            <div class="card-body">
+              <p class="card-text">夕食の準備中の子どもと親の関係に着目して作られた、「子どもがリビングにいてもキッチンが見られる」プロダクトです。</p>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+
 <div class="row">
 
 <div class="col-md-7">
@@ -85,29 +122,37 @@ layout: default
  !--   </div>
  !-- </div> -->
 
-<div class="panel panel-danger">
-  <div class="panel-heading">書籍情報</div>
-  <div class="panel-body" style="text-align:center;">
-<p><a href="http://www.shoeisha.co.jp/book/detail/9784798153858"><img src="images/edp-book.jpg" alt="edp book" /><br />EDPが書籍になりました :tada: </a></p>
+
+<div class="card">
+  <div class="card-body">
+    <p class="card-text"  style="text-align:center;">
+<a href="http://www.shoeisha.co.jp/book/detail/9784798153858"><img src="images/edp-book.jpg" alt="edp book" /><br />EDPが書籍になりました :tada: </a>
+	</p>
   </div>
 </div>
 
-<div class="panel panel-default">
-  <div class="panel-heading">:postbox: EDPにご関心のある企業様</div>
-  <div class="panel-body">
+
+<div class="card">
+  <div class="card-body">
+    <h4 class="card-title">:postbox: EDPにご関心のある企業様</h4>
+    <p class="card-text"  style="text-align:center;">
 <p>授業の受講、<a href="/corporate-partner/">パートナー企業</a>、産学連携など、EDPにご関心のある方には、各種情報をお送りいたします。</p>
 {% include hubspot.html %}
+	</p>
   </div>
 </div>
 
-<div class="panel panel-default">
-  <div class="panel-heading">:globe_with_meridians: 各種リンク</div>
-  <div class="panel-body">
+
+<div class="card">
+  <div class="card-body">
+    <h5 class="card-title">:globe_with_meridians: 各種リンク</h5>
+    <p class="card-text"  style="text-align:center;">
 <ul>
 <li><a href="http://www.eng.titech.ac.jp/~cbe/">東京工業大学 チーム志向越境型アントレプレナー育成プログラム（CBEC）</a></li>
 <li><a href="http://www.esd.titech.ac.jp/">東京工業大学 - エンジニアリングデザインコース</a></li>
 <li><a href="https://medium.com/titech-eng-and-design">東京工業大学エンジニアリングデザインプロジェクト – Medium</a></li>
 </ul>
+	</p>
   </div>
 </div>
 

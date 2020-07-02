@@ -63,16 +63,7 @@ h1 {
   color: black; }
 
 .page-content h1 {
-  /* padding: 5px;
-   * border: 1px solid #ccc;
-   * border-left: 10px solid #ccc;
-   * background-color: #eee;
-   * border-radius: 3px; */
-  padding: 0.4em 0.5em;/*文字の上下 左右の余白*/
-  color: #494949;/*文字色*/
-  background: #f4f4f4;/*背景色*/
-  border-left: solid 5px #F2C4C4;/*左線*/
-  border-bottom: solid 3px #d7d7d7;/*下線*/
+    background: linear-gradient(transparent 60%, #eee 60%);
 }
 
 h2 {

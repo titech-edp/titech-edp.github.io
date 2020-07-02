@@ -21,7 +21,7 @@ Design an innovative [event in sprint] experience for [someone].
 <blockquote>Design Prompt: {{ t.theme }}</blockquote>
 <div class="btn-group" role="group">
   {% for d in t.data %}
-    <a href="{{ d[1] }}" role="button" class="btn"><span class="glyphicon glyphicon-circle-arrow-down" aria-hidden="true" />{{ d[0] }}</a>
+    <a href="{{ d[1] }}" role="button" class="btn"><i class="fas fa-arrow-circle-right"></i>{{ d[0] }}</a>
   {% endfor %}
 </div>
 {% endfor %}

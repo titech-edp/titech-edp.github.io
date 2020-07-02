@@ -41,7 +41,7 @@ Taoka, Niikura
 <blockquote>Theme: {{ t.theme }}</blockquote>
 <div class="btn-group" role="group">
   {% for d in t.data %}
-    <a href="{{ d[1] }}" role="button" class="btn"><span class="glyphicon glyphicon-circle-arrow-down" aria-hidden="true" />{{ d[0] }}</a>
+    <a href="{{ d[1] }}" role="button" class="btn"><i class="fas fa-arrow-circle-right"></i>{{ d[0] }}</a>
   {% endfor %}
 </div>
 {% endfor %}
@@ -54,7 +54,7 @@ Taoka, Niikura
 - 10:00-10:20 ガイダンス（EDP全体の概要とEDP-Aの概要）、教員の紹介 by 齊藤
 - 10:20-10:40 チーム発表、席の移動 by 坂本
 - 10:40-11:40 チームビルディング by 角
-<a href="https://www.slideshare.net/kdmsnr/2017-edpa-team-building/" role="button" class="btn"><span class="glyphicon glyphicon-circle-arrow-down" aria-hidden="true" />スライド</a>
+<a href="https://www.slideshare.net/kdmsnr/2017-edpa-team-building/" role="button" class="btn"><i class="fas fa-arrow-circle-right"></i>スライド</a>
 - 11:40-12:15 講義（オブザベーション）by 齊藤（以降ファシリテーション担当）
 - 12:15-14:15 ランチ with オブザベーションワーク
 - 14:15-15:00 オブザベーションのまとめ
@@ -91,7 +91,7 @@ In the next class, please bring your fully charged PCs with the Arduino IDE.
 
 - 10:00-10:05 ガイダンス、アイスブレイク（坂本）
 - 10:10-10:30 デザイン思考プロセスの紹介（坂本）
-- 10:30-12:15 Ideate & Prototype講義 I（角） <a href="https://www.slideshare.net/kdmsnr/2017-edpa-prototyping" role="button" class="btn"><span class="glyphicon glyphicon-circle-arrow-down" aria-hidden="true" />スライド</a>
+- 10:30-12:15 Ideate & Prototype講義 I（角） <a href="https://www.slideshare.net/kdmsnr/2017-edpa-prototyping" role="button" class="btn"><i class="fas fa-arrow-circle-right"></i>スライド</a>
   - インスピレーションウォール作成 [15分]
   - 宿題データの共有 [20分]
   - Ideate & Prototype #1
@@ -163,7 +163,7 @@ In the next class, please bring your fully charged PCs with the Arduino IDE.
 ## [EDP-A-3] 7/22（Sat）10:00-15:50
 
 - 10:00-10:15 ガイダンス、アイスブレイク、注意事項（素材の著作権など）（坂本） / Guidance, Icebreak, Warning of copyright violations by Sakamoto
-- 10:15-10:40 プロトタイプとユーザーテストの講義（角） / Lecture of Prototype & Test by Kado <a href="https://www.slideshare.net/kdmsnr/tokyotech-2017-edpa-3-prototype-and-test" role="button" class="btn"><span class="glyphicon glyphicon-circle-arrow-down" aria-hidden="true" />スライド</a>
+- 10:15-10:40 プロトタイプとユーザーテストの講義（角） / Lecture of Prototype & Test by Kado <a href="https://www.slideshare.net/kdmsnr/tokyotech-2017-edpa-3-prototype-and-test" role="button" class="btn"><i class="fas fa-arrow-circle-right"></i>スライド</a>
 - 10:40-12:15 プロトタイプ制作 / Prototyping
 - 12:15-13:20 ランチ / Lunch
 - 13:20-14:50 動画制作講座 by 新倉 + 奥出 / Movie Shooting Lecture by Niikura + Okude

@@ -63,8 +63,8 @@ Design a new user experience through prototyping a new home electrical appliance
 <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ t.movie }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 {% endif %}
 
-{% if t.poster %}<a href="{{ t.poster }}" role="button" class="btn"><span class="glyphicon glyphicon-circle-arrow-down" aria-hidden="true" />Poster</a>{% endif %}
-<a href="{{ t.toolkit }}" role="button" class="btn"><span class="glyphicon glyphicon-circle-arrow-down" aria-hidden="true" />Toolkit</a>
+{% if t.poster %}<a href="{{ t.poster }}" role="button" class="btn"><i class="fas fa-arrow-circle-right"></i>Poster</a>{% endif %}
+<a href="{{ t.toolkit }}" role="button" class="btn"><i class="fas fa-arrow-circle-right"></i>Toolkit</a>
 {% endfor %}
 
 # Schedule

@@ -52,7 +52,7 @@ Design innovative experience of having a meal.
 </div>
 
 <a href="https://drive.google.com/file/d/1jIn4t_1KJ32eyZr2v9ss5KeM3VrEMNF-/view" role="button" class="btn">
-<span class="glyphicon glyphicon-circle-arrow-down" aria-hidden="true" />
+<i class="fas fa-arrow-circle-right"></i>
 Project Document
 </a>
 
@@ -63,7 +63,7 @@ Project Document
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/4LrAI3MKGZ172v" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ryogaide/genovese-presentation-pptx" title="Genovese presentation pptx" target="_blank">Genovese presentation pptx</a> </strong> from <strong><a href="https://www.slideshare.net/ryogaide" target="_blank">ryogaide</a></strong> </div>
 
 <a href="https://drive.google.com/file/d/1wo7FaMdeUSM-5zpB8Xd1wdvn7sfe9bK9/view" role="button" class="btn">
-<span class="glyphicon glyphicon-circle-arrow-down" aria-hidden="true" />
+<i class="fas fa-arrow-circle-right"></i>
 Project Document
 </a>
 
@@ -78,7 +78,7 @@ Project Document
 </div>
 
 <a href="https://drive.google.com/file/d/1QAN4AVBYGF-7pC6Bz5Joy7Z4nuenW2qk/view" role="button" class="btn">
-<span class="glyphicon glyphicon-circle-arrow-down" aria-hidden="true" />
+<i class="fas fa-arrow-circle-right"></i>
 Project Document
 </a>
 
@@ -93,7 +93,7 @@ Project Document
 </div>
 
 <a href="https://drive.google.com/file/d/1kHmd5OuofyF2I_IP51zjPicvtC0khSfr/view" role="button" class="btn">
-<span class="glyphicon glyphicon-circle-arrow-down" aria-hidden="true" />
+<i class="fas fa-arrow-circle-right"></i>
 Project Document
 </a>
 
@@ -107,7 +107,7 @@ Project Document
 </div>
 
 <a href="https://drive.google.com/file/d/1EN4UTCEq5raEzmOccQ-7e2KweMiaF9i-/view" role="button" class="btn">
-<span class="glyphicon glyphicon-circle-arrow-down" aria-hidden="true" />
+<i class="fas fa-arrow-circle-right"></i>
 Project Document
 </a>
 
@@ -120,7 +120,7 @@ Project Document
 </div>
 
 <a href="https://drive.google.com/file/d/1lIrN4rQL2uHLjbIkxFIoHEhSBUx4pHL8/view" role="button" class="btn">
-<span class="glyphicon glyphicon-circle-arrow-down" aria-hidden="true" />
+<i class="fas fa-arrow-circle-right"></i>
 Project Document
 </a>
 
@@ -133,7 +133,7 @@ Project Document
 </div>
 
 <a href="https://drive.google.com/file/d/1u1t8BCZvN3NXV3Lg_sGS7gs54yKyhqGo/view" role="button" class="btn">
-<span class="glyphicon glyphicon-circle-arrow-down" aria-hidden="true" />
+<i class="fas fa-arrow-circle-right"></i>
 Project Document
 </a>
 
@@ -144,7 +144,7 @@ Project Document
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/dfMnZZkTDOWAwQ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/YusukeAkahane/team-edpa" title="Team ちよこれーと EDP-A 発表資料" target="_blank">Team ちよこれーと EDP-A 発表資料</a> </strong> from <strong><a href="https://www.slideshare.net/YusukeAkahane" target="_blank">Yusuke Akahane</a></strong> </div>
 
 <a href="https://drive.google.com/file/d/1gxmeOSzO-ZrjUVsnkTlC2nHl6-ty-AZE/view" role="button" class="btn">
-<span class="glyphicon glyphicon-circle-arrow-down" aria-hidden="true" />
+<i class="fas fa-arrow-circle-right"></i>
 Project Document
 </a>
 
@@ -155,7 +155,7 @@ Project Document
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/hCiQePntsbajQ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/SeonghwanYeo1/final-presentation-edpa-2018-108561472" title="Final Presentation EDP-A 2018 銀のあひる" target="_blank">Final Presentation EDP-A 2018 銀のあひる</a> </strong> from <strong><a href="https://www.slideshare.net/SeonghwanYeo1" target="_blank">Seonghwan Yeo</a></strong> </div>
 
 <a href="https://drive.google.com/file/d/1J31GGBRgfzO2vdSPTC0_qknWmMHgSVrU/view" role="button" class="btn">
-<span class="glyphicon glyphicon-circle-arrow-down" aria-hidden="true" />
+<i class="fas fa-arrow-circle-right"></i>
 Project Document
 </a>
 
