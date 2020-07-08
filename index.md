@@ -151,18 +151,6 @@ layout: default
   </div>
 </div>
 
-
-<div class="card">
-  <div class="card-body">
-    <h4 class="card-title">:postbox: EDPにご関心のある企業様</h4>
-    <p class="card-text"  style="text-align:center;">
-<p>授業の受講、<a href="/corporate-partner/">パートナー企業</a>、産学連携など、EDPにご関心のある方には、各種情報をお送りいたします。</p>
-{% include hubspot.html %}
-	</p>
-  </div>
-</div>
-
-
 <div class="card">
   <div class="card-body">
     <h5 class="card-title">:globe_with_meridians: 各種リンク</h5>
