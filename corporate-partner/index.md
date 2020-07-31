@@ -19,8 +19,3 @@ title: パートナー企業様向け
 * [東京工業大学でデザイン思考を学ぶプロジェクトの最終発表会と、それまでの思い出 - さくマガ](https://sakumaga.sakura.ad.jp/entry/2020/03/30/120000)
 * [2018年度のパートナー企業の声](/2018-edp-bc/partners/)
 
-## :postbox: EDPにご関心のある企業様へ
-
-<p>各種情報をお送りいたします。</p>
-{% include hubspot.html %}
-
