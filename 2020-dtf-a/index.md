@@ -33,7 +33,7 @@ We will use online tools below:
 
 # Theme
 
-TBD
+Design a new experience in the house through prototyping a new tangible (physical) product.
 
 # Schedule
 
@@ -60,15 +60,24 @@ TBD
 ## [DTFa-5] 7/20（Mon）13:30-17:05（break 15:10-15:25）
 
 * storytelling
-* pitch
 * user test
 
 ## [DTFa-6] 8/03（Mon）13:30-17:05（break 15:10-15:25）
 
-* prototyping
+* pitch
+* preparing for the presentation
 
 ## [DTFa-7] 8/08（Sat）13:30-17:05（break 15:10-15:25）
 
 * presentation
 * ⚠️ **WARNING**: It will be held on Saturday instead of Monday, because it's together with dtf-b class.
 
+
+# Presentation Slides
+
+{% for d in site.data["2020-dtf-a"] %}
+## {{ d.name }}
+
+<iframe src="{{ d.url }}/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+{% endfor %}

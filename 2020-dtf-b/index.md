@@ -62,14 +62,22 @@ TBD
 ## [DTFb-5] 7/25（土）13:30-17:05（15:10-15:25は休憩）
 
 * ストーリーテリング
-* ピッチ
 * ユーザーテスト
 
 ## [DTFb-6] 8/01（土）13:30-17:05（15:10-15:25は休憩）
 
-* プロトタイプ
+* ピッチ
+* 発表準備
 
 ## [DTFb-7] 8/08（土）13:30-17:05（15:10-15:25は休憩）
 
 * 発表
 
+# 発表スライド
+
+{% for d in site.data["2020-dtf-b"] %}
+## {{ d.name }}
+
+<iframe src="{{ d.url }}/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+{% endfor %}
