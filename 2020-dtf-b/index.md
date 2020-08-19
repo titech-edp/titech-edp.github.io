@@ -73,6 +73,8 @@ tags: [lecture]
 
 * 発表
 
+[![Image from Gyazo](https://i.gyazo.com/ddb1ccf74252b9e3db526d70cda63628.png)](https://gyazo.com/ddb1ccf74252b9e3db526d70cda63628)
+
 # 発表スライド
 
 {% for d in site.data["2020-dtf-b"] %}

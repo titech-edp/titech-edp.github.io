@@ -72,6 +72,7 @@ Design a new experience in the house through prototyping a new tangible (physica
 * presentation
 * ⚠️ **WARNING**: It will be held on Saturday instead of Monday, because it's together with dtf-b class.
 
+[![Image from Gyazo](https://i.gyazo.com/ddb1ccf74252b9e3db526d70cda63628.png)](https://gyazo.com/ddb1ccf74252b9e3db526d70cda63628)
 
 # Presentation Slides
 
