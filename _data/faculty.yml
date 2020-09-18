@@ -15,16 +15,16 @@
 - name: "因幡 和晃"
   title:
     - "東京工業大学 環境・社会理工学院 准教授"
-  url: ""
+  url: "http://www.koubutsu.esd.titech.ac.jp/"
   photo: "inaba.jpg"
-  profile: ""
+  profile: "産学連携プロジェクトや共創スペースにおいてデザイン思考を活用してユーザーと共に課題を抽出し、機械工学、特に構造力学や混相流などの応用力学を核としたエンジニアリングで課題解決のための要素技術の開発や製品設計を行うことで、ユーザーに革新的体験を提供するための研究を行っています。"
 
 - name: "土方 亘"
   title:
     - "東京工業大学 工学院 准教授"
-  url: "http://www.hcds.esd.titech.ac.jp"
+  url: "http://www.hcds.esd.titech.ac.jp/htmls/hijikata-group/index.html"
   photo: "hijikata.jpg"
-  profile: ""
+  profile: "東京工業大学博士後期課程修了後、スイス連邦工科大学ローザンヌ校（EPFL）客員研究員、株式会社豊田中央研究所での勤務を経て東京工業大学に着任。産業界での研究開発経験を活かしつつ、専門の電磁気学を活用して、人と機械の調和を目指した医療機器、機械システムの研究開発を行っている。"
 
 # - name: "Park Jaehyun"
 #   title:
@@ -36,9 +36,9 @@
 - name: "大橋 匠"
   title:
     - "東京工業大学 環境・社会理工学院 助教"
-  url: "http://www.esd.titech.ac.jp/wp_saijo/?page_id=1924"
+  url: "http://www.saijo.esd.titech.ac.jp/?page_id=1924"
   photo: "ohashi.jpg"
-  profile: ""
+  profile: "2018年東工大博士課程短期修了、技術経営専門職学位課程修了。博士(工学)、技術経営修士(専門職)。2019-2020年スタンフォード大学客員助教。教育系NPO理事などを務めた経験を持ち、延べ5,500人以上にワークショップを実施。技術が社会に根付くためにどのように変わるのかに興味を持ち、畜産、介護、起業家教育など、多岐にわたる現場でアクションリサーチを行う。"
 
 - name: "田岡 祐樹"
   title:
@@ -46,14 +46,6 @@
   url: ""
   photo: "taoka.jpg"
   profile: "東京工業大学工学院機械系エンジニアリングデザインコース博士後期課程修了。博士 (学術)。専門は、共創デザイン、エンジニアリングデザイン。主な著作: A Cross-cultural Study of Co-design: The Impact of Power Distance on Group Dynamics in Japan(共著、CoDesign)。"
-
-- name: "竹田 陽子"
-  title:
-    - "東京工業大学 環境・社会理工学院 特任教授"
-    - "首都大学東京 都市教養学部 教授"
-  url: "http://yokotakeda.blogspot.jp/"
-  photo: "takeda.jpg"
-  profile: ""
 
 - name: "角 征典"
   title:
@@ -79,9 +71,3 @@
   photo: "terui.jpg"
   profile: ""
 
-# - name: "倉林 大輔"
-#   title:
-#     - "東京工業大学 工学院 教授"
-#   url: "http://www.irs.ctrl.titech.ac.jp/"
-#   photo: "kurabayashi.jpg"
-#   profile: ""

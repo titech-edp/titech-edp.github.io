@@ -1,0 +1,14 @@
+- name: "竹田 陽子"
+  title:
+    - "東京工業大学 環境・社会理工学院 特任教授"
+    - "首都大学東京 都市教養学部 教授"
+  url: "http://yokotakeda.blogspot.jp/"
+  photo: "takeda.jpg"
+  profile: ""
+
+- name: "倉林 大輔"
+  title:
+    - "東京工業大学 工学院 教授"
+  url: "http://www.irs.ctrl.titech.ac.jp/"
+  photo: "kurabayashi.jpg"
+  profile: ""
