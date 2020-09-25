@@ -52,9 +52,9 @@ See Also [Faculty Page](/faculty-team//)
 * 工房の出入り時には手指の消毒をお願いします。
 * 万が一、体調が悪く、新型コロナの罹患が懸念される場合は、決して講義に出席しないでください（その旨、メールにてお知らせください。）
 * 適宜、お近くの相談窓口への相談をお願いします。
-https://www.fukushihoken.metro.tokyo.lg.jp/iryo/kansen/coronasodan.html
+<https://www.fukushihoken.metro.tokyo.lg.jp/iryo/kansen/coronasodan.html>
 * 東工大の新型コロナの対策方針は以下HPに記載されています。もし懸念事項などあればご確認ください。不明な点は教員までご相談ください。
-https://www.titech.ac.jp/enrolled/health/coronavirus.html
+<https://www.titech.ac.jp/enrolled/health/coronavirus.html>
 
 # Schedule
 
