@@ -12,3 +12,10 @@
   url: "http://www.irs.ctrl.titech.ac.jp/"
   photo: "kurabayashi.jpg"
   profile: ""
+
+- name: "長谷川 晶一"
+  title:
+    - "東京工業大学 科学技術創成研究院 准教授"
+  url: "http://haselab.net/"
+  photo: "hasegawa.jpg"
+  profile: ""
