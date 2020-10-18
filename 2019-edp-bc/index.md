@@ -343,111 +343,111 @@ For Corporate Partners:
 
 # 来年度のEDP受講生へのアドバイス
 
-<div class="panel panel-default">
-  <div class="panel-body">
+<div class="card">
+  <div class="card-body">
 忍耐力、耐えろ
   </div>
 </div>
 
-<div class="panel panel-default">
-  <div class="panel-body">
+<div class="card">
+  <div class="card-body">
 大岡山駅を使うより石川台駅の方が近いのでそっちを使うことをおすすめします。
   </div>
 </div>
 
-<div class="panel panel-default">
-  <div class="panel-body">
+<div class="card">
+  <div class="card-body">
 色んな人にインタビューをすると、誰のどんな意見なのかが分かりにくくなるので、POV等を作る時には注意した方が良い
   </div>
 </div>
 
-<div class="panel panel-default">
-  <div class="panel-body">
+<div class="card">
+  <div class="card-body">
 材料の発注は早めにやりましょう。発注時にモノタロウのHPに当日出荷と書かれていても検収やら何やらで最終的な到着までに2週間くらいかかることもあります。
   </div>
 </div>
 
 
-<div class="panel panel-default">
-  <div class="panel-body">
+<div class="card">
+  <div class="card-body">
 前のめりにがっつり取り組んだことで楽しいこと辛いこといろんなことを体感できたので、学びを多く得るためにはぜひ前傾姿勢で臨んでほしいなと思います。
   </div>
 </div>
 
-<div class="panel panel-default">
-  <div class="panel-body">
+<div class="card">
+  <div class="card-body">
 多くのチームが電子工作と3Dプリンターでの造形をしていたので前期のedpで苦手意識を無くしておくとよいと思う。使わないならそれでいいと思うが今回のチームでは最終発表に向けて忙しい時期にチームの半分が慣れない電子工作に悪戦苦闘しながらプロトタイプつくっていたのでチーム外にも協力してくれる人がいると楽かも。
   </div>
 </div>
 
 
-<div class="panel panel-default">
-  <div class="panel-body">
+<div class="card">
+  <div class="card-body">
 許可を取った上でインタビューを録音し、文字起こしして見返すことが、ざわつくポイントを探すためには必要です。分かりやすいように言い換えることは、普段の生活では重要なことですが、それによって必要な情報が抜け落ちることを意識するといいと思います。
   </div>
 </div>
 
-<div class="panel panel-default">
-  <div class="panel-body">
+<div class="card">
+  <div class="card-body">
 何も恐れずやってみる！できないことがあるのは当たり前。美大にいるとそのことに気づけない場合が多いです。
   </div>
 </div>
 
 
-<div class="panel panel-default">
-  <div class="panel-body">
+<div class="card">
+  <div class="card-body">
 I want to share my experience and give advice especially to non-Japanese speakers. When you find trouble in communicating with your team members, be brave and open to solve the problem. It’s a team and only when everyone shares his/her thought and ideas, can the team make a good design. Even if you can not say it out, you can draw it out. Using sketches to share ideas is really a useful and visualized way, especially in design. Hope you can express your ideas actively!
   </div>
 </div>
 
-<div class="panel panel-default">
-  <div class="panel-body">
+<div class="card">
+  <div class="card-body">
 大まかなスピード感について前半で議論し，後半にチームの運営について議論する．ユーザインタビュベースで開発と議論を行うことと徹底的な生産性向上により開発スピードを上げ，完成品の納品を11月か年末にし，1月-2月で実証試験を実施するような日程で行うことがよいと感じる．ユーザインタビューで使用したいと感じるかどうかといった調査形式では抽象的な回答が多いが，実施の導入となるとユーザにも負担があるため，具体的な声を得やすいメリット・使用シーンを観察することにより効果的な改善点を発見しやすいといったメリットがあり製品開発の質向上に貢献するものとなると思う．また，説明のための発表ではなく，人を説得するための説明となるので他学科では体験できない面白さ・難しさを学習できる機会になるというメリットもある．チームの運営に関しては，リアルである時間を増やすことが重要であると思う．学科の特性上，意見の一致が難しく，現物や熱意を共有しないと理解に至らない事例が多いためSNSベースの話し合いではなくリアルの話し合い（タスクは個人ベース，直前１回でチームの方針決め+発表資料制作）を行うのが効率良いように感じる．
   </div>
 </div>
 
 
-<div class="panel panel-default">
-  <div class="panel-body">
+<div class="card">
+  <div class="card-body">
 スラックを使わないと、心配されちゃうよ。
   </div>
 </div>
 
-<div class="panel panel-default">
-  <div class="panel-body">
+<div class="card">
+  <div class="card-body">
 インタビュー相手の方が許してくださるなら、最初のインタビューから録音をして、気になった部分だけでも毎回書き起こしをすることが大切だと思いました。メモだと自分の解釈が入ってしまって、だんだんずれてくるからです。インタビューは複数人で聞きに行った方が、共有しやすいです。先生から同様のアドバイスがあると思いますが、発注はとにかく早くにして、どんどん作ってみるべきです。機能も見た目も中途半端だと、ユーザーボイスで得られるフィードバックの質が下がると感じました。
   </div>
 </div>
 
 
-<div class="panel panel-default">
-  <div class="panel-body">
+<div class="card">
+  <div class="card-body">
 いっぱいプロトタイプを作りましょう、いっぱいインタビューしましょう。そこに次のステップにいくための気づきが絶対に秘められているので。
   </div>
 </div>
 
-<div class="panel panel-default">
-  <div class="panel-body">
+<div class="card">
+  <div class="card-body">
 とりあえずモノを作りましょう．先生方からも凄く言われましたが，終わってみてこれに尽きるなと実感してます．しかしきっと来年の受講生も終わってからわかることなのかな...
   </div>
 </div>
 
 
-<div class="panel panel-default">
-  <div class="panel-body">
+<div class="card">
+  <div class="card-body">
 ユーザーインタビューでは今まで存在しなかったコンセプトを提案をする場合は特にユーザーがなかなかイメージしにくいので、できるだけ動くものを持って行くようにして、実際に少しの期間使ってもらったほうがいいと思います。
   </div>
 </div>
 
-<div class="panel panel-default">
-  <div class="panel-body">
+<div class="card">
+  <div class="card-body">
 先生方もおっしゃっていたが，やる気のない人をどう使うかというのは大事だと思った．一方で，やる気のない人に対してイライラするくらいならその時間でアイデアの一つでも考えた方がマシだと思った．テーマが難しい場合，街頭インタビューで得られるのはせいぜい次のインタビューへの質問のヒントや，共働き夫婦の実態（このテーマの場合）くらいだった．事前にアポを取って30分-1時間程度のインタビューを行わないと，深掘りができないと思った．
   </div>
 </div>
 
 
-<div class="panel panel-default">
-  <div class="panel-body">
+<div class="card">
+  <div class="card-body">
 <p>・デザインプロセスは、授業で習ったツールキットを丁寧に使えばちゃんと進めることができます。特にHMWQのあたり「どうすれば…」で、ねじれの関係がない、当たり前なことを書いてしまうことがあります。POVをちゃんと考えることが非常に重要です。</p>
 <p>・プロトタイプはどんどん作るのが大事ですが、最終発表ではないときに作るプロトタイプにクオリティを求めては”いけません”。「別にクオリティ低くてもいい」じゃなくて「雑に作らないといけない」です。要は実際手元にあったときにどんな気持ちになるか分かればいいだけなので、その辺に落ちている段ボールで再現できるならそれで大丈夫です。そこでクオリティを求めても仕事が増えてしまいます。</p>
 <p>・周りにとにかく助けを求めまくるのが大事です。デザイン思考を４，５人で話し合っていると、あっという間に煮詰まりますし、直前期でも平気で１週間くらい溶けます。とにかく色んな人から意見を貰いまくりましょう。考える場面からはとにかく早く抜け出して、作ってテストする段階まで一刻も早く持っていくことが大切です。</p>
@@ -455,21 +455,21 @@ I want to share my experience and give advice especially to non-Japanese speaker
   </div>
 </div>
 
-<div class="panel panel-default">
-  <div class="panel-body">
+<div class="card">
+  <div class="card-body">
 ユーザーインタビューの機会はそんなに取れないというか聞き出し方次第なのである程度固まったらどんな意見が欲しいか、という点も考えてもいいと思う
   </div>
 </div>
 
 
-<div class="panel panel-default">
-  <div class="panel-body">
+<div class="card">
+  <div class="card-body">
 この授業では「自分からやる」という意識を持つことが大事だと思います。「必修だから～」というスタンスで受けていてはつらいだけですし、何より自分が楽しくないと思います。チームのメンバーと協力し合いながら「面白いものを作ってやる」という心持で参加すればきっと最終発表の後に何とも言えない達成感を味わうことができるはずです。頑張ってください！
   </div>
 </div>
 
-<div class="panel panel-default">
-  <div class="panel-body">
+<div class="card">
+  <div class="card-body">
 <p>・グループワークで中々アイデアが出なかったりボツ案が続いたりすると「どうせ思いつかない」というクセがついてしまうことがありました。 どう解消するか、方法はいくらでもあると思うので、まずは「どうせ…」と自分も班員も思ってしまってはいないか、早めに自覚することが大切だと思います。</p>
 <p>・プロトタイプは発表のために作るのではなく、テストのため/アイデアが実際にどう作用するかを知るために作るという意識を忘れずに…</p>
 <p>・行動すること。みんなで議論したり色々と想像を巡らしたりすることはとても楽しいですが、困っている人に会いに行くことや外の人の意見を聞くこと、手を動かしてアイデアをカタチにすることは、想像や議論の何倍もの力を持っている、ということを活動中何度も痛感しました。</p>
@@ -479,34 +479,34 @@ I want to share my experience and give advice especially to non-Japanese speaker
 </div>
 
 
-<div class="panel panel-default">
-  <div class="panel-body">
+<div class="card">
+  <div class="card-body">
 私のチームはチームビルディングがうまくいかず、最後まで人間関係が微妙な感じでした。チームビルディングをうまくいかせるコツは「みんなで」「積極的に」「苦労する」ことだと思います。一緒に苦労する経験はチームの結束力を高めることができると思います。チームビルディングのうまくいっていたチームは授業が終わってからみんなであんなことがあった、その時どうだったなどの内容で盛り上がっていました。「チームビルディングだいじ」これだけは覚えといて授業に臨んだほうがいいと思います。
   </div>
 </div>
 
-<div class="panel panel-default">
-  <div class="panel-body">
+<div class="card">
+  <div class="card-body">
 先生方も同じアドバイスをなさっていますが、ユニークインサイト発見の段階でも、アイディエーションの段階でも、行き詰まったらとにかくプロトタイプの精度はそこそこにユーザーテストに持っていくことが打開のきっかけになると思います。
   </div>
 </div>
 
 
-<div class="panel panel-default">
-  <div class="panel-body">
+<div class="card">
+  <div class="card-body">
 商品企画・開発に限らず、あらゆる仕事に生かせる貴重なエッセンスを学ぶことができると思います。また、座学ではなく体得していくものなので、自ら率先して動くことをオススメします。学生時代にEDPのような経験ができる機会は滅多にないと思います。
   </div>
 </div>
 
-<div class="panel panel-default">
-  <div class="panel-body">
+<div class="card">
+  <div class="card-body">
 もし来年度も昭和女子大学の学生がいるのであれば、これから社会に出る前にぜひ経験するべきだと思いました。チーム活動での大変さを感じることもありますが、何よりチームで１つのことをつくる楽しさを味わえたことが、参加して一番良かったことだと思いました。また、他大学だったり他分野の方との交流ができたことも本当に良かったです。
   </div>
 </div>
 
 
-<div class="panel panel-default">
-  <div class="panel-body">
+<div class="card">
+  <div class="card-body">
 迷走したら、とりあえずなんでも良いからモノを作ってみる。実際に手を使ってモノを作っていく過程で、インスピレーションが湧いたり、方向性がすんなり決まってしまうことが多々あった。正解も不正解もはっきりしない議論を長々するめるよりも、実際にモノを作ってみたほうが、最終的なユーザーが求めるプロダクトとの差異が可視化できて活動を進めやすくなると思う。
   </div>
 </div>
