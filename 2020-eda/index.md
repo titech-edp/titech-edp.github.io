@@ -79,6 +79,8 @@ Outcome:
   * Design Prompt, Skit (based on Storyboard)
   * POV, HMWQ, Product Sketch
 
+<img src="https://cdn.discordapp.com/attachments/759578299264663582/759604118754295839/20200927_113503.jpg" class="img-fluid" alt="Responsive image">
+
 Homework:
 
 * Lightning Talks (2min)
@@ -93,6 +95,11 @@ Homework:
   3. MESH
   4. Machine tools
 
+{% assign images = "https://cdn.discordapp.com/attachments/761570543606300735/761810593107673109/image0.jpg,https://cdn.discordapp.com/attachments/761570543606300735/761810899224231936/image0.jpg,https://cdn.discordapp.com/attachments/761570543606300735/761811011773661204/image0.jpg,https://cdn.discordapp.com/attachments/761570543606300735/761811141072125982/image0.jpg,https://cdn.discordapp.com/attachments/761570543606300735/761811186123538432/image0.jpg" | split: "," %}
+{% for image in images %}
+<img src="{{ image }}" class="img-fluid" alt="Responsive image">
+{% endfor %}
+
 ## [EDA-4] 10/04（Sun）10:00-15:50
 
 * 10:00-12:00: Mini Lectures
@@ -102,3 +109,7 @@ Homework:
 * 12:00-13:30: Lunch
 * 13:30-15:30: (cont.) Mini Lectures
 
+{% assign images = "https://cdn.discordapp.com/attachments/762113050266173490/762121662719197214/image0.jpg, https://cdn.discordapp.com/attachments/762113050266173490/762124954644119572/image0.jpg, https://cdn.discordapp.com/attachments/762113050266173490/762124954983464980/image1.jpg, https://cdn.discordapp.com/attachments/762113050266173490/762194026174349342/image0.jpg" | split: "," %}
+{% for image in images %}
+<img src="{{ image }}" class="img-fluid" alt="Responsive image">
+{% endfor %}
