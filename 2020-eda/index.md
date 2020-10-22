@@ -26,7 +26,7 @@ See Also [Faculty Page](/faculty-team//)
 
 ## Teaching Assistants
 
-* Sho Ai
+* Shota Ai
 * Yuto Shimada
 * Eiki Sawada
 
