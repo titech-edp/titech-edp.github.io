@@ -8,7 +8,4 @@ title: デザイン工房へのアクセス
 - **1Fの玄関はロックされていますので、自動ドア横の電話で呼び出してください。**
 - エレベーターは使用できません。階段で3Fまでお上がりください。
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1R1o3L6ASJEZtTwU1q_zQ3Mu0E0M" width="100%" height="480"></iframe>
-
-
 ![](access-to-design-factory.png)
