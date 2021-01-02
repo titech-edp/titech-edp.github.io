@@ -35,7 +35,7 @@ by Jennifer Mailhot; Mia Silverman; Julie Stanford; Ellen Siminoff
 * Brown, Tim and Barry Kātz. Change by Design: How Design Thinking Transforms Organizations and Inspires Innovation. New York: Harper Business, 2009.
   * 日本語訳：『デザイン思考が世界を変える』
 * Buchanan, Richard. 1992. “Wicked Problems in Design Thinking.” Design Issues 8(2): 5.
-* Di Russo, Stephanie. 2016. “Understanding the behaviour of Design Thinking in complex environments.” http://bit.ly/understanding-design-behavior
+* Di Russo, Stephanie. 2016. “Understanding the behaviour of Design Thinking in complex environments.” <http://bit.ly/understanding-design-behavior>
 
 ## Design and the Creative Process
 * Kelley, David and Tom Kelley. Creative Confidence: Unleashing the Creative Potential Within Us All. New York: Crown Business, 2013.
