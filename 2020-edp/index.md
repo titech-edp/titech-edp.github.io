@@ -296,10 +296,10 @@ AM: プレゼン / PM: グループワーク
 ### 提出物（締切：2/13）
 ファイルの提出先はESDのGoogleDrive（別途指定）
 
-- Slide (Upload the slide to GoogleDrive )
-- Poster (Upload the slide to GoogleDrive )
-- Movie (Upload the file to GoogleDrive AND YouTube)
-- Blog
+- [ ] Slide (Upload the slide to GoogleDrive )
+- [ ] Poster (Upload the slide to GoogleDrive )
+- [ ] Movie (Upload the file to GoogleDrive AND YouTube)
+- [ ] Blog
   - チームの代表者がプレゼンをブログ（EDPのmedium）に再現してください / Team representative re-creates the presentation as a blog post.
   - スライドの画像とそれに対応した原稿（または書き起こし）を投稿してください / Post a number of photos of the slide and presentation-note or transcription.
     - [logmi](https://logmi.jp/) というサイトが参考になると思います。こんな感じで書いてもらうとよさそう。 / For reference, see [logmi](https://logmi.jp/)
@@ -310,8 +310,8 @@ AM: プレゼン / PM: グループワーク
   - 使用した「ポスター」もどこかに入れておいてください（Google Driveとかではなく画像でOK）
   - 各メンバーのふりかえりと他のメンバーへのメッセージを記名入りで最後あたりに入れておいてください（これはプレゼンにはなかったところ） / Make your to include each member's self-reflection and message to other members with writer's name in the last section. (That is not in the presentation)
   - ↓の「ブログの書き方」も参照してください
-- Prototype: デザイン工房の棚へ戻す（チーム名をどこかにメモしておいて）
-- Report: あとで知らせます
+- [ ] Prototype: デザイン工房の棚へ戻す（チーム名をどこかにメモしておいて）
+- [ ] Report: あとで知らせます
 
 ### ブログの書き方 / How to publish your article:
 
