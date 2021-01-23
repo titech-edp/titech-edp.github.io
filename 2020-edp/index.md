@@ -274,9 +274,7 @@ AM: プレゼン / PM: グループワーク
 - 開場：9:00
 - 集合：9:30（出欠取ります）
 - 教員・TA・メンターにプレゼン内容を確認してもらうこと / Make sure to ask faculty, TA, or mentor to confirm the presentation.
-  - 9:40-9:50: Team 2, 8, 4
-  - 9:55-10:05: Team 5, 9, 6
-  - 10:10-10:20: Team 7, 3, 1
+  - [![Image from Gyazo](https://i.gyazo.com/7a67283fabce878df327d836b5bd0a13.png)](https://gyazo.com/7a67283fabce878df327d836b5bd0a13)
   - スライドの提出時間〆切は12:30
 - PC接続確認　（発表の逆順） PC connection test
   - 11:20 YKK AP
