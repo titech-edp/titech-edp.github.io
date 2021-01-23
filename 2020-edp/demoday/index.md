@@ -14,5 +14,6 @@ title: 2020年度「エンジニアリングデザインプロジェクト」最
 
 ## 申し込み
 
-https://titech-edp-2020.peatix.com/
+<https://titech-edp-2020.peatix.com/>
+
 

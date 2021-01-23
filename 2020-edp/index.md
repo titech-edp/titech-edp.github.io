@@ -199,17 +199,128 @@ Project
 
 ## 10/24（Sat）10:00-17:30
 
+AM: プレゼン / PM: グループワーク
+
 ## 11/07（Sat）10:00-17:30
+
+AM: プレゼン / PM: グループワーク
 
 ## 11/21（Sat）10:00-17:30
 
+AM: プレゼン / PM: グループワーク
+
 ## 12/05（Sat）10:00-17:30
+
+AM: プレゼン / PM: グループワーク
 
 ## 12/19（Sat）10:00-17:30
 
+中間発表と評価
+
 ## 01/09（Sat）10:00-15:50
+
+グループワーク
 
 ## 01/23（Sat）10:00-15:50
 
+グループワーク（オンライン）
+
+- 引き続き **5P** を作っていきましょう！
+- 5P: プロトタイプ、ピッチ、プロセスの説明、プロモーションビデオ、ポスター
+- 5P: Prototype, pitch, process, promotion video, poster
+
+以下、各項目についての説明：
+
+### Presentation / Pitch slide
+
+* プレゼンのスライドのタイトルを「Needs」とかにしない → ちゃんと意味のある名前をつけ（「Needs」のままで問題ないところはそのままでいいけど）
+* Aspect ratio: 16:9
+* オンラインだと，スライドの文字を読まない傾向あるので，ビジュア多めに more visual than usual
+* **外部公開するので画像や音声の著作権違反は絶対禁止！／DO NOT infringe a copyright in order to be published**
+
+### 前半の5分：ピッチ / 5 min: pitch
+
+* いつもやってきたやつ as you did before
+* できるだけピッチテンプレートを使ってください▼ use pitch template
+  * [https://titech-edp.github.io/resources/pitch-template/](https://titech-edp.github.io/resources/pitch-template/)
+* POVやHMWQなど「デザイン思考用語」は使わないこと（外部の人にも伝わるように）/ Do not use POV/HMWQ, design thinking terminology
+* タイトルスライドのあとは、すぐにプロトタイプをチラ見せすること（長々と説明を始めてはいけない！）show your prototyope for a short duration right after titile slide.
+* 30秒〜1分程度のPV動画をどこかに挟んでください。 30 sec ~1 min Promotion Video somewhere in your pitch
+* プロトタイプのチラ見せのところがいいかも？ would be nice to show prototype
+
+### 後半の5分：プロセスの説明 / 5 min process
+* 工夫したことやチーム活動で苦労したことを「映画のメイキング」のように「おもしろおかしく」語ってください  tell your making story in a funny way. ※「おもしろおかしく」といってもネタに走るのはダメ。
+* 淡々と事実を語るんじゃなくて、問題をどうやって乗り越えたのか？（あるいは乗り越えられなかったか？）、最終的なプロダクトにたどりつくまでにどのような道のりを歩んできたのか？などを知りたいです. How did you overcome issues? how you did not. Your process to final products
+* こちらはPOVやHMWQなどの用語を使ってもよいです . You can use POV and HMWQ.
+
+### Poster
+* A0：1page
+
+### Promotion Video
+
+* スタビライザー使うと，動画にプロ感出るよ. stabilizer make your video professional
+
+![Image](https://gyazo.com/52e16b54685b135d95f87faee56fadbe/thumb/1000)
+
+### Prototype
+
+* ちゃんとプロトタイプを撮影しよう. Take a good pictuer of prototype
+
+![Image](https://gyazo.com/26c1254be983d6f88ba81ecf3531342e/thumb/1000)
+
+
+### 最終発表会
+
+- 開場：9:00
+- 集合：10:00（出欠取ります）
+- 準備
+- デモブース
+  - 背景の黒布．机の上用の黒布，各１枚配ります a big black fabric for background and a black fabric for a table will be given
+  - 机1~2 台 1~2 tables
+  - カメラ映えを気にしたレイアウトを be aware your booth will be videocasted.
+  - 30分間中継します．最初の５分程度で説明してください．残りの時間は質疑応答します． 30 min videocasted. first 5 min you will have a short presetntation about your prototype
+  - 質疑応答では，最初にパートナー企業代表の方から口頭で質問を受付，その後，オンライン(Sli.do)からのテキスト質問を紹介していきます． In Q&A, a person from your partner company will ask questions orally, then we ask questions from online as text.
+- PC接続確認　（発表の逆順） PC connection test
+  - 10:40 YKK
+  - 10:50 Dream Taka
+  - 11:00 さくら
+  - 11:10 パナ
+- 教員・TA・メンターにプレゼン内容を確認してもらうこと / Make sure to ask faculty, TA, or mentor to confirm the presentation.
+  - プレゼンは事前に誰かに見てもらうとよいので、積極的に声かけてみましょう。 I recommend you to show your presentation slide to other teams/other people/other faculty
+  - 他のチームに発表を見てもらうといいかもね .
+- 最終発表会開始：13:00
+- 発表時間：10 min / チーム
+
+### 提出物（締切：2/13）
+ファイルの提出先はESDのGoogleDrive（別途指定）
+
+- Slide (Upload the slide to GoogleDrive )
+- Poster (Upload the slide to GoogleDrive )
+- Movie (Upload the file to GoogleDrive AND YouTube)
+- Blog
+  - チームの代表者がプレゼンをブログ（EDPのmedium）に再現してください / Team representative re-creates the presentation as a blog post.
+  - スライドの画像とそれに対応した原稿（または書き起こし）を投稿してください / Post a number of photos of the slide and presentation-note or transcription.
+    - [logmi](https://logmi.jp/) というサイトが参考になると思います。こんな感じで書いてもらうとよさそう。 / For reference, see [logmi](https://logmi.jp/)
+    - 2019年度のブログも参考にしてください / Fore reference, see the previous year team's blog
+  - タイトルは`2020年度EDP「《プロダクト名》」《チーム名》`で統一しましょうか（《》記号は不要）
+  - 使用した「動画」もどこかに埋め込んでおいてください（YouTubeのデータをそのまま埋め込む） / Make your to embed the movie somewhere.
+  - 使用した「スライド」もどこかに埋め込んでおいてください（Google Driveをそのまま埋め込む）
+  - 使用した「ポスター」もどこかに入れておいてください（Google Driveとかではなく画像でOK）
+  - 各メンバーのふりかえりと他のメンバーへのメッセージを記名入りで最後あたりに入れておいてください（これはプレゼンにはなかったところ） / Make your to include each member's self-reflection and message to other members with writer's name in the last section. (That is not in the presentation)
+  - ↓の「ブログの書き方」も参照してください
+- Prototype: デザイン工房の棚へ戻す（チーム名をどこかにメモしておいて）
+- Report: あとで知らせます
+
+### ブログの書き方 / How to publish your article:
+
+1. Create an account of Medium.
+2. Notify Kado-sensei of the account. (via Discord or something)
+3. Kado-sensei will add you as a writer of EDP's blog.
+4. Write an article and publish like this: [https://help.medium.com/hc/en-us/articles/213904978-Add-draft-or-post-to-publication](https://help.medium.com/hc/en-us/articles/213904978-Add-draft-or-post-to-publication)
+
 ## 02/06（Sat）13:00-17:30
+
+[最終発表](demoday)
+
+
 
