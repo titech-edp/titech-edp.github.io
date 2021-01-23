@@ -273,7 +273,6 @@ AM: プレゼン / PM: グループワーク
 
 - 開場：9:00
 - 集合：9:30（出欠取ります）
-- 準備
 - デモブース
   - 背景の黒布．机の上用の黒布，各１枚配ります a big black fabric for background and a black fabric for a table will be given
   - 机1~2 台 1~2 tables
@@ -281,14 +280,18 @@ AM: プレゼン / PM: グループワーク
   - 30分間中継します．最初の５分程度で説明してください．残りの時間は質疑応答します． 30 min videocasted. first 5 min you will have a short presetntation about your prototype
   - 質疑応答では，最初にパートナー企業代表の方から口頭で質問を受付，その後，オンライン(Sli.do)からのテキスト質問を紹介していきます． In Q&A, a person from your partner company will ask questions orally, then we ask questions from online as text.
 - PC接続確認　（発表の逆順） PC connection test
-  - 10:40 YKK
-  - 10:50 Dream Taka
-  - 11:00 さくら
-  - 11:10 パナ
+  - 11:20 YKK AP
+  - 11:30 Dream Taka
+  - 11:40 さくらインターネット
+  - 11:50 Panasonic
 - 教員・TA・メンターにプレゼン内容を確認してもらうこと / Make sure to ask faculty, TA, or mentor to confirm the presentation.
-  - プレゼンは事前に誰かに見てもらうとよいので、積極的に声かけてみましょう。 I recommend you to show your presentation slide to other teams/other people/other faculty
-  - 他のチームに発表を見てもらうといいかもね .
+  - 9:40-9:50: Team 2, 8, 4
+  - 9:55-10:05: Team 5, 9, 6
+  - 10:10-10:20: Team 7, 3, 1
+- お昼は適当に！ / Feel free to have a lunch anytime
+- 12:30までに発表・聴講会場に移動 / Move to Hall・Auditory
 - 最終発表会開始：13:00
+  - see [最終発表](demoday)
 - 発表時間：10 min / チーム
 
 ### 提出物（締切：2/13）
