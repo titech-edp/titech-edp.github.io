@@ -273,25 +273,25 @@ AM: プレゼン / PM: グループワーク
 
 - 開場：9:00
 - 集合：9:30（出欠取ります）
-- 教員・TA・メンターにプレゼン内容を確認してもらうこと / Make sure to ask faculty, TA, or mentor to confirm the presentation.
+- [ ] (1) 教員・TA・メンターにプレゼン内容を確認してもらう / Make sure to ask faculty, TA, or mentor to confirm the presentation.
   - [![Image from Gyazo](https://i.gyazo.com/7a67283fabce878df327d836b5bd0a13.png)](https://gyazo.com/7a67283fabce878df327d836b5bd0a13)
   - スライドの提出時間〆切は12:30
-- PC接続確認　（発表の逆順） PC connection test
+- [ ] (2) PC接続確認 （発表の逆順） PC connection test
   - 11:20 YKK AP
   - 11:30 Dream Taka
   - 11:40 さくらインターネット
   - 11:50 Panasonic
-- お昼は適当に！ / Feel free to have a lunch anytime
-- 12:30までに発表・聴講会場に移動 / Move to Hall・Auditory
-- 最終発表会開始：13:00
-  - see [最終発表](demoday)
-  - 発表時間：10 min / チーム
-- デモブースについて
+- [ ]  (3) デモブースの準備
   - 背景の黒布．机の上用の黒布，各１枚配ります a big black fabric for background and a black fabric for a table will be given
   - 机1~2 台 1~2 tables
   - カメラ映えを気にしたレイアウトを be aware your booth will be videocasted.
   - 30分間中継します．最初の５分程度で説明してください．残りの時間は質疑応答します． 30 min videocasted. first 5 min you will have a short presetntation about your prototype
   - 質疑応答では，最初にパートナー企業代表の方から口頭で質問を受付，その後，オンライン(Sli.do)からのテキスト質問を紹介していきます． In Q&A, a person from your partner company will ask questions orally, then we ask questions from online as text.
+- お昼は適当に！ / Feel free to have a lunch anytime
+- 12:30までに発表・聴講会場に移動 / Move to Hall・Auditory
+- 最終発表会開始：13:00
+  - see [最終発表](demoday)
+  - 発表時間：10 min / チーム
 
 ### 提出物（締切：2/13）
 ファイルの提出先はESDのGoogleDrive（別途指定）
