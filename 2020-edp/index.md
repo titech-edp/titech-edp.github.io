@@ -272,7 +272,7 @@ AM: プレゼン / PM: グループワーク
 ### 最終発表会
 
 - 開場：9:00
-- 集合：10:00（出欠取ります）
+- 集合：9:30（出欠取ります）
 - 準備
 - デモブース
   - 背景の黒布．机の上用の黒布，各１枚配ります a big black fabric for background and a black fabric for a table will be given
