@@ -335,5 +335,18 @@ AM: プレゼン / PM: グループワーク
 
 [最終発表](demoday)
 
+# 最終発表
 
+* [2020 – 東京工業大学エンジニアリングデザインプロジェクト – Medium](https://medium.com/titech-eng-and-design/tagged/2020)
 
+# 来年度のEDP受講生へのアドバイス
+
+{% for row in site.data.2020-edp-message %}
+<div class="card">
+  <div class="card-body">
+{% for pair in row %}
+{{ pair[1] | newline_to_br}}
+{% endfor %}
+  </div>
+</div>
+{% endfor %}
