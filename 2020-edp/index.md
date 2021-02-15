@@ -304,7 +304,7 @@ AM: プレゼン / PM: グループワーク
   - see [最終発表](demoday)
   - 発表時間：10 min / チーム
 
-### 提出物（締切：2/13）
+### 提出物（締切：2/14 24:00）
 ファイルの提出先はESDのGoogleDrive（別途指定）
 
 - [ ] Slide (Upload the slide to GoogleDrive )
@@ -317,7 +317,7 @@ AM: プレゼン / PM: グループワーク
     - 2019年度のブログも参考にしてください / Fore reference, see the previous year team's blog
   - タイトルは`2020年度EDP「《プロダクト名》」《チーム名》`で統一しましょうか（《》記号は不要）
   - 使用した「動画」もどこかに埋め込んでおいてください（YouTubeのデータをそのまま埋め込む） / Make your to embed the movie somewhere.
-  - 使用した「スライド」もどこかに埋め込んでおいてください（Google Driveをそのまま埋め込む）
+  - 使用した「スライド」もどこかに埋め込んでおいてください（Google Drive/Slideshare/Speakerdeckをそのまま埋め込む）
   - 使用した「ポスター」もどこかに入れておいてください（Google Driveとかではなく画像でOK）
   - 各メンバーのふりかえりと他のメンバーへのメッセージを記名入りで最後あたりに入れておいてください（これはプレゼンにはなかったところ） / Make your to include each member's self-reflection and message to other members with writer's name in the last section. (That is not in the presentation)
   - ↓の「ブログの書き方」も参照してください
