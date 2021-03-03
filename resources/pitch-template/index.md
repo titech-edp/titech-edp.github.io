@@ -115,7 +115,8 @@ our product has [ unique differentiation ].
 ## Tips for the pitch
 - You should have at most 3 pages per a slide (the title slide must be one page)
 - You can insert the video anywhere you want.
-- You SHOULD NOT use design thinking jargon (ex. POV, HMW, or so)
+- You SHOULD use the format of POV and/or HMWQ, but you SHOULD NOT use design thinking jargon (e.g. POV, HMW, or so) in your presentation.
+  - POVやHMWQのフォーマットは使用すべきですが、デザイン思考の用語（例：POVやHMWQなど）はプレゼンに入れてはいけません。
 - When creating a slide with a team, it is better to make it with something that everyone can edit at the same time, such as Google Slides. In addition, Google Slide looks different fonts if you use different OS, but you can solve it by using Japanese web fonts. Select [Japanese] from the [Other Fonts ...] menu and select the font you want to use. / チームでスライドを作るときは、Googleスライド等みんなで同時編集できるもので作ったほうがよいです。なお、Googleスライドは使用するOSが違うとフォントが違って見えますが、日本語のウェブフォントを使うと解決できます。［その他のフォント...］メニューから［日本語］を選択して、使いたいフォントを選んでください。
 
 
