@@ -17,7 +17,7 @@ title: "東京工業大学エンジニアリングデザインプロジェクト
 email: 
 description: "東京工業大学エンジニアリングデザインプロジェクト"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://edp.esd.titech.ac.jp"  # the base hostname & protocol for your site, e.g. http://example.com
+#url: "https://edp.esd.titech.ac.jp"  # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: /news/:year/:month/:day/
 timezone: Asia/Tokyo
