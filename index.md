@@ -6,24 +6,20 @@ layout: default
 
 <div class="col-md-7">
 
-<h2>ブログ新着記事</h2>
+<h2>デザイン思考の歴史</h2>
+
 <ul>
-{% for i in site.data.medium.payload.references.Post limit: 10 %}
-<li><a href="https://medium.com/titech-eng-and-design/-{{ i[1]['id'] }}">{{ i[1]['title'] }}</a></li>
-{% endfor %}
-</ul>
-
-
-<div class="panel panel-default">
-  <div class="panel-heading">デザイン思考の歴史</div>
-  <div class="panel-body">
-  <ul>
 <li><a href="https://medium.com/titech-eng-and-design/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E6%80%9D%E8%80%83%E3%81%AE%E6%AD%B4%E5%8F%B2-%E7%90%86%E8%AB%96%E3%83%91%E3%83%BC%E3%83%881-e8ef02195fbe">理論パート1</a></li>
 <li><a href="https://medium.com/titech-eng-and-design/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E6%80%9D%E8%80%83%E3%81%AE%E6%AD%B4%E5%8F%B2-%E7%90%86%E8%AB%96%E3%83%91%E3%83%BC%E3%83%882-5b9cb1229064">理論パート2</a></li>
 <li><a href="https://medium.com/titech-eng-and-design/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E6%80%9D%E8%80%83%E3%81%AE%E6%AD%B4%E5%8F%B2-%E3%81%84%E3%81%8B%E3%81%AB%E3%81%97%E3%81%A6%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E6%80%9D%E8%80%83%E3%81%AB-%E3%81%AA%E3%81%A3%E3%81%9F-%E3%81%AE%E3%81%8B-9949a1b79c79">いかにしてデザイン思考に「なった」のか</a></li>
-  </ul>
-  </div>
-</div>
+</ul>
+
+<h2>2021年度</h2>
+<ul>
+<li><a href="/2021-dtf/">デザイン思考基礎</a></li>
+<li><a href="/2021-eda/">エンジニアリングデザイン応用</a></li>
+<li><a href="/2021-edp/">エンジニアリングデザインプロジェクト</a></li>
+</ul>
 
 <h2>2020年度</h2>
 <ul>
