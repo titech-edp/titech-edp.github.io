@@ -4,6 +4,10 @@ title: 2021 デザイン思考基礎
 tags: [lecture]
 ---
 
+# スケジュール
+
+[![Image from Gyazo](https://i.gyazo.com/327844f8c925bc229a42df256230234b.png)](https://gyazo.com/327844f8c925bc229a42df256230234b)
+
 # テーマ
 
 Design an experience that makes people get friendly without eating and/or drinking together.
