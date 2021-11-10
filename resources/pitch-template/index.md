@@ -63,7 +63,7 @@ our product has [ unique differentiation ].
 
 ## Slide5: Solution
 - Features and Specifications.
-- Describe the concrete benefits (especially user experience rather than product itself) you provide. 
+- Describe the concrete benefits (especially user experience rather than product itself) you provide.
 - What are your differentiating factors?
 
 ### 🔨 toolkit
