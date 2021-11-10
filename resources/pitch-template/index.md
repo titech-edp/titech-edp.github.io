@@ -92,7 +92,7 @@ our product has [ unique differentiation ].
 
 
 
-## Slide6: Voice of User
+## Slide7: Voice of User
 - How much does it solve the problem? Give us some evidences.
 
 ### 🔨 toolkit
@@ -102,13 +102,13 @@ our product has [ unique differentiation ].
 
 * [ ] Are there any data that supports your success (e.g. the result of user test). / 成功を裏付けるデータ（ユーザーテストの結果など）はありますか？
 
-## Slide7: Future Work
+## Slide8: Future Work
 - Do you have any future plan?
 
 ### 🔨 toolkit
 - [9-window tool](/toolkit/9-window-tool.pdf)
 
-## Slide8: Ending and Call To Action
+## Slide9: Ending and Call To Action
 - Photo of your prototype (again).
 - What do you want the audience to do next?
 - **DO NOT end with just "Thank you" slide.**
