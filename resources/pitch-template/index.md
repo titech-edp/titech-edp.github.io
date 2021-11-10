@@ -70,7 +70,6 @@ our product has [ unique differentiation ].
 - [Idea Rader](/tookit/idea-rader.pdf)
 - [Product Sketch](/toolkit/product-sketch.pdf) / [プロダクトスケッチ](/toolkit/product-sketch_ja.pdf)
 - [Competitive Positioning Map](/toolkit/competitive-positioning-map.pdf)
-- [Storyboard](/toolkit/storyboard.pdf) / [ストーリーボード](/toolkit/storyboard_ja.pdf)
 
 ### ✔️ checklist
 
