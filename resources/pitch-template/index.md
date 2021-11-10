@@ -67,7 +67,6 @@ our product has [ unique differentiation ].
 - What are your differentiating factors?
 
 ### 🔨 toolkit
-- [Idea Rader](/tookit/idea-rader.pdf)
 - [Product Sketch](/toolkit/product-sketch.pdf) / [プロダクトスケッチ](/toolkit/product-sketch_ja.pdf)
 - [Competitive Positioning Map](/toolkit/competitive-positioning-map.pdf)
 
