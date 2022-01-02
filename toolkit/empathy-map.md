@@ -79,7 +79,7 @@ title: Empathy Map / 共感マップ
 
 ## 7. What do they THINK & FEEL?
 
-彼らは何を「考え」ているか？何を「感じて」いるか？
+彼らは何を「考え」ているか？何を「感じ」ているか？
 
 * PAINS（苦痛）
   * What are their fears, frustrations, and anxieties?
