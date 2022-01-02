@@ -51,7 +51,7 @@ title: Empathy Map / 共感マップ
 * What have we heard them say?
   * 彼らは何と言っていたか？
 * What can we imagine them saying?
-  * 彼らは何と言っているかか？（想像）
+  * 彼らは何と言っているか？（想像）
 
 ## 5. What do they DO?
 
