@@ -9,7 +9,7 @@ title: EDP Toolkit
 
 - a. Observation: [AEIOU Summary](aeiou.pdf)
 - b. Interview: [User Research Questions](user-research-questions.pdf) / [ユーザーリサーチに使える質問](user-research-questions_ja.pdf)
-- c. Role Playing: [Empathy Mapping Canvas](https://gamestorming.com/wp-content/uploads/2017/07/Empathy-Map-Canvas-006.pdf)
+- c. Role Playing: [Empathy Map](empathy-map)
 - d. Case Study Analysis: [Competitive Positioning Map](competitive-positioning-map.pdf)
 - e. Trend Analysis: [9-window tool](9-window-tool.pdf)
 

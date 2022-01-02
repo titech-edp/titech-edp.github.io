@@ -93,3 +93,6 @@ title: Empathy Map / 共感マップ
 
 * <https://xplane.com/worksheets/empathy-map-worksheet/>
 * <https://xplane.com/the-empathy-map-a-human-centered-tool-for-understanding-how-your-audience-thinks/>
+* Old Versions:
+  * <https://medium.com/the-xplane-collection/updated-empathy-map-canvas-46df22df3c8a>
+  * <https://gamestorming.com/wp-content/uploads/2017/07/Empathy-Map-Canvas-006.pdf>
