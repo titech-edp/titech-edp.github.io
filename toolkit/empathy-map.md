@@ -49,7 +49,7 @@ title: Empathy Map / 共感マップ
 彼らは何を「言って」いるのか？
 
 * What have we heard them say?
-  * 彼らは何を言っているのか？
+  * 彼らは何と言っていたか？
 * What can we imagine them saying?
   * 彼らが何を言うかを想像できるか？
 
