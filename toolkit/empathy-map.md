@@ -10,7 +10,7 @@ title: Empathy Map / 共感マップ
 私たちは「誰に」共感しているのか？
 
 * Who is the person we want to understand?
-  * 私たちが理解したいと思っている人は誰ですか？
+  * 私たちが理解したいと思っている人は誰か？
 * What is the situation they are in?
   * 彼らが置かれている状況は？
 * What is their role in the situation?
@@ -49,37 +49,37 @@ title: Empathy Map / 共感マップ
 彼らは何を「言って」いるのか？
 
 * What have we heard them say?
-  * 彼らは何を言っていますか？
+  * 彼らは何を言っているのか？
 * What can we imagine them saying?
-  * 彼らが何を言うかを想像できますか？
+  * 彼らが何を言うかを想像できるか？
 
 ## 5. What do they DO?
 
 彼らは何を「している」のか？
 
 * What do they do today?
-  * 彼らは現在何をしているでしょうか？
+  * 彼らは現在何をしているのか？
 * What behavior have we observed?
-  * 彼らのどのような行動を観察できましたか？
+  * 彼らのどのような行動を観察できたか？
 * What can we imagine them doing?
-  * 彼らが何をするかを想像できますか？
+  * 彼らが何をするかを想像できるか？
 
 ## 6. What do they HEAR?
 
 彼らは何を「聞いて」いるのか？
 
 * What are they hearing others say?
-  * 彼らは他人が何を言っているのを聞いていますか？
+  * 彼らは他人が何を言っているのを聞いているのか？
 * What are they hearing from friends?
-  * 彼らは友人から何を聞いていますか？
+  * 彼らは友人から何を聞いているのか？
 * What are they hearing from colleagues?
-  * 彼らは同僚から何を聞いていますか？
+  * 彼らは同僚から何を聞いているのか？
 * What are they hearing second-hand?
-  * 彼らは人づてに何を聞いていますか？
+  * 彼らは人づてに何を聞いているのか？
 
 ## 7. What do they THINK & FEEL?
 
-彼らは何を「考え」ているか？何を「感じ」ているか？
+彼らは何を「考え」ているのか？何を「感じ」ているのか？
 
 * PAINS（苦痛）
   * What are their fears, frustrations, and anxieties?
