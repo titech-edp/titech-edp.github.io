@@ -42,7 +42,7 @@ title: Empathy Map / 共感マップ
 * What do they see others doing?
   * 彼らは他人が何をしているのを見ているのか？
 * What are they watching and reading?
-  * 彼らは何を見ているのか？何を読んでいるのか？
+  * 彼らは何を観ているのか？何を読んでいるのか？
 
 ## 4. What are they SAYING?
 
