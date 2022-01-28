@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 教員チームの紹介
+redirect_to: https://edp.esd.titech.ac.jp/faculty/
 ---
 
 <div class="row">

@@ -21,7 +21,7 @@ title: Empathy Map / 共感マップ
 彼らに何を「してもらいたい」のか？
 
 * What do they need to do differently?
-  * 彼らは何を違った方法で行う必要があるのか？
+  * 彼らは何を変える必要があるのか？
 * What job(s) do they want or need to get done?
   * 彼らはどのようなジョブをしたいのか？/しなければならないのか？
 * What decision(s) do they need to make?
@@ -87,7 +87,8 @@ title: Empathy Map / 共感マップ
 * GAINS（利得）
   * What are their wants, needs, hopes and dreams?
   * 彼らの欲求、ニーズ、希望、夢は何か？
-
+* What other thoughts & feelings might motivate their behavior?
+  * 彼らの行動の動機となっている思考や感情は何か？
 
 ## References
 
