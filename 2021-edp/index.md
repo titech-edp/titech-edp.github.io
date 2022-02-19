@@ -71,7 +71,10 @@ tags: [lecture]
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftitech.cbec%2Fposts%2F324936612977064&show_text=true&width=500" width="500" height="799" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
+<a id="message" />
+
 # 来年度のEDP受講生へのアドバイス
+
 
 {% for row in site.data.2021-edp-message %}
 <div class="card">
