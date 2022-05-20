@@ -12,7 +12,7 @@ tags: [lecture]
 
 * Motoki MORITANI
 * Rin ITO
-* Yuta SUKA
+* Yuya SUKA
 * Mayu Narukawa
 * かしまりかこ
 
