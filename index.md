@@ -6,6 +6,8 @@ layout: default
 
 <div class="col-md-7">
 
+Moved to: <https://edp.esd.titech.ac.jp/>
+
 <h2>デザイン思考の歴史</h2>
 
 <ul>
