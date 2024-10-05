@@ -6,7 +6,9 @@ layout: default
 
 <div class="col-md-7">
 
+<div class="alert alert-danger" role="alert">
 Moved to: <a href="https://edp.esd.titech.ac.jp/">https://edp.esd.titech.ac.jp/</a>
+</div>
 
 <h2>デザイン思考の歴史</h2>
 
